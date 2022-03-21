@@ -144,6 +144,14 @@ function main() {
 
         municipioByPoloList = [];
 
+
+        let totalOption = document.createElement("option");
+                    totalOption.value = "Total";
+                    totalOption.textContent = "Total";
+                    datalistMunicipios.appendChild(totalOption);
+        
+        
+
         municipios.forEach( municipio => {
                 if (municipio.polo_id == foundPoloId){
                     let option = document.createElement("option");
@@ -226,6 +234,9 @@ function main() {
        let municipio = inputMuni.value;
        
        updateIndicador(municipio);
+       if(inputMuni.value === "Total") {
+        updateIndicadorByPolo ();
+    }
     
     })
 
