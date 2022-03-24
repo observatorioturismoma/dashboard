@@ -122,22 +122,8 @@ function main() {
     "prestServInfra",
     "restBarCafe",
     "transpTur"]    
-
-    ////////////////////// populate municipios list
     
     const datalistMunicipios = document.querySelector("#municipios");
-
-    function populateAllMuni() {
-        
-        municipios.forEach( municipio => {
-            let option = document.createElement("option");
-            option.value = municipio.municipio_nome;
-            option.textContent = municipio.municipio_nome;
-            datalistMunicipios.appendChild(option);
-        });
-    }
-
-    populateAllMuni();
     
     ///////////////////// populate polos list
 
@@ -155,32 +141,41 @@ function main() {
 
 
     function getPoloIDFromName(poloName) {
-
-        let foundPoloId = "";
-        polos.forEach(polo => {
-            if (poloName === polo.polo_name) {
-                 foundPoloId = polo.polo_id;
-            }
-        })
-
-        return foundPoloId;
+        let poloID = "";
+        if(poloName == "Estado") {
+            return "Estado";
+        } else {
+            
+            polos.forEach(polo => {
+                if (poloName === polo.polo_name) {
+                    poloID = polo.polo_id;
+                    
+                }
+            });
+        }
+        return poloID;
     }
 
     function updateMunicipioByPoloList () {
-
 
         let selectedPolo = inputPolo.value;
 
         municipioByPoloList = [];
 
         let foundPoloID = getPoloIDFromName(selectedPolo);
-
-        municipios.forEach( municipio => {
-            if (municipio.polo_id == foundPoloID){
-                municipioByPoloList.push(municipio.municipio_nome);
-            }
-        })
+        console.log(foundPoloID);
         
+        if (foundPoloID == "Estado"){
+            municipios.forEach( municipio => {
+                municipioByPoloList.push(municipio.municipio_nome);
+            });
+        } else {            
+            municipios.forEach( municipio => {
+                if (municipio.polo_id == foundPoloID){
+                    municipioByPoloList.push(municipio.municipio_nome);
+                }
+            });
+        }        
     }
 
 
@@ -203,6 +198,7 @@ function main() {
         }
         updateIndicadorByPolo();
     }
+    
     
     /////////////// Update each indicador
 
@@ -228,6 +224,7 @@ function main() {
             }
         }
     }
+    
     
     ////////////////// remove child nodes
     // we use this to repopulate select tags appropriately
@@ -265,8 +262,6 @@ function main() {
         cleanPolo();
         updateIndicador(null);
     });
-        
-    let filtro = "";
 
     inputMuni.addEventListener("change", () => {
        let municipio = inputMuni.value;
@@ -284,7 +279,8 @@ function main() {
         setFilters();
     
     })
-    
+    populateMunicipioByPolo();
+
     inputPolo.addEventListener("change", () => {
         
         cleanMuni();
@@ -560,7 +556,7 @@ function main() {
         console.log(getFilterMSG());
     }
 
-    setFilters();    
+    setFilters();
     
     function getFilterMSG() {
         let filterMSG = "Resultados: ";
