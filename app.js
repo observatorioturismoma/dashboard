@@ -248,21 +248,6 @@ function main() {
         inputPolo.value = "";
     }
 
-
-    const closeBtnMuni = document.querySelector(".close-btn-muni");
-    closeBtnMuni.addEventListener("click", () => {
-        cleanMuni();
-        updateIndicador(null);
-    });
-
-    const closeBtnPolo = document.querySelector(".close-btn-polo");
-    closeBtnPolo.addEventListener("click", () => {
-        populateAllMuni();
-        cleanMuni();
-        cleanPolo();
-        updateIndicador(null);
-    });
-
     inputMuni.addEventListener("change", () => {
        let municipio = inputMuni.value;
        
@@ -275,7 +260,6 @@ function main() {
             municipioByPoloList = [];
             municipioByPoloList.push(municipio);
         }
-
         setFilters();
     
     })
@@ -285,11 +269,9 @@ function main() {
         
         cleanMuni();
         populateMunicipioByPolo();
-
         setFilters();
         
     })
-
 
     ///////// Count indicador
     // this function counts each indicador and returns the result to updateIndicador later on
