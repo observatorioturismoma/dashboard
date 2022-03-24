@@ -153,32 +153,54 @@ function main() {
 
     let municipioByPoloList = [];
 
-    function populateMunicipioByPolo (selectedPolo) {
 
-        deleteAllChildren(); // begin by clearing out all children in the select input tag
+    function getPoloIDFromName(poloName) {
+
         let foundPoloId = "";
         polos.forEach(polo => {
-            if (selectedPolo === polo.polo_name) {
+            if (poloName === polo.polo_name) {
                  foundPoloId = polo.polo_id;
             }
         })
 
+        return foundPoloId;
+    }
+
+    function updateMunicipioByPoloList () {
+
+
+        let selectedPolo = inputPolo.value;
+
         municipioByPoloList = [];
 
+        let foundPoloID = getPoloIDFromName(selectedPolo);
+
+        municipios.forEach( municipio => {
+            if (municipio.polo_id == foundPoloID){
+                municipioByPoloList.push(municipio.municipio_nome);
+            }
+        })
+        
+    }
+
+
+    function populateMunicipioByPolo () {
+
+        deleteAllChildren(); // begin by clearing out all children in the select input tag
+
+        updateMunicipioByPoloList();
+
         let totalOption = document.createElement("option");
-        totalOption.value = "Todos";
+        totalOption.value = "Todos os Municípios";
         totalOption.textContent = "Todos os Municípios";
         datalistMunicipios.appendChild(totalOption);
 
-        municipios.forEach( municipio => {
-                if (municipio.polo_id == foundPoloId){
-                    let option = document.createElement("option");
-                    option.value = municipio.municipio_nome;
-                    option.textContent = municipio.municipio_nome;
-                    municipioByPoloList.push(municipio.municipio_nome); //using this loop to populate a list and calculate total sum of individual counts
-                    datalistMunicipios.appendChild(option);
-                }
-            })
+        for(let municipio of municipioByPoloList) {
+                let option = document.createElement("option");
+                option.value = municipio;
+                option.textContent = municipio;
+                datalistMunicipios.appendChild(option);
+        }
         updateIndicadorByPolo();
     }
     
@@ -251,8 +273,12 @@ function main() {
        
        updateIndicador(municipio);
 
-       if(inputMuni.value === "Total") {
-        updateIndicadorByPolo();
+        if(municipio === "Todos os Municípios") {
+            updateMunicipioByPoloList();
+            updateIndicadorByPolo();
+        } else {
+            municipioByPoloList = [];
+            municipioByPoloList.push(municipio);
         }
 
         setFilters();
@@ -260,9 +286,9 @@ function main() {
     })
     
     inputPolo.addEventListener("change", () => {
-        let polo = inputPolo.value;
+        
         cleanMuni();
-        populateMunicipioByPolo(polo);
+        populateMunicipioByPolo();
 
         setFilters();
         
@@ -311,63 +337,87 @@ function main() {
         // console.log(inputPolo.value);
         // console.log(inputMuni.value);
 
+        const fonteSegmentada = segmentarArquivosJSON(municipioByPoloList);
+
+        let indicadorSelecionado = "";
+
+        for(let fonte of fonteSegmentada) {
+            if(indicador === fonte["Nome do Indicador"]) {
+                indicadorSelecionado = fonte;
+            }
+        }
+        
+        console.log(fonteSegmentada);
+        console.log(indicadorSelecionado);
+
         backgroundDiv.insertBefore(backBtn, elemH1);
         elemH1.textContent = titulo;
         toggleSelectorAndIndicadores();
         const entriesContainer = document.createElement("div");
         entriesContainer.classList.add("entries-container");
 
-        if (indicador == "guiaPF") {
-            for(let i = 0; i < eval(indicador).length; i++){
-                let entryDiv = document.createElement("div");
-                let entryTitle = document.createElement("h4");
-                let entryNumber = document.createElement("span");
-                let entryEmail = document.createElement("span");
-                let entryWebsite = document.createElement("span");
+        const filterMSGContainer = document.createElement("div");
+        filterMSGContainer.classList.add("filter-div");
+        const filterMSGElem = document.createElement("p");
+        filterMSGElem.textContent = getFilterMSG();
+        filterMSGContainer.appendChild(filterMSGElem);
+        entriesContainer.appendChild(filterMSGContainer);
 
-                entryTitle.textContent = eval(indicador)[i]["Nome Completo"];
-                entryNumber.textContent = `Telefone: ${eval(indicador)[i]["Telefone"]};`
-                entryEmail.textContent = `Email: ${eval(indicador)[i]["E-mail Alternativo/Comercial"]}`;
-                entryWebsite.textContent = `Website: ${eval(indicador)[i]["Website"]}`;
+        
+            if(indicadorSelecionado["Nome do Indicador"] == "guiaPF") {
 
-                entryDiv.appendChild(entryTitle);
-                entryDiv.appendChild(entryNumber);
-                entryDiv.appendChild(entryEmail);
-                entryDiv.appendChild(entryWebsite);
+                for(let i = 0; i < indicadorSelecionado.Entradas.length; i++){
+                    let entryDiv = document.createElement("div");
+                    let entryTitle = document.createElement("h4");
+                    let entryNumber = document.createElement("span");
+                    let entryEmail = document.createElement("span");
+                    let entryWebsite = document.createElement("span");
+    
+                    entryTitle.textContent = indicadorSelecionado.Entradas[i]["Nome Completo"];
+                    entryNumber.textContent = `Telefone: ${indicadorSelecionado.Entradas[i]["Telefone"]};`
+                    entryEmail.textContent = `Email: ${indicadorSelecionado.Entradas[i]["E-mail Alternativo/Comercial"]}`;
+                    entryWebsite.textContent = `Website: ${indicadorSelecionado.Entradas[i]["Website"]}`;
+    
+                    entryDiv.appendChild(entryTitle);
+                    entryDiv.appendChild(entryNumber);
+                    entryDiv.appendChild(entryEmail);
+                    entryDiv.appendChild(entryWebsite);
+    
+                    entryDiv.classList.add("card");
+                    entryDiv.classList.add("flex-item");
+    
+                    entriesContainer.appendChild(entryDiv);
+                }
 
-                entryDiv.classList.add("card");
-                entryDiv.classList.add("flex-item");
-
-                entriesContainer.appendChild(entryDiv);
+            } else {
+                for(let i = 0; i < indicadorSelecionado.Entradas.length; i++){
+                    let entryDiv = document.createElement("div");
+                    let entryTitle = document.createElement("h4");
+                    let entryNumber = document.createElement("span");
+                    let entryAddress = document.createElement("span");
+                    let entryEmail = document.createElement("span");
+                    let entryWebsite = document.createElement("span");
+    
+                    entryTitle.textContent = indicadorSelecionado.Entradas[i]["Nome Fantasia"];
+                    entryNumber.textContent = `Telefone: ${indicadorSelecionado.Entradas[i]["Telefone Comercial"]};`
+                    entryAddress.textContent = `Endereço: ${indicadorSelecionado.Entradas[i]["Endereço Completo Comercial"]}`;
+                    entryEmail.textContent = `Email: ${indicadorSelecionado.Entradas[i]["E-mail Comercial"]}`;
+                    entryWebsite.textContent = `Website: ${indicadorSelecionado.Entradas[i]["Website"]}`;
+    
+                    entryDiv.appendChild(entryTitle);
+                    entryDiv.appendChild(entryAddress);
+                    entryDiv.appendChild(entryNumber);
+                    entryDiv.appendChild(entryEmail);
+                    entryDiv.appendChild(entryWebsite);
+    
+                    entryDiv.classList.add("card");
+                    entryDiv.classList.add("flex-item");
+    
+                    entriesContainer.appendChild(entryDiv);                
+                }
             }
-        } else {
-            for(let i = 0; i < eval(indicador).length; i++){
+        
 
-                let entryDiv = document.createElement("div");
-                let entryTitle = document.createElement("h4");
-                let entryNumber = document.createElement("span");
-                let entryAddress = document.createElement("span");
-                let entryEmail = document.createElement("span");
-                let entryWebsite = document.createElement("span");
-
-                entryTitle.textContent = eval(indicador)[i]["Nome Fantasia"];
-                entryNumber.textContent = `Telefone: ${eval(indicador)[i]["Telefone Comercial"]};`
-                entryAddress.textContent = `Endereço: ${eval(indicador)[i]["Endereço Completo Comercial"]}`;
-                entryEmail.textContent = `Email: ${eval(indicador)[i]["E-mail Comercial"]}`;
-                entryWebsite.textContent = `Website: ${eval(indicador)[i]["Website"]}`;
-
-                entryDiv.appendChild(entryTitle);
-                entryDiv.appendChild(entryAddress);
-                entryDiv.appendChild(entryNumber);
-                entryDiv.appendChild(entryEmail);
-                entryDiv.appendChild(entryWebsite);
-
-                entryDiv.classList.add("card");
-                entryDiv.classList.add("flex-item");
-
-                entriesContainer.appendChild(entryDiv);                
-            }
-        }
         backgroundDiv.appendChild(entriesContainer);
     }
 
@@ -507,17 +557,17 @@ function main() {
         filtroLocal = inputMuni.value;
         filtroRegional = inputPolo.value;
 
-        console.log(setFilterMSG());
+        console.log(getFilterMSG());
     }
-    setFilters();
+
+    setFilters();    
     
-    
-    function setFilterMSG() {
+    function getFilterMSG() {
         let filterMSG = "Resultados: ";
 
-        if (filtroRegional === "Estado" && filtroLocal === "Todos") {
+        if (filtroRegional === "Estado" && filtroLocal === "Todos os Municípios") {
             filterMSG += "todo o Maranhão";
-        } else if (filtroRegional !== "Estado" && filtroLocal === "Todos") {
+        } else if (filtroRegional !== "Estado" && filtroLocal === "Todos os Municípios") {
             filterMSG += filtroRegional;
         } else {
             filterMSG += filtroLocal;
@@ -526,25 +576,26 @@ function main() {
         return filterMSG;
     }    
     
-    function segmentarArquivosJSON(municipio) {
+    function segmentarArquivosJSON(arrayOfMunicipios) {
 
         const dadosSegmentados = [];
 
         for(let indicador of indicadores) {
             const indicadorSegmentado = {                
-                    "Nome do Indicador": indicador,
-                    "Entradas": []                
+                "Nome do Indicador": indicador,
+                "Entradas": []
             }
             for(let i = 0; i < eval(indicador).length; i++){
-                if(municipio === eval(indicador)[i]["Município"]) {                    
-                    indicadorSegmentado.Entradas.push(eval(indicador)[i]);
-                }
+                arrayOfMunicipios.forEach( municipio => {
+                    if(municipio === eval(indicador)[i]["Município"]) {                    
+                        indicadorSegmentado.Entradas.push(eval(indicador)[i]);
+                    }
+                })
+                
             }
             dadosSegmentados.push(indicadorSegmentado);
         }
         return dadosSegmentados;
-    }
-    
-    console.log(segmentarArquivosJSON("São Luís"));
+    }   
 
 }

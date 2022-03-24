@@ -181,6 +181,11 @@ a {
     color:rgb(255, 255, 255);
 }
 
+.filter-div {
+    display: block;
+    width: 90%;
+}
+
 
 @media (max-width: 600px) {
     .background {
