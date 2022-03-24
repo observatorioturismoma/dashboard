@@ -99,17 +99,34 @@ Promise.all([promiseMunicipios,
 
 });
 
-setTimeout(main, 1000);
+// Having fetched all information from the JSON files, now we begin working with them
 
+setTimeout(main, 1000); // 1 sec timeout to allow info be fetched
 
 function main() {
 
-    
+
+    let indicadores = ["agencias", //this array will be used to dynamically count values and insert them into indicadores
+    "acampamentos",
+    "casasEsp",
+    "centroConven",
+    "empreenApoio",
+    "empreenEntreteni",
+    "guiaMEI",
+    "guiaPF",
+    "locadoraVeiculo",
+    "meioHosp",
+    "organiEvent",
+    "parqueTema",
+    "prestEsp",
+    "prestServInfra",
+    "restBarCafe",
+    "transpTur"]    
 
     ////////////////////// populate municipios list
     
     const datalistMunicipios = document.querySelector("#municipios");
-    
+
     function populateAllMuni() {
         
         municipios.forEach( municipio => {
@@ -119,8 +136,9 @@ function main() {
             datalistMunicipios.appendChild(option);
         });
     }
-    populateAllMuni();
 
+    populateAllMuni();
+    
     ///////////////////// populate polos list
 
     const datalistPolos = document.querySelector("#polos");
@@ -132,25 +150,25 @@ function main() {
     });
 
     /////////////////// populate with municipios by polo
-    function populateMunicipioByPolo (poloX) {
 
-        deleteAllChildren();
+    let municipioByPoloList = [];
+
+    function populateMunicipioByPolo (selectedPolo) {
+
+        deleteAllChildren(); // begin by clearing out all children in the select input tag
         let foundPoloId = "";
         polos.forEach(polo => {
-            if (poloX === polo.polo_name) {
+            if (selectedPolo === polo.polo_name) {
                  foundPoloId = polo.polo_id;
             }
         })
 
         municipioByPoloList = [];
 
-
         let totalOption = document.createElement("option");
-                    totalOption.value = "Total";
-                    totalOption.textContent = "Total";
-                    datalistMunicipios.appendChild(totalOption);
-        
-        
+        totalOption.value = "Todos";
+        totalOption.textContent = "Todos os Municípios";
+        datalistMunicipios.appendChild(totalOption);
 
         municipios.forEach( municipio => {
                 if (municipio.polo_id == foundPoloId){
@@ -159,44 +177,42 @@ function main() {
                     option.textContent = municipio.municipio_nome;
                     municipioByPoloList.push(municipio.municipio_nome); //using this loop to populate a list and calculate total sum of individual counts
                     datalistMunicipios.appendChild(option);
-
                 }
             })
         updateIndicadorByPolo();
-        
     }
     
-    let municipioByPoloList = [];
+    /////////////// Update each indicador
+
+    // using the push method from the populateMunicipioByPolo() we can now calculate individually
 
     function updateIndicadorByPolo () {
 
         let totalCount = 0;
-        
-       
-            for (let indicador of indicadores) {
+
+        for (let indicador of indicadores) {
+            
+            totalCount = 0;
+            
+            for(let municipio of municipioByPoloList) {  
+                let indicadorSelected = document.querySelector(`#${indicador}`);
                 
-                totalCount = 0;
-                
-                for(let municipio of municipioByPoloList) {  
-                    let indicadorSelected = document.querySelector(`#${indicador}`);
-                    
-                    if (municipio == null){
-                        indicadorSelected.value = "-";
-                    } else {
-                        totalCount += countIndicador(municipio, indicador);
-                        indicadorSelected.value = totalCount;
-                    }
+                if (municipio == null){
+                    indicadorSelected.value = "-";
+                } else {
+                    totalCount += countIndicador(municipio, indicador);
+                    indicadorSelected.value = totalCount;
+                }
             }
-       }
+        }
     }
     
-
-
-    ////////////////// remove child nodes 
+    ////////////////// remove child nodes
+    // we use this to repopulate select tags appropriately
+    
     function deleteAllChildren() {
         
-        //e.firstElementChild can be used.
-        var child = datalistMunicipios.lastElementChild; 
+        let child = datalistMunicipios.lastElementChild; 
         while (child) {
             datalistMunicipios.removeChild(child);
             child = datalistMunicipios.lastElementChild;
@@ -205,10 +221,9 @@ function main() {
     
     const inputPolo = document.querySelector("#polos");
     const inputMuni = document.querySelector("#municipios");
-    
 
     function cleanMuni () {
-        inputMuni.value = "";
+        inputMuni.value = "";        
     }
     function cleanPolo () {
         inputPolo.value = "";
@@ -229,35 +244,33 @@ function main() {
         updateIndicador(null);
     });
         
+    let filtro = "";
 
     inputMuni.addEventListener("change", () => {
        let municipio = inputMuni.value;
        
        updateIndicador(municipio);
+
        if(inputMuni.value === "Total") {
-        updateIndicadorByPolo ();
-    }
+        updateIndicadorByPolo();
+        }
+
+        setFilters();
     
     })
-
-
-
-
-
     
-
     inputPolo.addEventListener("change", () => {
         let polo = inputPolo.value;
         cleanMuni();
         populateMunicipioByPolo(polo);
+
+        setFilters();
         
     })
 
-    
 
-
-
-
+    ///////// Count indicador
+    // this function counts each indicador and returns the result to updateIndicador later on
 
     function countIndicador(municipio, indicador) {
         
@@ -269,6 +282,10 @@ function main() {
         });
         return count;
     }
+
+    //////// Update Indicador
+    // after counting the indicadores from countIndicador, we dynamically set the values for each of them
+
     function updateIndicador(municipio) {
         for (let indicador of indicadores) {
             let indicadorSelected = document.querySelector(`#${indicador}`);
@@ -280,22 +297,7 @@ function main() {
         }
     }
 
-    let indicadores = ["agencias",
-    "acampamentos",
-    "casasEsp",
-    "centroConven",
-    "empreenApoio",
-    "empreenEntreteni",
-    "guiaMEI",
-    "guiaPF",
-    "locadoraVeiculo",
-    "meioHosp",
-    "organiEvent",
-    "parqueTema",
-    "prestEsp",
-    "prestServInfra",
-    "restBarCafe",
-    "transpTur"]
+
 
     const elemH1 = document.querySelector("h1");
     const backgroundDiv = document.querySelector(".background");
@@ -306,43 +308,39 @@ function main() {
 
     function generateCardsFromIndicador(indicador, titulo) {
 
-        
+        // console.log(inputPolo.value);
+        // console.log(inputMuni.value);
+
         backgroundDiv.insertBefore(backBtn, elemH1);
-
         elemH1.textContent = titulo;
-
         toggleSelectorAndIndicadores();
-
         const entriesContainer = document.createElement("div");
-        
-
         entriesContainer.classList.add("entries-container");
 
         if (indicador == "guiaPF") {
             for(let i = 0; i < eval(indicador).length; i++){
-            let entryDiv = document.createElement("div");
-            let entryTitle = document.createElement("h4");
-            let entryNumber = document.createElement("span");
-            let entryEmail = document.createElement("span");
-            let entryWebsite = document.createElement("span");
+                let entryDiv = document.createElement("div");
+                let entryTitle = document.createElement("h4");
+                let entryNumber = document.createElement("span");
+                let entryEmail = document.createElement("span");
+                let entryWebsite = document.createElement("span");
 
-            entryTitle.textContent = eval(indicador)[i]["Nome Completo"];
-            entryNumber.textContent = `Telefone: ${eval(indicador)[i]["Telefone"]};`
-            entryEmail.textContent = `Email: ${eval(indicador)[i]["E-mail Alternativo/Comercial"]}`;
-            entryWebsite.textContent = `Website: ${eval(indicador)[i]["Website"]}`;
+                entryTitle.textContent = eval(indicador)[i]["Nome Completo"];
+                entryNumber.textContent = `Telefone: ${eval(indicador)[i]["Telefone"]};`
+                entryEmail.textContent = `Email: ${eval(indicador)[i]["E-mail Alternativo/Comercial"]}`;
+                entryWebsite.textContent = `Website: ${eval(indicador)[i]["Website"]}`;
 
-            entryDiv.appendChild(entryTitle);
-            entryDiv.appendChild(entryNumber);
-            entryDiv.appendChild(entryEmail);
-            entryDiv.appendChild(entryWebsite);
+                entryDiv.appendChild(entryTitle);
+                entryDiv.appendChild(entryNumber);
+                entryDiv.appendChild(entryEmail);
+                entryDiv.appendChild(entryWebsite);
 
-            entryDiv.classList.add("card");
-            entryDiv.classList.add("flex-item");
+                entryDiv.classList.add("card");
+                entryDiv.classList.add("flex-item");
 
-            entriesContainer.appendChild(entryDiv);
-        }
+                entriesContainer.appendChild(entryDiv);
+            }
         } else {
-
             for(let i = 0; i < eval(indicador).length; i++){
 
                 let entryDiv = document.createElement("div");
@@ -358,7 +356,6 @@ function main() {
                 entryEmail.textContent = `Email: ${eval(indicador)[i]["E-mail Comercial"]}`;
                 entryWebsite.textContent = `Website: ${eval(indicador)[i]["Website"]}`;
 
-
                 entryDiv.appendChild(entryTitle);
                 entryDiv.appendChild(entryAddress);
                 entryDiv.appendChild(entryNumber);
@@ -368,17 +365,11 @@ function main() {
                 entryDiv.classList.add("card");
                 entryDiv.classList.add("flex-item");
 
-                entriesContainer.appendChild(entryDiv);
-                
+                entriesContainer.appendChild(entryDiv);                
             }
         }
         backgroundDiv.appendChild(entriesContainer);
-
-
     }
-    // const body = document.querySelector("body");
-    // body.addEventListener("click", toggleSelectorAndIndicadores);
-
 
     function removeEntries () {
         const entriesContainer = document.querySelector(".entries-container")
@@ -508,9 +499,52 @@ function main() {
         //    elemH1.classList.toggle("display-none");
         },1000);
     }
+   
+    let filtroLocal = "";
+    let filtroRegional = "";
+
+    function setFilters() {
+        filtroLocal = inputMuni.value;
+        filtroRegional = inputPolo.value;
+
+        console.log(setFilterMSG());
+    }
+    setFilters();
     
+    
+    function setFilterMSG() {
+        let filterMSG = "Resultados: ";
+
+        if (filtroRegional === "Estado" && filtroLocal === "Todos") {
+            filterMSG += "todo o Maranhão";
+        } else if (filtroRegional !== "Estado" && filtroLocal === "Todos") {
+            filterMSG += filtroRegional;
+        } else {
+            filterMSG += filtroLocal;
+        }
+
+        return filterMSG;
+    }    
+    
+    function segmentarArquivosJSON(municipio) {
+
+        const dadosSegmentados = [];
+
+        for(let indicador of indicadores) {
+            const indicadorSegmentado = {                
+                    "Nome do Indicador": indicador,
+                    "Entradas": []                
+            }
+            for(let i = 0; i < eval(indicador).length; i++){
+                if(municipio === eval(indicador)[i]["Município"]) {                    
+                    indicadorSegmentado.Entradas.push(eval(indicador)[i]);
+                }
+            }
+            dadosSegmentados.push(indicadorSegmentado);
+        }
+        return dadosSegmentados;
+    }
+    
+    console.log(segmentarArquivosJSON("São Luís"));
+
 }
-       
-
-
-
