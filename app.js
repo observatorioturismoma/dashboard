@@ -39,25 +39,25 @@ let url14 = './data/fact-tables/prestServInfra.json';
 let url15 = './data/fact-tables/restBarCafe.json';
 let url16 = './data/fact-tables/transpTur.json';
 
-const promiseMunicipios = fetch(urlA);
-const promisePolos = fetch(urlB);
+const promiseMunicipios = Promise.resolve(fetch(urlA))
+const promisePolos = Promise.resolve(fetch(urlB))
 
-const promiseAgencias =         fetch(url1);
-const promiseAcamp =            fetch(url2);
-const promiseCasasEsp =         fetch(url3);
-const promiseCentroConven =     fetch(url4);
-const promiseEmpreenApoio =     fetch(url5);
-const promiseEmpreenEntreteni = fetch(url6);
-const promiseGuiaMEI =          fetch(url7);
-const promiseGuiaPF =           fetch(url8);
-const promiseLocadoraVeiculo =  fetch(url9);
-const promiseMeioHosp =         fetch(url10);
-const promiseOrganiEvent =      fetch(url11);
-const promiseParqueTema =       fetch(url12);
-const promisePrestEsp =         fetch(url13);
-const promisePrestServInfra =   fetch(url14);
-const promiseRestBarCafe =      fetch(url15);
-const promiseTranspTur =        fetch(url16);
+const promiseAgencias =         Promise.resolve(fetch(url1))
+const promiseAcamp =            Promise.resolve(fetch(url2));
+const promiseCasasEsp =         Promise.resolve(fetch(url3));
+const promiseCentroConven =     Promise.resolve(fetch(url4));
+const promiseEmpreenApoio =     Promise.resolve(fetch(url5));
+const promiseEmpreenEntreteni = Promise.resolve(fetch(url6));
+const promiseGuiaMEI =          Promise.resolve(fetch(url7));
+const promiseGuiaPF =           Promise.resolve(fetch(url8));
+const promiseLocadoraVeiculo =  Promise.resolve(fetch(url9));
+const promiseMeioHosp =         Promise.resolve(fetch(url10));
+const promiseOrganiEvent =      Promise.resolve(fetch(url11));
+const promiseParqueTema =       Promise.resolve(fetch(url12));
+const promisePrestEsp =         Promise.resolve(fetch(url13));
+const promisePrestServInfra =   Promise.resolve(fetch(url14));
+const promiseRestBarCafe =      Promise.resolve(fetch(url15));
+const promiseTranspTur =        Promise.resolve(fetch(url16));
 
 Promise.all([promiseMunicipios,
             promisePolos,
