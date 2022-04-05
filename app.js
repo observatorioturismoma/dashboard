@@ -574,6 +574,27 @@ function main() {
             dadosSegmentados.push(indicadorSegmentado);
         }
         return dadosSegmentados;
-    }   
+    }
+    
+    function alternateBackground () {
+        const background = document.querySelector("body");
+        
+        // setInterval( () => {
+        //     if (background.style.background === 'url("./images/bg.jpg")') {
+        //         // background.style.background = 'rgba(0,0,0,0)';
+        //         // // background.style.background = 'url("./images/bg3.jpg")';
+        //         // background.style.background = 'rgba(0,0,0,0.5)';
+        //     } else {
+        //         // background.style.background = 'rgba(0,0,0,0)';
+        //         // // background.style.background = 'url("./images/bg.jpg")';
+        //         // background.style.background = 'rgba(0,0,0,0.5)';
+        //     }
+            
+        // }, 1000);
+
+        // background.style.background = 'url("./images/bg.jpg")';
+    }
+
+    alternateBackground();
 
 }
