@@ -101,7 +101,7 @@ Promise.all([promiseMunicipios,
 
 // Having fetched all information from the JSON files, now we begin working with them
 
-setTimeout(main, 1000); // 1 sec timeout to allow info be fetched
+setTimeout(main, 3000); // 1 sec timeout to allow info be fetched
 
 function main() {
 
