@@ -8,6 +8,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "RECICL BRASIL",
+    "Município": "Açailândia",
+    "Endereço Completo Comercial": "R 80 05 Açailândia",
+    "Telefone Comercial": "(99)8151-5350",
+    "E-mail Comercial": "ARISTOTELES.PALHANO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "ME LEVA",
     "Município": "Alto Alegre do Maranhão",
     "Endereço Completo Comercial": "RUA SANTA HELENA  Alto Alegre do Maranhão",
@@ -24,6 +32,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "ARMAZEM DAS VERDURAS",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "RUA FLORIANO PEIXOTO 45  QUADRA 63  LOTE 17 Balsas",
+    "Telefone Comercial": "(99)3541-5704",
+    "E-mail Comercial": "ARMAZEMDASVERDURAS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "BRUNINHO PROMOCOES",
     "Município": "Buriti Bravo",
     "Endereço Completo Comercial": "RUA RIO BRANCO N 78  Buriti Bravo",
@@ -32,11 +48,27 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "BOCA DE FERRO",
+    "Município": "Cantanhede",
+    "Endereço Completo Comercial": "Avenida Dep  Líster Caldas 763 Cantanhede",
+    "Telefone Comercial": "(98)8838-8043",
+    "E-mail Comercial": "turismo@cantanhede.ma.gov.br",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "BIG DELICIA SORVETES",
     "Município": "Carutapera",
     "Endereço Completo Comercial": "Av Padre Mario Racca   Bairro Centro 1001 Carutapera",
     "Telefone Comercial": "(98)8409-1721",
     "E-mail Comercial": "renan-s-aragao@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DUDU PRODUCOES",
+    "Município": "Colinas",
+    "Endereço Completo Comercial": "R DO QUARTEL  VELHO l CASA Colinas",
+    "Telefone Comercial": "(99)98116-5244",
+    "E-mail Comercial": "producoesdudu0@gmail.com",
     "Website": "-"
   },
   {
@@ -64,19 +96,19 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "RBDIGIT@L",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Paraíba 291 Imperatriz Juçara CEP: 65900510 MA",
+    "Telefone Comercial": "(99)8177-1659",
+    "E-mail Comercial": "RBCONSULTORIADIGITAL@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "JM PRODUCOES E EVENTOS",
     "Município": "Itapecuru Mirim",
     "Endereço Completo Comercial": "Rua do Piquizeiro  Nº 10  Aviação Anexo A  Sala 03 Itapecuru Mirim",
     "Telefone Comercial": "(98)8187-4465",
     "E-mail Comercial": "MAGYLACHAVES@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "W  RIOS SHOWS",
-    "Município": "Maracaçumé",
-    "Endereço Completo Comercial": "RUA DANIEL DE LA TOUCHE  373  CENTRO  Maracaçumé",
-    "Telefone Comercial": "(98)8487-3650",
-    "E-mail Comercial": "vrcontabilidade_ma@hotmail.com",
     "Website": "-"
   },
   {
@@ -93,14 +125,6 @@
     "Endereço Completo Comercial": "AVENIDA JOSÉ LOPES DE SOUSA- CENTRO 28 Morros",
     "Telefone Comercial": "(98)9963-5944",
     "E-mail Comercial": "FINANCEIRO@METTOS.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CASTELO BRANCO SERVIÇOS CORPORATIVOS",
-    "Município": "Pedreiras",
-    "Endereço Completo Comercial": "TV CRESCENCIO RAPOSO  55  Pedreiras",
-    "Telefone Comercial": "(99)98142-0098",
-    "E-mail Comercial": "orlandocastelobranco@gmail.com",
     "Website": "-"
   },
   {
@@ -176,11 +200,59 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "W R ENTERPRISE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Seis  São Luís Forquilha CEP: 65054100 MA",
+    "Telefone Comercial": "(98)98520-2007",
+    "E-mail Comercial": "COMERCIOESERVICOWR@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CTLP COMERCIO E PRESTACAO DE SERVICOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Barão de Anajatuba Via Pública 5 São Luís COHAB Anil I CEP: 65050350 MA",
+    "Telefone Comercial": "(98)3088-2767",
+    "E-mail Comercial": "sidney_vm@yahoo.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "NAVALHA BARBEARIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Este (Unidade 103) São Luís Cidade Operária CEP: 65058239 MA",
+    "Telefone Comercial": "(98)8103-0125",
+    "E-mail Comercial": "gruporpmaster@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "EXCELLENCE EVENTOS E PROMOCOES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Ivar Saldanha  São Luís Olho D Água CEP: 65068480 MA",
+    "Telefone Comercial": "(98)98239-0244",
+    "E-mail Comercial": "atendimento-excellence@hotmail.com",
+    "Website": "http://www.excellencebuffet.com.br/"
+  },
+  {
     "Nome Fantasia": "***********",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Azulões Quadra 120  sala 1411 Edif Office Tawer São Luís Jardim Renascença CEP: 65075060 MA",
     "Telefone Comercial": "(98)8451-2480",
     "E-mail Comercial": "EDSONSILVASL@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "KAVASAKY PROMOCOES E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 6  SL 1118  EDIF  TECH OFFICE São Luís Ponta D Areia CEP: 65077357 MA",
+    "Telefone Comercial": "(98)8857-3323",
+    "E-mail Comercial": "steniokavasaky@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BANDA PRAKATUM",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Sete 15 São Luís IPEM Turu CEP: 65065687 MA",
+    "Telefone Comercial": "(98)9135-7096",
+    "E-mail Comercial": "tiagoprakatum@hotmail.com",
     "Website": "-"
   },
   {
@@ -230,38 +302,6 @@
     "Telefone Comercial": "(98)99185-1359",
     "E-mail Comercial": "aetius.servicos@gmail.com",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "W R ENTERPRISE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Seis  São Luís Forquilha CEP: 65054100 MA",
-    "Telefone Comercial": "(98)98520-2007",
-    "E-mail Comercial": "COMERCIOESERVICOWR@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CTLP COMERCIO E PRESTACAO DE SERVICOS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Barão de Anajatuba Via Pública 5 São Luís COHAB Anil I CEP: 65050350 MA",
-    "Telefone Comercial": "(98)3088-2767",
-    "E-mail Comercial": "sidney_vm@yahoo.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "NAVALHA BARBEARIA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Este (Unidade 103) São Luís Cidade Operária CEP: 65058239 MA",
-    "Telefone Comercial": "(98)8103-0125",
-    "E-mail Comercial": "gruporpmaster@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "EXCELLENCE EVENTOS E PROMOCOES",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Ivar Saldanha  São Luís Olho D Água CEP: 65068480 MA",
-    "Telefone Comercial": "(98)98239-0244",
-    "E-mail Comercial": "atendimento-excellence@hotmail.com",
-    "Website": "http://www.excellencebuffet.com.br/"
   },
   {
     "Nome Fantasia": "SANTOS FILHO COMERCIO E SERVICOS LTDA",
@@ -320,6 +360,22 @@
     "Website": "www.empeco.com.br"
   },
   {
+    "Nome Fantasia": "OTHIMUS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Ilhinha  São Luís São Francisco CEP: 65076735 MA",
+    "Telefone Comercial": "(98)3227-2264",
+    "E-mail Comercial": "othimusempreendimentos@gmail.com",
+    "Website": "othimusempreendimentos@gmail.com"
+  },
+  {
+    "Nome Fantasia": "E S M  CULTURA PROMOÇÕES",
+    "Município": "Trizidela do Vale",
+    "Endereço Completo Comercial": "Sem Logradouro  Trizidela do Vale",
+    "Telefone Comercial": "(99)8125-7992",
+    "E-mail Comercial": "marcosesm@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "CASTELO BRANCO EMPREENDIMENTOS",
     "Município": "Trizidela do Vale",
     "Endereço Completo Comercial": "RUA SANTO ANTÔNIO  331 - CENTRO EM FRENTE A ASSEMBLEIA DE DEUS Trizidela do Vale",
@@ -328,11 +384,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "E S M  CULTURA PROMOÇÕES",
+    "Nome Fantasia": "CASTELO BRANCO SERVIÇOS CORPORATIVOS",
     "Município": "Trizidela do Vale",
-    "Endereço Completo Comercial": "Sem Logradouro  Trizidela do Vale",
-    "Telefone Comercial": "(99)8125-7992",
-    "E-mail Comercial": "marcosesm@hotmail.com",
+    "Endereço Completo Comercial": "RUA SANTO ANTONIO 331  SALA 01 Trizidela do Vale",
+    "Telefone Comercial": "(99)98142-0098",
+    "E-mail Comercial": "orlandocastelobranco@gmail.com",
     "Website": "-"
   }
 ]
