@@ -64,20 +64,20 @@ Promise.all([promiseMunicipios,
             promiseAgencias,
             promiseAcamp,
             promiseCasasEsp,
-            promiseCentroConven, 
-            promiseEmpreenApoio, 
+            promiseCentroConven,
+            promiseEmpreenApoio,
             promiseEmpreenEntreteni,
-            promiseGuiaMEI, 
-            promiseGuiaPF, 
+            promiseGuiaMEI,
+            promiseGuiaPF,
             promiseLocadoraVeiculo,
             promiseMeioHosp,
             promiseOrganiEvent,
-            promiseParqueTema, 
+            promiseParqueTema,
             promisePrestEsp,
             promisePrestServInfra,
-            promiseRestBarCafe, 
+            promiseRestBarCafe,
             promiseTranspTur]).then(res => {
-    
+
         res[0]  .json().then(res => {municipios = res});
         res[1]  .json().then(res => {polos = res});
         res[2]  .json().then(res => {agencias = res});
@@ -121,10 +121,10 @@ function main() {
     "prestEsp",
     "prestServInfra",
     "restBarCafe",
-    "transpTur"]    
-    
+    "transpTur"]
+
     const datalistMunicipios = document.querySelector("#municipios");
-    
+
     ///////////////////// populate polos list
 
     const datalistPolos = document.querySelector("#polos");
@@ -145,11 +145,11 @@ function main() {
         if(poloName == "Estado") {
             return "Estado";
         } else {
-            
+
             polos.forEach(polo => {
                 if (poloName === polo.polo_name) {
                     poloID = polo.polo_id;
-                    
+
                 }
             });
         }
@@ -164,18 +164,18 @@ function main() {
 
         let foundPoloID = getPoloIDFromName(selectedPolo);
         console.log(foundPoloID);
-        
+
         if (foundPoloID == "Estado"){
             municipios.forEach( municipio => {
                 municipioByPoloList.push(municipio.municipio_nome);
             });
-        } else {            
+        } else {
             municipios.forEach( municipio => {
                 if (municipio.polo_id == foundPoloID){
                     municipioByPoloList.push(municipio.municipio_nome);
                 }
             });
-        }        
+        }
     }
 
 
@@ -198,8 +198,8 @@ function main() {
         }
         updateIndicadorByPolo();
     }
-    
-    
+
+
     /////////////// Update each indicador
 
     // using the push method from the populateMunicipioByPolo() we can now calculate individually
@@ -209,12 +209,12 @@ function main() {
         let totalCount = 0;
 
         for (let indicador of indicadores) {
-            
+
             totalCount = 0;
-            
-            for(let municipio of municipioByPoloList) {  
+
+            for(let municipio of municipioByPoloList) {
                 let indicadorSelected = document.querySelector(`#${indicador}`);
-                
+
                 if (municipio == null){
                     indicadorSelected.value = "-";
                 } else {
@@ -224,25 +224,25 @@ function main() {
             }
         }
     }
-    
-    
+
+
     ////////////////// remove child nodes
     // we use this to repopulate select tags appropriately
-    
+
     function deleteAllChildren() {
-        
-        let child = datalistMunicipios.lastElementChild; 
+
+        let child = datalistMunicipios.lastElementChild;
         while (child) {
             datalistMunicipios.removeChild(child);
             child = datalistMunicipios.lastElementChild;
         }
     }
-    
+
     const inputPolo = document.querySelector("#polos");
     const inputMuni = document.querySelector("#municipios");
 
     function cleanMuni () {
-        inputMuni.value = "";        
+        inputMuni.value = "";
     }
     function cleanPolo () {
         inputPolo.value = "";
@@ -250,7 +250,7 @@ function main() {
 
     inputMuni.addEventListener("change", () => {
        let municipio = inputMuni.value;
-       
+
        updateIndicador(municipio);
 
         if(municipio === "Todos os Municípios") {
@@ -261,23 +261,23 @@ function main() {
             municipioByPoloList.push(municipio);
         }
         setFilters();
-    
+
     })
     populateMunicipioByPolo();
 
     inputPolo.addEventListener("change", () => {
-        
+
         cleanMuni();
         populateMunicipioByPolo();
         setFilters();
-        
+
     })
 
     ///////// Count indicador
     // this function counts each indicador and returns the result to updateIndicador later on
 
     function countIndicador(municipio, indicador) {
-        
+
         let count = 0;
         eval(indicador).forEach(indi => {
             if(indi["Município"] === municipio){
@@ -324,7 +324,7 @@ function main() {
                 indicadorSelecionado = fonte;
             }
         }
-        
+
         console.log(fonteSegmentada);
         console.log(indicadorSelecionado);
 
@@ -341,7 +341,7 @@ function main() {
         filterMSGContainer.appendChild(filterMSGElem);
         entriesContainer.appendChild(filterMSGContainer);
 
-        
+
             if(indicadorSelecionado["Nome do Indicador"] == "guiaPF") {
 
                 for(let i = 0; i < indicadorSelecionado.Entradas.length; i++){
@@ -350,20 +350,20 @@ function main() {
                     let entryNumber = document.createElement("span");
                     let entryEmail = document.createElement("span");
                     let entryWebsite = document.createElement("span");
-    
+
                     entryTitle.textContent = indicadorSelecionado.Entradas[i]["Nome Completo"];
                     entryNumber.textContent = `Telefone: ${indicadorSelecionado.Entradas[i]["Telefone"]};`
                     entryEmail.textContent = `Email: ${indicadorSelecionado.Entradas[i]["E-mail Alternativo/Comercial"]}`;
                     entryWebsite.textContent = `Website: ${indicadorSelecionado.Entradas[i]["Website"]}`;
-    
+
                     entryDiv.appendChild(entryTitle);
                     entryDiv.appendChild(entryNumber);
                     entryDiv.appendChild(entryEmail);
                     entryDiv.appendChild(entryWebsite);
-    
+
                     entryDiv.classList.add("card");
                     entryDiv.classList.add("flex-item");
-    
+
                     entriesContainer.appendChild(entryDiv);
                 }
 
@@ -375,26 +375,26 @@ function main() {
                     let entryAddress = document.createElement("span");
                     let entryEmail = document.createElement("span");
                     let entryWebsite = document.createElement("span");
-    
+
                     entryTitle.textContent = indicadorSelecionado.Entradas[i]["Nome Fantasia"];
                     entryNumber.textContent = `Telefone: ${indicadorSelecionado.Entradas[i]["Telefone Comercial"]};`
                     entryAddress.textContent = `Endereço: ${indicadorSelecionado.Entradas[i]["Endereço Completo Comercial"]}`;
                     entryEmail.textContent = `Email: ${indicadorSelecionado.Entradas[i]["E-mail Comercial"]}`;
                     entryWebsite.textContent = `Website: ${indicadorSelecionado.Entradas[i]["Website"]}`;
-    
+
                     entryDiv.appendChild(entryTitle);
                     entryDiv.appendChild(entryAddress);
                     entryDiv.appendChild(entryNumber);
                     entryDiv.appendChild(entryEmail);
                     entryDiv.appendChild(entryWebsite);
-    
+
                     entryDiv.classList.add("card");
                     entryDiv.classList.add("flex-item");
-    
-                    entriesContainer.appendChild(entryDiv);                
+
+                    entriesContainer.appendChild(entryDiv);
                 }
             }
-        
+
 
         backgroundDiv.appendChild(entriesContainer);
     }
@@ -439,78 +439,78 @@ function main() {
         let titulo = "Acampamentos";
         generateCardsFromIndicador(indicadores[1], titulo);
     });
-    
+
     casasEspCard.addEventListener("click", () => {
         let titulo = "Casas de Espetáculo";
         generateCardsFromIndicador(indicadores[2], titulo);
     });
-    
+
     centroConvenCard.addEventListener("click", () => {
         let titulo = "Centros de Convenções";
         generateCardsFromIndicador(indicadores[3], titulo);
     });
-    
+
     empreenApoioCard.addEventListener("click", () => {
         let titulo = "Empreendimentos de Apoio ao Turismo";
         generateCardsFromIndicador(indicadores[4], titulo);
     });
-    
+
     empreenEntreteniCard.addEventListener("click", () => {
         let titulo = "Empreendimentos de Entretenimento";
         generateCardsFromIndicador(indicadores[5], titulo);
     });
-    
+
     guiaMEICard.addEventListener("click", () => {
-        let titulo = "Guias Turísticos MEI";
+        let titulo = "Guias de Turismo MEI";
         generateCardsFromIndicador(indicadores[6], titulo);
     });
-    
+
     guiaPFCard.addEventListener("click", () => {
-        let titulo = "Guias Turísticos Pessoa Física";
+        let titulo = "Guias de Turismo Pessoa Física";
         generateCardsFromIndicador(indicadores[7], titulo);
     });
-    
+
     locadoraVeiculoCard.addEventListener("click", () => {
         let titulo = "Locadoras de Veículos";
         generateCardsFromIndicador(indicadores[8], titulo);
     });
-    
+
     meioHospCard.addEventListener("click", () => {
         let titulo = "Meios de Hospedagem";
         generateCardsFromIndicador(indicadores[9], titulo);
     });
-    
+
     organiEventCard.addEventListener("click", () => {
         let titulo = "Organizadoras de Eventos";
         generateCardsFromIndicador(indicadores[10], titulo);
     });
-    
+
     parqueTemaCard.addEventListener("click", () => {
         let titulo = "Parques Temáticos";
         generateCardsFromIndicador(indicadores[11], titulo);
     });
-    
+
     prestEspCard.addEventListener("click", () => {
         let titulo = "Prestadores de Serviços Especializados";
         generateCardsFromIndicador(indicadores[12], titulo);
     });
-    
+
     prestServInfraCard.addEventListener("click", () => {
         let titulo = "Prestadores de Serviços de Infraestrutura";
         generateCardsFromIndicador(indicadores[13], titulo);
     });
-    
+
     restBarCafeCard.addEventListener("click", () => {
         let titulo = "Restaurantes, Bares & Afins";
         generateCardsFromIndicador(indicadores[14], titulo);
     });
-    
+
     transpTurCard.addEventListener("click", () => {
         let titulo = "Transportadoras Turísticas";
         generateCardsFromIndicador(indicadores[15], titulo);
     });
-    
-    
+
+
 
 
     function toggleSelectorAndIndicadores () {
@@ -527,7 +527,7 @@ function main() {
         //    elemH1.classList.toggle("display-none");
         },1000);
     }
-   
+
     let filtroLocal = "";
     let filtroRegional = "";
 
@@ -539,7 +539,7 @@ function main() {
     }
 
     setFilters();
-    
+
     function getFilterMSG() {
         let filterMSG = "Resultados: ";
 
@@ -552,33 +552,33 @@ function main() {
         }
 
         return filterMSG;
-    }    
-    
+    }
+
     function segmentarArquivosJSON(arrayOfMunicipios) {
 
         const dadosSegmentados = [];
 
         for(let indicador of indicadores) {
-            const indicadorSegmentado = {                
+            const indicadorSegmentado = {
                 "Nome do Indicador": indicador,
                 "Entradas": []
             }
             for(let i = 0; i < eval(indicador).length; i++){
                 arrayOfMunicipios.forEach( municipio => {
-                    if(municipio === eval(indicador)[i]["Município"]) {                    
+                    if(municipio === eval(indicador)[i]["Município"]) {
                         indicadorSegmentado.Entradas.push(eval(indicador)[i]);
                     }
                 })
-                
+
             }
             dadosSegmentados.push(indicadorSegmentado);
         }
         return dadosSegmentados;
     }
-    
+
     function alternateBackground () {
         const background = document.querySelector("body");
-        
+
         // setInterval( () => {
         //     if (background.style.background === 'url("./images/bg.jpg")') {
         //         // background.style.background = 'rgba(0,0,0,0)';
@@ -589,7 +589,7 @@ function main() {
         //         // // background.style.background = 'url("./images/bg.jpg")';
         //         // background.style.background = 'rgba(0,0,0,0.5)';
         //     }
-            
+
         // }, 1000);
 
         // background.style.background = 'url("./images/bg.jpg")';
