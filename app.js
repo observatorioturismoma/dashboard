@@ -101,7 +101,7 @@ Promise.all([promiseMunicipios,
 
 // Having fetched all information from the JSON files, now we begin working with them
 
-setTimeout(main, 3000); // 1 sec timeout to allow info be fetched
+setTimeout(main, 3000); // 3 sec timeout to allow info be fetched
 
 function main() {
 
@@ -575,26 +575,5 @@ function main() {
         }
         return dadosSegmentados;
     }
-
-    function alternateBackground () {
-        const background = document.querySelector("body");
-
-        // setInterval( () => {
-        //     if (background.style.background === 'url("./images/bg.jpg")') {
-        //         // background.style.background = 'rgba(0,0,0,0)';
-        //         // // background.style.background = 'url("./images/bg3.jpg")';
-        //         // background.style.background = 'rgba(0,0,0,0.5)';
-        //     } else {
-        //         // background.style.background = 'rgba(0,0,0,0)';
-        //         // // background.style.background = 'url("./images/bg.jpg")';
-        //         // background.style.background = 'rgba(0,0,0,0.5)';
-        //     }
-
-        // }, 1000);
-
-        // background.style.background = 'url("./images/bg.jpg")';
-    }
-
-    alternateBackground();
 
 }
