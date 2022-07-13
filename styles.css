@@ -252,7 +252,7 @@ a {
     .card {
         padding: 1em;
         height: 5em;
-        font-size: 1em;
+        font-size: 0.75em;
         width: 8em;
     }
     select {
