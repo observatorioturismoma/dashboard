@@ -1,11 +1,11 @@
 [
   {
-    "Nome Fantasia": "MAXIMOS LOCAÇÃO E TURISMO",
+    "Nome Fantasia": "LOCADORA SÃO LUÍS",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Vinte e Um de Abril  São Luís Vila Passos CEP: 65025830 MA",
-    "Telefone Comercial": "-",
-    "E-mail Comercial": "maximo.locacao@terra.com.br",
-    "Website": "-"
+    "Endereço Completo Comercial": "Borborema  São Luís Calhau CEP: 65071360 MA",
+    "Telefone Comercial": "(98)98429-0520",
+    "E-mail Comercial": "faturamento@locadoraslz.com.br",
+    "Website": "www.locadoraslz.com.br"
   },
   {
     "Nome Fantasia": "POUSADA RIO GRANDE",
@@ -45,38 +45,6 @@
     "Endereço Completo Comercial": "Castro Alves  São Luís Retiro Natal CEP: 65031115 MA",
     "Telefone Comercial": "(98)3227-9444",
     "E-mail Comercial": "marencanto@marencanto.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PORTAL TURISMO",
-    "Município": "Imperatriz",
-    "Endereço Completo Comercial": "BR-010 Posto 10 Imperatriz Bacuri CEP: 65916205 MA",
-    "Telefone Comercial": "(99)98116-3143",
-    "E-mail Comercial": "portalturismoltda@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ENCANTOS DOS LENCOIS VIAGENS E TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "P  São Luís Radional CEP: 65047620 MA",
-    "Telefone Comercial": "(98)9607-3792",
-    "E-mail Comercial": "CONTATO@ENCANTODOSLENCOIS.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BUSAMERICA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Ebenézer  São Luís Cruzeiro de Santa Bárbara CEP: 65059819 MA",
-    "Telefone Comercial": "(98)8234-0708",
-    "E-mail Comercial": "BUSAMERICA@YAHOOL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "R S TRANSPORTE E TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "de Santana  São Luís Centro CEP: 65015440 MA",
-    "Telefone Comercial": "(98)8754-7226",
-    "E-mail Comercial": "CONTABIL550@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -365,6 +333,70 @@
     "Endereço Completo Comercial": "Principal (Porto Grande) São Luís Vila Maranhão CEP: 65091100 MA",
     "Telefone Comercial": "(98)8871-0543",
     "E-mail Comercial": "CONTABILMENDES@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "USE RENT CAR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Sebastião  São Luís Maiobinha CEP: 65052250 MA",
+    "Telefone Comercial": "(98)3042-0107",
+    "E-mail Comercial": "SAC@USERENTCAR.COM.BR",
+    "Website": "www.userentcar.com.br"
+  },
+  {
+    "Nome Fantasia": "PISOM ESCOLA NAUTICA",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Luís Domingues  Imperatriz Centro CEP: 65901430 MA",
+    "Telefone Comercial": "(99)8115-0883",
+    "E-mail Comercial": "reuber.jardim@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MEGA RENT A CAR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida Borborema 03  lote 03 São Luís Calhau CEP: 65071360 MA",
+    "Telefone Comercial": "(98)98429-0520",
+    "E-mail Comercial": "ATENDIMENTO@MEGARENTACAR.NET.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PARVI LOCADORA S A",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 9 São Luís Calhau CEP: 65071380 MA",
+    "Telefone Comercial": "(81)98844-0145",
+    "E-mail Comercial": "renatoj10amorim@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MALVIN EMPRESARIAL",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "do Vale  São Luís Jardim Renascença CEP: 65075660 MA",
+    "Telefone Comercial": "(98)8125-9105",
+    "E-mail Comercial": "CONTATO@MALVINEMPRESARIAL.COM.BR",
+    "Website": "http://www.malvinempresarial.com.br"
+  },
+  {
+    "Nome Fantasia": "INTER LOCACAO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "João Pessoa  São Luís Filipinho CEP: 65042815 MA",
+    "Telefone Comercial": "(98)3089-3420",
+    "E-mail Comercial": "atlantica@grupoatlantica.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ATLANTICA SERVICOS GERAIS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Kennedy - até 150/151 São Luís Centro CEP: 65025001 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "contabilidade@grupoatlantica.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "NUNES TRANSPORTES",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "296  Balsas",
+    "Telefone Comercial": "(99)8804-3300",
+    "E-mail Comercial": "TRANSPORTADORANUNES-@HOTMAIL.COM",
     "Website": "-"
   }
 ]
