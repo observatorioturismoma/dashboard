@@ -48,6 +48,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "DENITUR",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Maranhão 304 Imperatriz Centro CEP: 65901590 MA",
+    "Telefone Comercial": "(99)3524-3384",
+    "E-mail Comercial": "denitur@denitur.com.br",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "MAVITUR",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Quarenta e Quatro 09 São Luís Bequimão CEP: 65062400 MA",
@@ -69,22 +77,6 @@
     "Endereço Completo Comercial": "RUA FIGUEIRA CAMPO S/N Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)9883-2404",
     "E-mail Comercial": "eldonviagens.turismo@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SAAIR VIAGENS TURISMO E TRANSPORTE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Inácio Xavier de Carvalho  São Luís São Francisco CEP: 65076360 MA",
-    "Telefone Comercial": "(98)3227-2183",
-    "E-mail Comercial": "saairviagens@saairviagens.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "APOIO EVENTOS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Projetada  São Luís Planalto Vinhais II CEP: 65074880 MA",
-    "Telefone Comercial": "(98)98413-0499",
-    "E-mail Comercial": "paulomontanha1@hotmail.com",
     "Website": "-"
   },
   {
@@ -128,11 +120,11 @@
     "Website": "WWW.VAIMUNDO.NET"
   },
   {
-    "Nome Fantasia": "WC VIAGENS E TURISMO EIRELI",
+    "Nome Fantasia": "WC VIAGENS E TURISMO LTDA",
     "Município": "Açailândia",
     "Endereço Completo Comercial": "RUA SÃO FRANCISCO 208A  Açailândia Da Vitória CEP: 65930000 GO",
     "Telefone Comercial": "(99)3538-1724",
-    "E-mail Comercial": "denilson@denitur.com.br",
+    "E-mail Comercial": "faturamento@wcviagens.com.br",
     "Website": "-"
   },
   {
@@ -152,14 +144,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "THE BEST PLACE ADVENTURE",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "R  CONRADO ATAIDE   Barreirinhas",
-    "Telefone Comercial": "(98)99219-1298",
-    "E-mail Comercial": "thebestguia@gmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "URUPUCHETE EVENTOS E TURISMO",
     "Município": "Carolina",
     "Endereço Completo Comercial": "Av Getulio Vargas  1256 centro Carolina Residencial Eldorado CEP: 65980000 GO",
@@ -176,14 +160,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "GALLION TRIPS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Djalma Dutra 128 São Luís Centro CEP: 65010170 MA",
-    "Telefone Comercial": "(98)4101-5050",
-    "E-mail Comercial": "contato@gallion.com.br",
-    "Website": "www.galliontrips.com.br"
-  },
-  {
     "Nome Fantasia": "ROTAS TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Anapurus área de convivencia -uniceuma São Luís Jardim Renascença CEP: 65075670 MA",
@@ -194,7 +170,7 @@
   {
     "Nome Fantasia": "CR VIAGEM E TURISMO",
     "Município": "Imperatriz",
-    "Endereço Completo Comercial": "Rua Sul  Imperatriz Centro CEP: 65900010 MA",
+    "Endereço Completo Comercial": "Rua Sul 36 Imperatriz Centro CEP: 65900010 MA",
     "Telefone Comercial": "(99)99113-3760",
     "E-mail Comercial": "CARINE@CRVIAGEM.COM.BR",
     "Website": "-"
@@ -216,22 +192,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "PONTUAL TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "do Vale  São Luís Jardim Renascença CEP: 65075660 MA",
-    "Telefone Comercial": "(98)3235-2317",
-    "E-mail Comercial": "michele@pontualturma.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "E - TRAVEL VIAGENS E TURISMO LTDA",
-    "Município": "Paço do Lumiar",
-    "Endereço Completo Comercial": "Jerônimo de Albuquerque Maranhão  São Luís Angelim CEP: 65060641 MA",
-    "Telefone Comercial": "(98)3236-4660",
-    "E-mail Comercial": "etravel.slz@gmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "FLEX VIAGENS & TURISMO",
     "Município": "Açailândia",
     "Endereço Completo Comercial": "RUA SAO LUIS 139 A CENTRO Açailândia Da Vitória CEP: 65930000 GO",
@@ -248,12 +208,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "OFFICIAL AGÊNCIA DE VIAGENS E TURISMO",
+    "Nome Fantasia": "PLANET TOUR VIAGENS E TURISMO LTDA",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Centro Comercial 7 São Luís COHAB Anil II CEP: 65052790 MA",
-    "Telefone Comercial": "(98)3258-1655",
-    "E-mail Comercial": "ruan@official.tur.br",
-    "Website": "WWW.OFFICIAL.TUR.BR"
+    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
+    "Telefone Comercial": "(98)3303-8463",
+    "E-mail Comercial": "planet@planettour.tur.br",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "TIMON TURISMO",
@@ -264,28 +224,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "LIV",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "A (Cohajoli) São Luís Vila Vicente Fialho CEP: 65073210 MA",
-    "Telefone Comercial": "(98)3236-9895",
-    "E-mail Comercial": "atendimento@liv.tur.br",
-    "Website": "www.liv.tur.br"
-  },
-  {
-    "Nome Fantasia": "CARAVELAS TURISMO LTDA",
+    "Nome Fantasia": "daniel martins",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
     "Telefone Comercial": "(98)3311-6606",
     "E-mail Comercial": "contato@caravelasturismo.com.br",
     "Website": "WWW.CARAVELASTURISMO.COM.BR"
-  },
-  {
-    "Nome Fantasia": "VOAR FOTOGRAFIA  AEREAS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Avenida Brasilia Nr  100 centro Barreirinhas",
-    "Telefone Comercial": "(98)98264-2945",
-    "E-mail Comercial": "atendimento@voarfotografiaaerea.com.br",
-    "Website": "www.voarfotografiaaerea.com.br"
   },
   {
     "Nome Fantasia": "MODUS VIVENDI",
@@ -294,14 +238,6 @@
     "Telefone Comercial": "(98)99934-8217",
     "E-mail Comercial": "mras.mei@gmail.com",
     "Website": "https://modusvivenditur.blogspot.com/"
-  },
-  {
-    "Nome Fantasia": "C N TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "R PROJETADA Nº195 AMAPA  Barreirinhas",
-    "Telefone Comercial": "(98)3349-0059",
-    "E-mail Comercial": "contato@cnturismo.com.br",
-    "Website": "-"
   },
   {
     "Nome Fantasia": "MAVENTUR",
@@ -320,14 +256,6 @@
     "Website": "www.costaleste.eco.br"
   },
   {
-    "Nome Fantasia": "LUDMILLA COSTA FERREIRA PEREIRA ALLTOUR VIAGENS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Dois NUMERO 52 QUADRA 34  São Luís Cohatrac II CEP: 65054260 MA",
-    "Telefone Comercial": "(55)98988-2226",
-    "E-mail Comercial": "atendimento@alltourviagensma.com.br",
-    "Website": "www.alltourviagensma.com.br"
-  },
-  {
     "Nome Fantasia": "JULIANA RESENDE CANAVIEIRA",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Av  Joaquim Soeiro de Carvalho 746 centro   Barreirinhas",
@@ -336,19 +264,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "ALCANCE",
-    "Município": "Imperatriz",
-    "Endereço Completo Comercial": "Dorgival Pinheiro de Sousa  Imperatriz Centro CEP: 65903270 MA",
-    "Telefone Comercial": "(99)3073-0454",
-    "E-mail Comercial": "falecom@alcance.tur.br",
-    "Website": "-"
+    "Nome Fantasia": "TROPICAL ADVENTURE",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "predio posto leal sala 1 Barreirinhas",
+    "Telefone Comercial": "(98)3349-1987",
+    "E-mail Comercial": "tropical.adventure@terra.com.br",
+    "Website": "www.tropicaladventure.com.br"
   },
   {
-    "Nome Fantasia": "AIR-TICKET VIAGENS E TURISMO",
+    "Nome Fantasia": "ROCHA TURISMO",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Militar (Vl Militar) São Luís Cruzeiro do Anil CEP: 65060350 MA",
-    "Telefone Comercial": "(98)3013-3530",
-    "E-mail Comercial": "air-ticketviagens@hotmail.com",
+    "Endereço Completo Comercial": "F  São Luís Radional CEP: 65047540 MA",
+    "Telefone Comercial": "(98)3227-9114",
+    "E-mail Comercial": "administracao@rochaturismo.net.br",
     "Website": "-"
   },
   {
@@ -366,6 +294,14 @@
     "Telefone Comercial": "(98)99611-3331",
     "E-mail Comercial": "reservas@tigre.tur.br",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ESPIRITO DE AVENTURA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Avenida Beira Rio  83 Barreirinhas",
+    "Telefone Comercial": "(98)3349-5012",
+    "E-mail Comercial": "ugarte@espiritodeaventura.com.br",
+    "Website": "www.espiritodeaventura.com.br"
   },
   {
     "Nome Fantasia": "WELLITON TURISMO",
@@ -406,6 +342,14 @@
     "Telefone Comercial": "(98)4103-0575",
     "E-mail Comercial": "atendimento@americantrip.com.br",
     "Website": "www.americantrip.com.br"
+  },
+  {
+    "Nome Fantasia": "ATLANTIS VIAGENS E TURISMO",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Getúlio Vargas - de 0405/406 a 895/0896  Imperatriz Centro CEP: 65901450 MA",
+    "Telefone Comercial": "(99)3524-5759",
+    "E-mail Comercial": "atlantis.viagens@hotmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "DREAMS VIAGENS",
@@ -458,7 +402,7 @@
   {
     "Nome Fantasia": "GEKOS RECEPTIVO",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "do Porto  São Luís Solar dos Lusitanos CEP: 65065710 MA",
+    "Endereço Completo Comercial": "dos Holandeses 15 - Quadra 11 São Luís Olho D Água CEP: 65065180 MA",
     "Telefone Comercial": "(98)3235-3870",
     "E-mail Comercial": "adriano@gekos.com.br",
     "Website": "www.gekos.com.br"
@@ -472,12 +416,28 @@
     "Website": "WWW.BABACUTURISMO.COM.BR"
   },
   {
+    "Nome Fantasia": "Dureles Viagens Personalizadas",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Miragem do Sol 15  apto 201 São Luís Jardim Renascença CEP: 65075760 MA",
+    "Telefone Comercial": "(98)99166-7313",
+    "E-mail Comercial": "sheila@dureles.com.br",
+    "Website": "www.sheiladureles.com.br"
+  },
+  {
     "Nome Fantasia": "RAPHAEL SALDANHA VIAGENS PERSONALIZADAS",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Brasil  São Luís Olho D Água CEP: 65065070 MA",
     "Telefone Comercial": "(98)98151-0229",
     "E-mail Comercial": "contato@rsviagens.com",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TERRA NORDESTE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida dos Holandeses Parq/ Atlântico   15 Olho da Água São Luís Olho D Água CEP: 65065180 MA",
+    "Telefone Comercial": "(98)98857-7408",
+    "E-mail Comercial": "julien@terra-nordeste.com",
+    "Website": "www.terra-nordeste.com"
   },
   {
     "Nome Fantasia": "LENÇÕES ROTA TUR TRANSPORTE E TURISMO",
@@ -496,14 +456,6 @@
     "Website": "WWW.TORREDALUA.COM.BR"
   },
   {
-    "Nome Fantasia": "LIFETUR - TURISMO E RECEPTIVO",
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Sem Logradouro  Grajaú Setor dos Afonsos CEP: 65940000 GO",
-    "Telefone Comercial": "(99)99905-7100",
-    "E-mail Comercial": "halissongrajau@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "MURICI TURISMO",
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
@@ -512,19 +464,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "GABI AMERICA TURISMO",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)98777-6084",
-    "E-mail Comercial": "gabilyon@gmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "PE N'AREIA ECOTURISMO",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
     "Telefone Comercial": "(98)3349-1802",
     "E-mail Comercial": "agenciapenaareia@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RIO CORDA TURISMO",
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "Sem Logradouro  Barra do Corda",
+    "Telefone Comercial": "(99)3643-1974",
+    "E-mail Comercial": "riocordaturismo@hotmail.com",
     "Website": "-"
   },
   {
@@ -613,6 +565,14 @@
     "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)98612-8961",
     "E-mail Comercial": "tozzioturismo@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "NILSON TURISMO - NILSONTUR",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)98848-7036",
+    "E-mail Comercial": "deilaacsa@gmail.com",
     "Website": "-"
   },
   {
@@ -712,14 +672,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "V DE L S CASTRO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua inacio lins 59 Barreirinhas",
-    "Telefone Comercial": "(98)98606-6270",
-    "E-mail Comercial": "valfaturismo@hotmail.com",
-    "Website": "https://valfa-turismo8.webnode.com/"
-  },
-  {
     "Nome Fantasia": "TRILHA ECOAVENTURA",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
@@ -736,28 +688,12 @@
     "Website": "WWW.CIADOCERRADO.COM.BR"
   },
   {
-    "Nome Fantasia": "WTS VAGENS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
-    "Telefone Comercial": "(98)98534-6723",
-    "E-mail Comercial": "alvina.teixeira@wtsviagens.com.br",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "E-FÁCIL VIAGENS",
     "Município": "Imperatriz",
     "Endereço Completo Comercial": "Godofredo Viana 1140_A Imperatriz Centro CEP: 65901480 MA",
     "Telefone Comercial": "(99)3071-3183",
     "E-mail Comercial": "contato@efaciviagens.com",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SA TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Professor Carlos Cunha  São Luís Jaracaty CEP: 65076820 MA",
-    "Telefone Comercial": "(98)4009-2800",
-    "E-mail Comercial": "silvioalves@cvc.com.br",
-    "Website": "WWW.CVC.COM.BR"
   },
   {
     "Nome Fantasia": "PÔR DO SOL TURISMO E LAZER",
@@ -792,14 +728,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "N & G TUR",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Sem Logradouro  São José de Ribamar",
-    "Telefone Comercial": "(98)8743-8708",
-    "E-mail Comercial": "marli.concita@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "LENÇOES ADVENTURE",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
@@ -808,20 +736,20 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "LUMINENSE TURISMO",
-    "Município": "Paço do Lumiar",
-    "Endereço Completo Comercial": "Sem Logradouro  Paço do Lumiar Vila Alvorada CEP: 65130000 GO",
-    "Telefone Comercial": "(98)98888-7607",
-    "E-mail Comercial": "luminenseturismo@hotmail.com",
+    "Nome Fantasia": "SERGINHO TUR",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua São Francisco  Barreirinhas",
+    "Telefone Comercial": "(98)99143-4342",
+    "E-mail Comercial": "serginhotour@outlook.com",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "AGENCIA BOULEVARD",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Agenor Vieira  São Luís São Francisco CEP: 65076020 MA",
-    "Telefone Comercial": "(98)3235-0067",
-    "E-mail Comercial": "jansen@boulevardturismo.com.br",
-    "Website": "WWW.BOULEVARD.COM.BR"
+    "Nome Fantasia": "LUMINENSE TURISMO",
+    "Município": "Paço do Lumiar",
+    "Endereço Completo Comercial": "Rua 101 30 Loja C Paço do Lumiar Vila Alvorada CEP: 65130000 GO",
+    "Telefone Comercial": "(98)98888-7607",
+    "E-mail Comercial": "luminenseturismo@hotmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "CLASSIC TURISMO",
@@ -829,6 +757,14 @@
     "Endereço Completo Comercial": "Edson Brandão 01 São Luís Cutim Anil CEP: 65045380 MA",
     "Telefone Comercial": "(98)3302-2872",
     "E-mail Comercial": "atendimento@classicturismo.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LORENZO TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Franceses Box 01 São Luís Santo Antônio CEP: 65036284 MA",
+    "Telefone Comercial": "(98)9240-1020",
+    "E-mail Comercial": "raphaelagalletti@gmail.com",
     "Website": "-"
   },
   {
@@ -888,6 +824,14 @@
     "Website": "www.facebook.com/ecotrilhaschapadadasmesas"
   },
   {
+    "Nome Fantasia": "RIOMAR ECOTURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Inácio Lins  191D Barreirinhas",
+    "Telefone Comercial": "(98)98842-1660",
+    "E-mail Comercial": "sivaldosilvacosta@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "CARDEAL TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Coronel Colares Moreira Ed  São Luís Mult - Sala 116 - 1º Andar São Luís Jardim Renascença CEP: 65075441 MA",
@@ -918,6 +862,14 @@
     "Telefone Comercial": "(99)3524-5100",
     "E-mail Comercial": "leila@lturviagens.com.br",
     "Website": "www.lturviagens.com.br"
+  },
+  {
+    "Nome Fantasia": "M D M CORREA - ME",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França 79 São Luís Turu CEP: 65065470 MA",
+    "Telefone Comercial": "(98)98721-1010",
+    "E-mail Comercial": "mdmturismo@gmail.com",
+    "Website": "www.mdmturismo.com.br"
   },
   {
     "Nome Fantasia": "GLOBAL CONNECTION TRAVEL",
@@ -966,14 +918,6 @@
     "Telefone Comercial": "(99)9218-5212",
     "E-mail Comercial": "ivyenne@hotmail.com",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VALE DOS LENÇÓIS TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "rua major galas  em frente os correios  Barreirinhas",
-    "Telefone Comercial": "(98)3349-1420",
-    "E-mail Comercial": "reservas@valedoslencois.com",
-    "Website": "www.valedoslencois.com.br"
   },
   {
     "Nome Fantasia": "M  ARLETE ARAUJO - ME",
@@ -1032,14 +976,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "TJOTA TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Alcântara Machado  São Luís Maranhão Novo CEP: 65061240 MA",
-    "Telefone Comercial": "(98)98127-9069",
-    "E-mail Comercial": "tjturismo@icloud.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "LDR TUR",
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Holandeses Loja 127 GOLDEN shopping calhau São Luís Calhau CEP: 65071380 MA",
@@ -1064,20 +1000,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "E S M CULTURA PROMOCOES",
-    "Município": "Trizidela do Vale",
-    "Endereço Completo Comercial": "centro  Trizidela do Vale",
-    "Telefone Comercial": "(99)98125-7992",
-    "E-mail Comercial": "marcosesm@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PLANETA CONTENTE",
+    "Nome Fantasia": "UNIBENS TURISMO",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Juritis  10 Cond  Mário Meireles  503 São Luís Jardim Renascença CEP: 65075240 MA",
-    "Telefone Comercial": "(98)98126-0006",
-    "E-mail Comercial": "CONTATO@PLANETACONTENTE.COM.BR",
-    "Website": "WWW.PLANETACONTENTE.COM.BR"
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+    "Telefone Comercial": "(98)3311-4040",
+    "E-mail Comercial": "reservas@unibens.com.br",
+    "Website": "www.unibensturismo.com"
   },
   {
     "Nome Fantasia": "F G TURISMO",
@@ -1136,6 +1064,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "TAMBORES TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Nascimento de Moraes - até 859/860 São Luís São Francisco CEP: 65076320 MA",
+    "Telefone Comercial": "(98)98115-1630",
+    "E-mail Comercial": "tambores.angela@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "RASTO NA AREIA - VIAGENS E TURISMO",
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "RUA DAS FLORES  S/N - CENTRO   Santo Amaro do Maranhão",
@@ -1144,12 +1080,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "AVENTURA NAS TRILHAS",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "PRAÇA N  S  CONCEIÇÃO  S/N - CENTRO  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)8807-3421",
-    "E-mail Comercial": "joilsonsbrito2018@gmail.com",
-    "Website": "-"
+    "Nome Fantasia": "TROPICAL ADVENTURE",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "tv francisco chagas  01 Barreirinhas",
+    "Telefone Comercial": "(98)3349-1987",
+    "E-mail Comercial": "tropical.adventure@terra.com.br",
+    "Website": "www.tropicaladventure.com.br"
   },
   {
     "Nome Fantasia": "GRUPO SABIÁ TURISMO",
@@ -1196,7 +1132,7 @@
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "RUA DO SOL  22 A - CENTRO  Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)8839-1841",
-    "E-mail Comercial": "rosettur@outlook.com",
+    "E-mail Comercial": "reservasrosettur@gmail.com",
     "Website": "-"
   },
   {
@@ -1208,18 +1144,10 @@
     "Website": "www.novomundoturismo.com"
   },
   {
-    "Nome Fantasia": "MAIS VIAGENS",
-    "Município": "Açailândia",
-    "Endereço Completo Comercial": "Rua Goias 888 Açailândia",
-    "Telefone Comercial": "(99)9183-9203",
-    "E-mail Comercial": "ERIVELTOON@GMAIL.COM",
-    "Website": "maisnegocios.acai@gmail.com"
-  },
-  {
     "Nome Fantasia": "SESC TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "São Carlos S/N São Luís Olho D Água CEP: 65065420 MA",
-    "Telefone Comercial": "(98)3215-1500",
+    "Telefone Comercial": "(98)3215-1598",
     "E-mail Comercial": "turismosocial@ma.sesc.com.br",
     "Website": "www.sescma.com.br"
   },
@@ -1234,7 +1162,7 @@
   {
     "Nome Fantasia": "SAYMON TURISMO",
     "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "RUA ANTIGA PRACA DO MERCADO  Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Das Flores s/n  Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)8719-0508",
     "E-mail Comercial": "hayrann.nunes@yahoo.com.br",
     "Website": "-"
@@ -1248,11 +1176,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "PE NA TRILHA ECO ADVENTURE",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Avenida Adalberto Ribeiro 941  Carolina Residencial Eldorado CEP: 65980000 GO",
-    "Telefone Comercial": "(99)8131-1252",
-    "E-mail Comercial": "gabrielalima_belemcarol@hotmail.com",
+    "Nome Fantasia": "RAMADAS TUR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Turquesa  São Luís Aurora CEP: 65060770 MA",
+    "Telefone Comercial": "(98)9907-9480",
+    "E-mail Comercial": "janainapaularamada@gmail.com",
     "Website": "-"
   },
   {
@@ -1261,14 +1189,6 @@
     "Endereço Completo Comercial": "Agenor Vieira  São Luís São Francisco CEP: 65076020 MA",
     "Telefone Comercial": "(98)3235-6768",
     "E-mail Comercial": "orceniboulevardturismo@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MANNUS TUR TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Franceses 300 São Luís Vila Lobão CEP: 65045879 MA",
-    "Telefone Comercial": "(98)9906-4606",
-    "E-mail Comercial": "mannustur@gmail.com",
     "Website": "-"
   },
   {
@@ -1336,14 +1256,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "RIOS TOUR",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "rua antonio dias  Barreirinhas",
-    "Telefone Comercial": "(98)8853-1861",
-    "E-mail Comercial": "CONTATO@RIOSTOUR.COM.BR",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "F S TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Jaguarema 03 São Luís Anil CEP: 65049360 MA",
@@ -1352,11 +1264,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "AMUVIAJAR",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Vinte e Oito Quadra 50 São Luís Cohatrac IV CEP: 65054800 MA",
-    "Telefone Comercial": "(98)3303-4888",
-    "E-mail Comercial": "amuviajar@gmail.com",
+    "Nome Fantasia": "AEROTUR VIAGENS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Imigrantes  Imperatriz Alto da Boa Vista CEP: 65910600 MA",
+    "Telefone Comercial": "(99)9125-5425",
+    "E-mail Comercial": "aerotur.viagens@outlook.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AGUIAR TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Esquina Da rua Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8408-5389",
+    "E-mail Comercial": "clemilton314@gmail.com",
     "Website": "-"
   },
   {
@@ -1387,17 +1307,9 @@
     "Nome Fantasia": "SANTOS TURISMO LENCOIS",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Avenida Brasilia Centro Barreirinhas  Barreirinhas",
-    "Telefone Comercial": "(98)3349-0463",
+    "Telefone Comercial": "(98)99137-3770",
     "E-mail Comercial": "RESERVAS@SANTOSTURISMO.COM",
     "Website": "www.santosturismo.com"
-  },
-  {
-    "Nome Fantasia": "AGFJ TUR",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Doze Quadra 12 bloco C  São Luís Cidade Olímpica CEP: 65058529 MA",
-    "Telefone Comercial": "(98)8169-7545",
-    "E-mail Comercial": "Guiltj@hotmail.com",
-    "Website": "-"
   },
   {
     "Nome Fantasia": "VIAGEM SLZ",
@@ -1421,14 +1333,6 @@
     "Endereço Completo Comercial": "PRAÇA NOSSA SENHORA DA CONCEIÇÃO Nº 04 SALA 01  Santo Amaro do Maranhão Vila Nossa Senhora Aparecida CEP: 65195000 GO",
     "Telefone Comercial": "(98)8898-6553",
     "E-mail Comercial": "fabia_cristina77@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CLAVI TURISMO & VIAGENS EIRELI",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Vale do Pimenta  São Luís Parque Atlântico CEP: 65066160 MA",
-    "Telefone Comercial": "(98)8408-2882",
-    "E-mail Comercial": "CLAVITURISMO@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -1472,27 +1376,11 @@
     "Website": ""
   },
   {
-    "Nome Fantasia": "CASTRO & SA TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Franceses  São Luís Santo Antônio CEP: 65036284 MA",
-    "Telefone Comercial": "(98)98736-8722",
-    "E-mail Comercial": "castroesaturismo@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "TRINDATTUR TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Franceses  São Luís Santo Antônio CEP: 65036284 MA",
     "Telefone Comercial": "(98)3243-2077",
     "E-mail Comercial": "trindatturrodoviaria@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "J N TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Franceses  São Luís Santo Antônio CEP: 65036284 MA",
-    "Telefone Comercial": "(98)99208-6308",
-    "E-mail Comercial": "JOIZIANE_JOICE@HOTMAIL.COM",
     "Website": "-"
   },
   {
@@ -1509,7 +1397,7 @@
     "Endereço Completo Comercial": "Fran Pacheco quadra 6 n°11 São Luís Cohama CEP: 65073800 MA",
     "Telefone Comercial": "(98)8123-8594",
     "E-mail Comercial": "todefolgaslz@gmail.com",
-    "Website": "www.todefolgaslz.com"
+    "Website": "www.todefolgaslz.com.br"
   },
   {
     "Nome Fantasia": "ISIS TUR",
@@ -1520,43 +1408,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "BANDTUR",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua das Flores nº 310  Santo Amaro do Maranhão Vila Nossa Senhora Aparecida CEP: 65195000 GO",
-    "Telefone Comercial": "(98)8501-3183",
-    "E-mail Comercial": "bandturismo@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "DESTINOS TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Quéopes 12 São Luís Jardim Renascença CEP: 65075800 MA",
-    "Telefone Comercial": "(98)9974-6801",
+    "Telefone Comercial": "(98)98132-7713",
     "E-mail Comercial": "MODETECAMPOS@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BAZOLA TURISMO",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "RUA OLHO D AGUA Nº 08 - OLHO DAGUA  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)9907-4288",
-    "E-mail Comercial": "Bazolaturismo@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LUDOVIC TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Quatro Quadra 06 São Luís Cohatrac IV CEP: 65054630 MA",
-    "Telefone Comercial": "(98)8168-4390",
-    "E-mail Comercial": "contato@ludovicturismo.com.br",
-    "Website": "www.ludovicturismo.com.br"
-  },
-  {
-    "Nome Fantasia": "GOLD VIAGENS E TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Manoel Antônio de Almeida quadr 11 numero 03  São Luís Maranhão Novo CEP: 65061310 MA",
-    "Telefone Comercial": "(98)8820-3456",
-    "E-mail Comercial": "GOLDPASSAGENSAEREAS@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -1581,30 +1437,6 @@
     "Endereço Completo Comercial": "travessa tiradentes  sala Santo Amaro do Maranhão Vila Nossa Senhora Aparecida CEP: 65195000 GO",
     "Telefone Comercial": "(98)98463-1022",
     "E-mail Comercial": "inaldoturismolencois2019@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "JUREMA TRANSPORTES E TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua Domingos Carvalho s/n    Barreirinhas",
-    "Telefone Comercial": "(98)8831-6668",
-    "E-mail Comercial": "jurematransporteturismo@gmail.com",
-    "Website": "www.jurematurismo.com/"
-  },
-  {
-    "Nome Fantasia": "RIO GRANDE AGENCIA DE VIAGEM",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua Afonso Pena  01  Santo Amaro do Maranhão Vila Nossa Senhora Aparecida CEP: 65195000 GO",
-    "Telefone Comercial": "(98)98892-9697",
-    "E-mail Comercial": "cras_adv@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "WM TURISMO LOJAS E VARIEDADES",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "14 do Engenho  São Luís Jardim São Cristóvão CEP: 65055624 MA",
-    "Telefone Comercial": "(98)98612-1861",
-    "E-mail Comercial": "moraeswalter764@gmail.com",
     "Website": "-"
   },
   {
@@ -1680,14 +1512,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "VILLASLZ VIAGENS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Um Av  Um  111  Qd 51  Sala 102  Edif  Roque Santeiro São Luís Bequimão CEP: 65062190 MA",
-    "Telefone Comercial": "(98)9236-1496",
-    "E-mail Comercial": "reservas@villaslzviagens.com.br",
-    "Website": "https://www.instagram.com/villaslz.viagens/?hl=pt-br"
-  },
-  {
     "Nome Fantasia": "CASA DAS MILHAS",
     "Município": "Imperatriz",
     "Endereço Completo Comercial": "Moacyr Spósito Ribeiro  Imperatriz Aeroporto CEP: 65913415 MA",
@@ -1712,7 +1536,7 @@
     "Website": "instagram/oefturismo"
   },
   {
-    "Nome Fantasia": "JERIEL VIAGENS E TURISMO",
+    "Nome Fantasia": "J C SANTOS VIAGENS E TURISMO LTDA",
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "ANTIGA PRAÇA DO MERCADO  02 - CENTRO  Santo Amaro do Maranhão",
     "Telefone Comercial": "-",
@@ -1976,6 +1800,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "Guaras Turismo",
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Rua Hermes da Fonseca 133 Rua Hermes da Fonseca 133 Tutóia",
+    "Telefone Comercial": "(98)3196-0688",
+    "E-mail Comercial": "pousadaguaras@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "PARTIU VIAJAR TOUR",
     "Município": "Paço do Lumiar",
     "Endereço Completo Comercial": "Av Principal  32  Paço do Lumiar",
@@ -2040,6 +1872,22 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "REALIZE VIAGENS E TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "P  São Luís Radional CEP: 65047620 MA",
+    "Telefone Comercial": "(98)98114-5223",
+    "E-mail Comercial": "brendaserra@yahoo.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TOP TOUR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "11 (Unidade 203) São Luís Cidade Operária CEP: 65058164 MA",
+    "Telefone Comercial": "(98)9891-7181",
+    "E-mail Comercial": "w.anderson_medeiros@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "MARLETE TURISMO",
     "Município": "Santa Inês",
     "Endereço Completo Comercial": "Rua da Mangueira  218  Santa Inês Mercado Municipal CEP: 65302345 MA",
@@ -2056,11 +1904,27 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "SLZ TURISMO MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Curiós  São Luís Vila Esperança CEP: 65095460 MA",
+    "Telefone Comercial": "(98)8259-1149",
+    "E-mail Comercial": "bruno.nues@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "INDIO TURISMO",
     "Município": "Carolina",
     "Endereço Completo Comercial": "rua Imperatriz  709 Carolina",
     "Telefone Comercial": "(99)9151-2540",
     "E-mail Comercial": "guiajoelindio@outlook.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AGUIAR ECO TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA BOA ESPERANÇA/TRAV DA RUA NOVA  Barreirinhas",
+    "Telefone Comercial": "(98)9608-7885",
+    "E-mail Comercial": "aguiarecoturismo@gmail.com",
     "Website": "-"
   },
   {
@@ -2072,7 +1936,7 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "SPHC TRANSLADO E TURISMO",
+    "Nome Fantasia": "SPHC TRASLADO E TURISMO",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Rua São José   Barreirinhas",
     "Telefone Comercial": "(98)8436-3757",
@@ -2192,12 +2056,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "AV PASSEIO TURISMO OFICIAL",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Israel  São Luís Jardim São Cristóvão CEP: 65056420 MA",
-    "Telefone Comercial": "(98)99103-2809",
-    "E-mail Comercial": "rosivandacostagaioso12@gmail.com",
-    "Website": "-"
+    "Nome Fantasia": "PORTAL BARREIRINHAS",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Rodovia MA 203 Cond  Costa Araçagi  Torre 1  Apt: 1203 São José de Ribamar",
+    "Telefone Comercial": "(98)8249-7622",
+    "E-mail Comercial": "AMANDARAMOSZ@HOTMAIL.COM",
+    "Website": "https://portalbarreirinhas.com.br/"
   },
   {
     "Nome Fantasia": "D&C TURISMO",
@@ -2248,6 +2112,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "NORDESTE ECO TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "AV BRASILIA RESID RIO PREGUICAS  Barreirinhas",
+    "Telefone Comercial": "(98)8778-7000",
+    "E-mail Comercial": "NORDESTEECOTURISMO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "BRASILIA TURISMO",
     "Município": "Araioses",
     "Endereço Completo Comercial": "S/N  Araioses",
@@ -2272,6 +2144,14 @@
     "Website": "www.hostellencoispark.com.br"
   },
   {
+    "Nome Fantasia": "Amorim turismo",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Olho d água Próximo a pousada Rancho das Dunas Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8463-7831",
+    "E-mail Comercial": "gilvaneamorim@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "AMERICO TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Cinco  São Luís Vila Embratel CEP: 65081311 MA",
@@ -2286,14 +2166,6 @@
     "Telefone Comercial": "(98)98811-7548",
     "E-mail Comercial": "lobosturismo@outlook.com",
     "Website": "https://lobos-turismo.negocio.site"
-  },
-  {
-    "Nome Fantasia": "COMFORT X",
-    "Município": "Imperatriz",
-    "Endereço Completo Comercial": "Projetada B  Imperatriz Nova Imperatriz CEP: 65907390 MA",
-    "Telefone Comercial": "(99)3524-3210",
-    "E-mail Comercial": "DANILOFISIO17@GMAIL.COM",
-    "Website": "-"
   },
   {
     "Nome Fantasia": "ROTA SOL",
@@ -2352,11 +2224,35 @@
     "Website": "https://www.facebook.com/ilhadosguarascedral"
   },
   {
+    "Nome Fantasia": "CHURRASCARIA & LANCHONETE GIGA",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA PROJETADA N°01  OLHO D AGUA SANTO AMARO Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9205-9534",
+    "E-mail Comercial": "ab.brunomaia@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "GUARATUR ADVENTURE",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "R PRINCIPAL  Barreirinhas",
     "Telefone Comercial": "(88)9142-8119",
     "E-mail Comercial": "GUARATUADVENTURE@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "JC TURISMO",
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "rua 03  casa 23b  Itapecuru Mirim",
+    "Telefone Comercial": "(98)99179-5698",
+    "E-mail Comercial": "CARLOSOLIVEIRASTURISMO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AGENCIA BRECO TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Travessa Tiradentes  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8840-2798",
+    "E-mail Comercial": "MYLLASILVEIRA@HOTMAIL.COM",
     "Website": "-"
   },
   {
@@ -2368,6 +2264,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "LEITE TURISMO",
+    "Município": "Araioses",
+    "Endereço Completo Comercial": "Povoado Canarias Zona rural Araioses",
+    "Telefone Comercial": "(86)9517-1365",
+    "E-mail Comercial": "MARCELADRL@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "KABUQUIIM ADVENTURE",
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "Rua Afonso Pena  Santo Amaro do Maranhão",
@@ -2376,11 +2280,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "KABECAO TURISMO E EQUIPAMENTOS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua 7 de Setembro  19  Ladeira  Barreirinhas",
-    "Telefone Comercial": "(98)8452-1675",
-    "E-mail Comercial": "wscontab@hotmail.com",
+    "Nome Fantasia": "PORTAL DOS LENCOIS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "rua 28 de julho número 56  centro Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)3313-3000",
+    "E-mail Comercial": "fernanda@portaldoslencois.com.br",
+    "Website": "www.portaldoslencois.com.br"
+  },
+  {
+    "Nome Fantasia": "GALEGO TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA BOA ESPERANCA CASA Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)3369-1164",
+    "E-mail Comercial": "GLEUDSONRA07@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -2392,46 +2304,6 @@
     "Website": "https://instagram.com/raedson_ecotrilhas?igshid=op3by0w6p2vc"
   },
   {
-    "Nome Fantasia": "OLHO DAGUA ADVENTURE",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "RUA CIDADE DE RIACHAO N 1109 em frente o Hotel Tocantins Carolina",
-    "Telefone Comercial": "(99)98205-9693",
-    "E-mail Comercial": "espindolamedeiros@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Letícia Moura Dias",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Franceses Condomínio portal da cidade 102 São Luís Santo Antônio CEP: 65036284 MA",
-    "Telefone Comercial": "(98)98444-8710",
-    "E-mail Comercial": "LETHYS.MOURA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "JAJA TURISMO",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "RUA TIRADENTES  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)9147-3530",
-    "E-mail Comercial": "jainonbraga@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VIVA LA VIDA TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Dez Bloco b quadra 59 São Luís Cidade Olímpica CEP: 65058527 MA",
-    "Telefone Comercial": "(98)8340-6177",
-    "E-mail Comercial": "CARLOS.SILVANNB@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "FABIO ABREU TURISMO",
-    "Município": "Esperantinópolis",
-    "Endereço Completo Comercial": "RUA VITORINO FREIRE  Esperantinópolis",
-    "Telefone Comercial": "(99)98831-9669",
-    "E-mail Comercial": "ELIANEDOCARMOALCANTARA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "ATINS DUNAS TOUR",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Povoado Atins  Barreirinhas",
@@ -2440,60 +2312,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "C M V TURISMO",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "AVENIDA GENERAL ARTUR CARVALHO (MIRITIUA) COND  VILLAGE JARDINS 5  BLOCO 07  AP 301 São José de Ribamar",
-    "Telefone Comercial": "(98)8132-7185",
-    "E-mail Comercial": "CMV.TURISMO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "FREITAS TURISMO SLZ",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Zâmbia Próximo ao ponto final do fumacê São Luís Fumacê CEP: 65086799 MA",
+    "Endereço Completo Comercial": "Chile 5 São Luís Anjo da Guarda CEP: 65085087 MA",
     "Telefone Comercial": "(98)8714-4644",
     "E-mail Comercial": "FREITASTURISMO1SLZ@GMAIL.COM",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "REAL TRAVEL VIAGENS E TURISMO",
-    "Município": "Dom Pedro",
-    "Endereço Completo Comercial": "Rua Pedro Branco SN  Dom Pedro",
-    "Telefone Comercial": "(99)9195-3809",
-    "E-mail Comercial": "realtravelviagens@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "NC PLACAS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "do Campo  São Luís Jardim São Raimundo CEP: 65057794 MA",
-    "Telefone Comercial": "(98)9145-4443",
-    "E-mail Comercial": "KLEIDIMAR2011@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TRIP ROAD SLZ",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "12 (Unidade 205) São Luís Cidade Operária CEP: 65058143 MA",
-    "Telefone Comercial": "(98)98240-1697",
-    "E-mail Comercial": "windisley@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DE FERIAS NA CHAPADA",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua da Caixa D água 1A Centro Carolina",
-    "Telefone Comercial": "(99)3531-2772",
-    "E-mail Comercial": "DEFERIASNACHAPADA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DRM Travel and Services",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Rua Projetada - Tangará  Povoado Urucutiua São José de Ribamar",
-    "Telefone Comercial": "(98)99129-4945",
-    "E-mail Comercial": "contato@drmtravel.com",
-    "Website": "www.drmtravel.com"
   },
   {
     "Nome Fantasia": "MURICI TURISMO",
@@ -2504,187 +2328,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "STAND CAR SERVICOS",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua do Petróleo casa Carolina",
-    "Telefone Comercial": "(99)8196-6241",
-    "E-mail Comercial": "IAPOLONIOJR@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SUPREMUS TUR",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua Coelho Paredes 10 Centro Carolina",
-    "Telefone Comercial": "(99)8413-8275",
-    "E-mail Comercial": "SUPREMUSTUR@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ECOTOUR LENÇÓIS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Travessa São José  Boa Fé 04 Barreirinhas",
-    "Telefone Comercial": "(98)98473-1211",
-    "E-mail Comercial": "ecotourlencois@gmail.com",
-    "Website": "https://idolink.bio/ecotourlencois"
-  },
-  {
-    "Nome Fantasia": "MRTURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Curiós  São Luís Vila Esperança CEP: 65095460 MA",
-    "Telefone Comercial": "(98)8742-1159",
-    "E-mail Comercial": "MRMARCELOCOSTA926@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Cmreis",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Carnaubal Pi n Barreirinhas",
-    "Telefone Comercial": "(98)8612-4516",
-    "E-mail Comercial": "CLAUDIAMARIACOSTA_@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TRIP TOUR MA AGENCIA DE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Franceses  São Luís Vila Ivar Saldanha CEP: 65036282 MA",
-    "Telefone Comercial": "(98)8406-7392",
-    "E-mail Comercial": "DANIELCAMPOSSILVA49@GMAIL.COM",
-    "Website": "https://instagram.com/triptour_ma?igshid=icam9uu32bf5"
-  },
-  {
-    "Nome Fantasia": "DISCOVERY TOURS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "CENTRO  Barreirinhas",
-    "Telefone Comercial": "(98)8824-6709",
-    "E-mail Comercial": "JOSERIBAMAR84851@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BR TURISMO",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "MA 203 CONDOMINIO COSTA ARACAGY CLUBE TORRE 2 APTO 104  São José de Ribamar",
-    "Telefone Comercial": "(98)8896-0401",
-    "E-mail Comercial": "BRTRANSPORTEETURISMO@OUTLOOK.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SUMAUMA TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Av  Amapá Casa Barreirinhas",
-    "Telefone Comercial": "(98)8192-8031",
-    "E-mail Comercial": "SEGUNDONOVAES@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TS TURIMOS SLZ AGENCIA DE VIAGENS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Edson Brandão Condomínio eco park III bloco 7 ap01  São Luís Cutim Anil CEP: 65045380 MA",
-    "Telefone Comercial": "(98)8404-0105",
-    "E-mail Comercial": "THAYNACBT@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VIAJANTES_SLZ",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Projetada 23 PROX CONDOMINIO PARQUE DAS MANGUEIRAS São Luís Alameda dos Sonhos CEP: 65055459 MA",
-    "Telefone Comercial": "(98)8714-5779",
-    "E-mail Comercial": "RAYLLAMK@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RUFINO TURISMO",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua benedito leite 367 A centro Carolina",
-    "Telefone Comercial": "(99)8201-6653",
-    "E-mail Comercial": "DF.BARBOSA.COMERCIO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MORADA DO SOL AVENTURA",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Avenida Brasília  678  Carolina",
-    "Telefone Comercial": "(99)3531-2058",
-    "E-mail Comercial": "MORADADOSOL.AVENTURA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TREGUATOUR TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "das Gardênias  São Luís Ponta D Areia CEP: 65077440 MA",
-    "Telefone Comercial": "(98)9108-0797",
-    "E-mail Comercial": "SEBACARIBEIRO@YAHOO.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TCHE TCHE TURISMO E FRETAMENTO",
-    "Município": "Tutóia",
-    "Endereço Completo Comercial": "av paulino neves centro Tutóia",
-    "Telefone Comercial": "(98)98753-2126",
-    "E-mail Comercial": "pedro-castro55@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "M J da Silva Junior",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "avenida honorio ayres 1091 Carolina",
-    "Telefone Comercial": "(99)8172-0011",
-    "E-mail Comercial": "JUNIORCROSSBALA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LENCOIS TREKKING",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA GARCIA S/N CENTRO Barreirinhas",
-    "Telefone Comercial": "(98)99127-3106",
-    "E-mail Comercial": "CRUZAGUIARDOMINGOSDA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LUCAS TOUR TRANSPORTE & TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "TV CAZUZA RAMOS  N 285 B  CRUZEIRO  Barreirinhas",
-    "Telefone Comercial": "(98)9985-8489",
-    "E-mail Comercial": "LUCASTOUREXPEDICOES@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LENCOIS PRIME",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AVENIDA BRASÍLIA Nº 58 CENTRO Barreirinhas",
-    "Telefone Comercial": "(98)9106-0387",
-    "E-mail Comercial": "MARCOSCARVALHO31@OUTLOOK.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PANORAMA ADVENTURE",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Travessa Elias Barros 1520 Alto da Colina Carolina",
-    "Telefone Comercial": "(99)8100-2405",
-    "E-mail Comercial": "luidrocha28@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "AGUATUR S/A",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Avenida Adalberto Ribeiro 446 Centro Carolina",
-    "Telefone Comercial": "(99)8141-8131",
-    "E-mail Comercial": "MARCOS18107899@GMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "BELA VISTA",
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "Rua do Fio  Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)8115-0770",
     "E-mail Comercial": "DJALMA2NETO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "XERIFF TURISMO",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "SAO RAIMUNDO Olho d Agua Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)98605-9668",
-    "E-mail Comercial": "DEL.ALISSON.K@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -2712,27 +2360,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "V&C VIAGENS E TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "da Liberdade  São Luís Fátima CEP: 65031040 MA",
-    "Telefone Comercial": "(98)8919-4099",
-    "E-mail Comercial": "VALTER0909@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "LIBERDADE TURISMO",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Dois 43 São Luís Cohatrac IV CEP: 65054510 MA",
-    "Telefone Comercial": "(98)98769-3952",
-    "E-mail Comercial": "LETICIACASTRO93@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "THOR DOS LENCOIS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua Anacleto de Carvalho  Barreirinhas",
-    "Telefone Comercial": "(98)3349-0528",
-    "E-mail Comercial": "DAUVANAGUIAR@GMAIL.COM",
+    "Telefone Comercial": "(98)99995-7978",
+    "E-mail Comercial": "liberdade.turismo@otmail.com",
     "Website": "-"
   },
   {
@@ -2744,14 +2376,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "TRANSPORTADORA VALE DO SOL",
-    "Município": "Bacabeira",
-    "Endereço Completo Comercial": "sao cristovão n82  Bacabeira",
-    "Telefone Comercial": "(98)9991-4985",
-    "E-mail Comercial": "vslocacao@outlook.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "AGENCIA PORTAL",
     "Município": "Tutóia",
     "Endereço Completo Comercial": "AV PAULINO NEVES S/N CENTRO  Tutóia",
@@ -2760,83 +2384,11 @@
     "Website": "https://instagram.com/agportal_tutoia_ma?igshid=1pslydrludxnm"
   },
   {
-    "Nome Fantasia": "DESTAK TOUR  INFORMACOES TURISTICAS E EMPRESARIAIS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Edmundo Calheiros - até 899/900 São Luís São Francisco CEP: 65076390 MA",
-    "Telefone Comercial": "(98)8445-8001",
-    "E-mail Comercial": "lemosmoraes@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SK TURISMO SLZ",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Raimundo Correia  São Luís Monte Castelo CEP: 65031520 MA",
-    "Telefone Comercial": "(98)9164-4858",
-    "E-mail Comercial": "VALCONTABILADM@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MENDES TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Cinco  São Luís Redenção CEP: 65043040 MA",
-    "Telefone Comercial": "-",
-    "E-mail Comercial": "rosanamendesbarbosa566@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PIRAS TUR VIAGENS",
-    "Município": "-",
-    "Endereço Completo Comercial": "Alto do Gavião  Estrada Matões  Pirapemas",
-    "Telefone Comercial": "(98)98480-9587",
-    "E-mail Comercial": "PIRASTURVIAGENS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DUARTE TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AV BRASILIA  NÚMERO 12  CENTRO   Barreirinhas",
-    "Telefone Comercial": "(98)98151-2024",
-    "E-mail Comercial": "marcioduduarte@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MAR TRANSPORTE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "do Alumínio  São Luís Residencial Canaã CEP: 65049380 MA",
-    "Telefone Comercial": "(98)8808-9994",
-    "E-mail Comercial": "MAR.TRANSPORTE@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "ELSON TURISMO",
     "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "RUA BOA ESPERANCA  Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Bairro olho d água  S/ N  Próximo ao Pedro Cavalo Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)9131-0721",
     "E-mail Comercial": "DOMINGAS2016A@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MUNDO DA LUA TURISMO EXPERIENCIA MULTIE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Quatro  São Luís Vinhais CEP: 65071060 MA",
-    "Telefone Comercial": "(98)8291-5070",
-    "E-mail Comercial": "MUNDODALUATURISMO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GARAIAQUE TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua Principal  Barreirinhas",
-    "Telefone Comercial": "(98)98703-5558",
-    "E-mail Comercial": "CLEISON.NUNES1998@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ELLENTOUR  SLZ",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "de Ribamar Blz 3d só 21 São Luís Forquilha CEP: 65054005 MA",
-    "Telefone Comercial": "(98)9999-2256",
-    "E-mail Comercial": "EJSOUSA31ELLENTOUR@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -2846,46 +2398,6 @@
     "Telefone Comercial": "(98)8534-6105",
     "E-mail Comercial": "BRUNINHADIAS.ILHA@GMAIL.COM",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SUNSHINE ENTRETENIMENTO E TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Norte  São Luís Cohatrac II CEP: 65053780 MA",
-    "Telefone Comercial": "(98)8148-9222",
-    "E-mail Comercial": "MIGUELFILHO123.MF@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DTURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Três  São Luís Alto do Calhau CEP: 65072780 MA",
-    "Telefone Comercial": "(98)98193-3117",
-    "E-mail Comercial": "DTURISMODANILO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "J e M turismo",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Holandeses Número 1 São Luís Jardim Renascença CEP: 65075650 MA",
-    "Telefone Comercial": "(98)4009-2700",
-    "E-mail Comercial": "julianabezerra.1860@cvc.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RIO ANIL TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Castelo Branco - lado par São Luís São Francisco CEP: 65076091 MA",
-    "Telefone Comercial": "(98)99962-4617",
-    "E-mail Comercial": "fariasluzenir@yahoo.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Expresso transportes Turismo e eventos",
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Rodoviário  Box dentro do terminal rodoviário  Grajaú",
-    "Telefone Comercial": "(99)9122-6728",
-    "E-mail Comercial": "FUTURACONTABILIDADE@HOTMAIL.COM",
-    "Website": "Dianamoura8586@gmail.com"
   },
   {
     "Nome Fantasia": "RIOS TUR",
@@ -3208,6 +2720,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "SHALOM TURISMO",
+    "Município": "Santa Inês",
+    "Endereço Completo Comercial": "Rua 02 174D Santa Inês Jardim Nova Era CEP: 65306045 MA",
+    "Telefone Comercial": "(98)99174-8344",
+    "E-mail Comercial": "PRRAFAFREITAS@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "ANGECIA WL TURISMO",
     "Município": "Paulino Neves",
     "Endereço Completo Comercial": "Rua Demetrio Ribeiro S/N  Paulino Neves",
@@ -3253,6 +2773,14 @@
     "Endereço Completo Comercial": "Rodovia BR 010 s/n Zona rural Carolina",
     "Telefone Comercial": "(99)9107-3052",
     "E-mail Comercial": "RENATOCARVALHO381@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AQUARELA TRAVEL",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua ET Santo Antônio   Bairro Carnaubal  galpão 02 02 Barreirinhas",
+    "Telefone Comercial": "(98)9171-7120",
+    "E-mail Comercial": "AQUARELAHOSPEDARIA@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -3478,14 +3006,6 @@
     "Telefone Comercial": "(99)3526-5205",
     "E-mail Comercial": "FAMILIAFELIZVIAGENS@GMAIL.COM",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VICENTTOUR VIAGENS E TURISMO",
-    "Município": "Santa Inês",
-    "Endereço Completo Comercial": "XV de Novembro 964 Curitiba Centro CEP: 80060000 PR",
-    "Telefone Comercial": "(98)98475-0256",
-    "E-mail Comercial": "vicenttour@vicenttour.com",
-    "Website": "https://www.vicenttour.com.br"
   },
   {
     "Nome Fantasia": "WEJ TRANSFER E TURISMO",
@@ -4584,6 +4104,14 @@
     "Website": "www.guiadebarreirinas.com.br"
   },
   {
+    "Nome Fantasia": "ENCANTO'S TRAVEL",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Condomínio Maraville 302 São José de Ribamar",
+    "Telefone Comercial": "(98)8111-6433",
+    "E-mail Comercial": "VIAGENS.ENCANTOSTRAVEL@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "GERUTUR VIAGENS",
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Ipês  São Luís Jardim Renascença CEP: 65075200 MA",
@@ -4854,5 +4382,701 @@
     "Telefone Comercial": "(86)99929-1156",
     "E-mail Comercial": "ADVENTUREUTVPHB@GMAIL.COM",
     "Website": "www.adventurephb.com.br"
+  },
+  {
+    "Nome Fantasia": "VIA MUNDI VIAGENS",
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "RUA FLORIANO PEIXOTO 856 Pinheiro",
+    "Telefone Comercial": "(98)98416-0595",
+    "E-mail Comercial": "TURISMOVIAMUNDI@GMAI.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "NILSONELSON ADVENTURE",
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "alfredo de assis 43 Riachão",
+    "Telefone Comercial": "(99)8820-3800",
+    "E-mail Comercial": "NILSONOLIVER@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LUIS TOUR",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA DO PORTO 05 Barreirinhas",
+    "Telefone Comercial": "(98)8444-3551",
+    "E-mail Comercial": "SOLDADOLUISDECRISTO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "VOAR VOOS PANORAMICOS",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "AVENIDA BRASILIA 100 Barreirinhas",
+    "Telefone Comercial": "(98)9651-9917",
+    "E-mail Comercial": "KINGAIRAVIACAO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PASSOS TUR",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA FRANCISCO CHAGAS  449 Barreirinhas",
+    "Telefone Comercial": "(98)8406-1357",
+    "E-mail Comercial": "EDEILSONPSOUSA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LE TURISMO",
+    "Município": "Santa Inês",
+    "Endereço Completo Comercial": "31 de Março 96 Santa Inês Santo Antônio CEP: 65300559 MA",
+    "Telefone Comercial": "(98)8240-6990",
+    "E-mail Comercial": "LUCIELLEMSANTOS1@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GABRIEL TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA ANTONIO DIAS  SN Barreirinhas",
+    "Telefone Comercial": "(98)8825-4961",
+    "E-mail Comercial": "ZILDARDG@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TERRA DAS PALMEIRAS TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Boa Esperança S/N  Bairro: Aeroporto Barreirinhas",
+    "Telefone Comercial": "(98)9232-5545",
+    "E-mail Comercial": "VANGELES.PIRES@GMAIL.COM",
+    "Website": "www.terradaspalmeiras.com.br"
+  },
+  {
+    "Nome Fantasia": "MAGIC AIR TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "V-04 18 São Luís Parque Shalon CEP: 65073070 MA",
+    "Telefone Comercial": "(98)3304-4142",
+    "E-mail Comercial": "CAROLBARBOSA00@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "JR TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "R  CINCINATO RIBEIRO REGO 21 Barreirinhas",
+    "Telefone Comercial": "(98)8711-0343",
+    "E-mail Comercial": "JPEDROJUNIOR836@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BETEL TOUR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Cinco  São Luís Cohatrac III CEP: 65054670 MA",
+    "Telefone Comercial": "(98)8868-1811",
+    "E-mail Comercial": "JANAINAALVES21@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "R R R VIAGENS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Três 22 São Luís Angelim CEP: 65063480 MA",
+    "Telefone Comercial": "(98)98707-2709",
+    "E-mail Comercial": "ROBERTOROBSON1@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BAJARA NETO ECOTURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Clarece Ramos Casa 18B Rua da Bandeira Centro Barreirinhas",
+    "Telefone Comercial": "(98)98545-8537",
+    "E-mail Comercial": "BAJARAJUNIOR@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BEACH PASSEIOS",
+    "Município": "Araioses",
+    "Endereço Completo Comercial": "POVOADO CANARIAS sn Araioses",
+    "Telefone Comercial": "(86)99563-3124",
+    "E-mail Comercial": "beachpasseios@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BOEING3",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Nova 203 São Luís Turu CEP: 65066350 MA",
+    "Telefone Comercial": "(98)8297-2241",
+    "E-mail Comercial": "CONTATO@BOEING3.COM",
+    "Website": "https://boeing3.com/"
+  },
+  {
+    "Nome Fantasia": "SOLEIL SERVICOS TURISTICOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Oito  São Luís Conjunto dos Ipês CEP: 65070497 MA",
+    "Telefone Comercial": "(98)9165-3615",
+    "E-mail Comercial": "NANYNAY@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AMOUDOU TRAVEL AGENCY",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+    "Telefone Comercial": "(98)8814-8533",
+    "E-mail Comercial": "M.CARIOLANO@OUTLOOK.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BONAIRE TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Professor Carlos Cunha 1000 lj 110 - São luis Shopping São Luís Jaracaty CEP: 65076820 MA",
+    "Telefone Comercial": "(98)4009-2800",
+    "E-mail Comercial": "marcioarouche.1810@cvc.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MS PRESTACAO DE SERVICOS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Santa Rita 1038 Imperatriz Bacuri CEP: 65916105 MA",
+    "Telefone Comercial": "(99)8468-8887",
+    "E-mail Comercial": "SORAYA@MSRVIAGENS.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GLORIA STAR EVENTS",
+    "Município": "Paço do Lumiar",
+    "Endereço Completo Comercial": "Rua 3 N 8   Quadra 8 Paço do Lumiar",
+    "Telefone Comercial": "(98)9184-3150",
+    "E-mail Comercial": "ELYES@GLORIASTAREVENTS.COM.BR",
+    "Website": "http://www.gloriastarevents.com.br"
+  },
+  {
+    "Nome Fantasia": "QUANTUM",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Vila Ina Rego  11 Bloco 11  Casa 8 São Luís Centro CEP: 65010520 MA",
+    "Telefone Comercial": "(98)8127-6067",
+    "E-mail Comercial": "ecolinguas@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "JL TURISMO",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Tamandaré  Imperatriz Mercadinho CEP: 65901360 MA",
+    "Telefone Comercial": "(99)8155-7970",
+    "E-mail Comercial": "LENETURAGENTEADM@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DANIELA PORTELA GASPAR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "General Artur Carvalho 1120 São Luís Turu CEP: 65066330 MA",
+    "Telefone Comercial": "(98)8727-3414",
+    "E-mail Comercial": "DANNY-PORTELA@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TRILHAS & MARES TURISMO E AVENTURA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Dois  São Luís Bequimão CEP: 65061480 MA",
+    "Telefone Comercial": "(98)8290-1520",
+    "E-mail Comercial": "TRILHASEMARESTURISMO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ROTA DE AVETURAS MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Altamira 10 São Luís Quintas do Calhau CEP: 65072881 MA",
+    "Telefone Comercial": "(98)9198-6114",
+    "E-mail Comercial": "rotadeaveturasma@gmail.com",
+    "Website": "https://instagram.com/rotadeaventurasma?igshid=OGQ2MjdiOTE="
+  },
+  {
+    "Nome Fantasia": "GIRAMUNDO INTERCAMBIO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Rua Projetada S N Condominio Marcele I São Luís Turu CEP: 65066903 MA",
+    "Telefone Comercial": "(98)8554-5537",
+    "E-mail Comercial": "MAURICIOCMEDEIROSMKT@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "VIAJE MAIS TURISMO E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Um 20 São Luís Planalto Anil I CEP: 65050841 MA",
+    "Telefone Comercial": "(98)9913-6834",
+    "E-mail Comercial": "IGORMBPINHEIRO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ATINS FERIAS",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL S/N Barreirinhas",
+    "Telefone Comercial": "(98)8525-5541",
+    "E-mail Comercial": "MAYANA-SANTOS.04@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "G E ADVENTURE",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA SÃO BERNARDO NOVO AEROPORTO 10 Barreirinhas",
+    "Telefone Comercial": "(98)8465-3233",
+    "E-mail Comercial": "NALDINHO103122@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ADRENALINA LENCOIS ADVENTURE",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Murici  03 Barreirinhas",
+    "Telefone Comercial": "(98)8436-9217",
+    "E-mail Comercial": "JULIOANTERO17@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "C&C LENCOIS TUR",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Nova S/N Barreirinhas",
+    "Telefone Comercial": "(43)9969-0716",
+    "E-mail Comercial": "CASSIALIOGGI@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOLIDAY TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "POVOADO SATUBA SN Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8510-2116",
+    "E-mail Comercial": "MOISESRAMOSDOSSANTOS44@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "IRENE TUR",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "AV  RIO ALEGRE Nº 10  BAIRRO OLHO D AGUA Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8731-9500",
+    "E-mail Comercial": "IRENEPAULA.COMJOAO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MOMENTO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Seis  São Luís Conjunto dos Ipês CEP: 65070495 MA",
+    "Telefone Comercial": "(98)9104-7397",
+    "E-mail Comercial": "SIRMARPLAN@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "A & L VIAGENS LTDA",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Urbano Santos 155 Imperatriz Centro CEP: 65900410 MA",
+    "Telefone Comercial": "(99)99215-4810",
+    "E-mail Comercial": "STORIESVIAGENS@GMAIL.COM",
+    "Website": "http://www.storiesviagens.com.br/"
+  },
+  {
+    "Nome Fantasia": "ZELDASCOTT TUR - AGÊNCIA DE VIAGENS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohajap CEP: 65072455 MA",
+    "Telefone Comercial": "(98)99207-0304",
+    "E-mail Comercial": "ZELDACARVALHEDO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "IMPERATRIZ PASSAGENS AEREAS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "da Forquilha 375 Imperatriz Vila Lobão CEP: 65910193 MA",
+    "Telefone Comercial": "(99)8160-7643",
+    "E-mail Comercial": "WILLIAN-VIANA@HOTMAIL.COM",
+    "Website": "https://www.imperatrizpassagens.com/"
+  },
+  {
+    "Nome Fantasia": "FELIPE MEDEIROS VIAGENS E TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA 07 E SETEMBRO 25A Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8779-8365",
+    "E-mail Comercial": "FELIPE.L.MEDEIROS92@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DESBRAVAR VIAGENS E TURISMO",
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Rua  Uniao  00 Paulino Neves",
+    "Telefone Comercial": "(98)9848-3671",
+    "E-mail Comercial": "JOABETAVARES1998@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AG TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua da Alegria  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8886-2987",
+    "E-mail Comercial": "AGOSTINHOEVENTOS@BOL.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ST TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Figueredo Campos SN Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8434-2679",
+    "E-mail Comercial": "ISMAELMARREIROS12@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LENCOIS MARANHENSES EXPEDICOES QUADRICICLO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "65590000  Barreirinhas",
+    "Telefone Comercial": "(98)8861-5042",
+    "E-mail Comercial": "DRIELLEH_MA@HOTMAIL.COM",
+    "Website": "https://www.instagram.com/lencois_maranhenses_quadricicl/"
+  },
+  {
+    "Nome Fantasia": "TANATUR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "02 (Unidade 103) São Luís Cidade Operária CEP: 65058103 MA",
+    "Telefone Comercial": "(98)8220-7317",
+    "E-mail Comercial": "AGENCIATANATUR1@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PRATICA SOLUCOES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "do Pespontão  São Luís Centro CEP: 65010460 MA",
+    "Telefone Comercial": "(98)8830-0751",
+    "E-mail Comercial": "praticasolucoesma@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AGENCIA NATIVUS TOUR",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Boa HOra  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8459-7810",
+    "E-mail Comercial": "RENATOSOUSA533@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SANTOAMARENSE - TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA FIGUEREDO CAMPOS 80 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8509-7975",
+    "E-mail Comercial": "STINERMEDEIROS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "IMPERIO TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Condominio Solar das Dunas  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8458-2777",
+    "E-mail Comercial": "LICIANESOUSA9909@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "VEJA DESTINOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "13 (Unidade 201) São Luís Cidade Operária CEP: 65058228 MA",
+    "Telefone Comercial": "(98)8232-4991",
+    "E-mail Comercial": "suportevejadestinos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "A LEANDROTUR ALFL",
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "avenida principal  1629 Riachão",
+    "Telefone Comercial": "(99)8467-8317",
+    "E-mail Comercial": "ALEANDROFLIMA899@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RIACHAOMA TUR",
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "Rua Chapada das Mesas  Número 05  centro   Riachão",
+    "Telefone Comercial": "(99)8409-7193",
+    "E-mail Comercial": "POCOAZULMA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PORTAO 10 VIAGENS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Bahia 600 São Luís Turu CEP: 65066659 MA",
+    "Telefone Comercial": "(98)8410-5903",
+    "E-mail Comercial": "PORTAO10VIAGENS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SILMA TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA FIGUEREDO CAMPOS SN Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9118-4948",
+    "E-mail Comercial": "SILMALISBOA6@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GALEGO TURISMO LENCOIS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA ALTO FELIZ 65 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9885-8838",
+    "E-mail Comercial": "GALEGOTREKKING@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FN TOUR VIAGENS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Palmas  Imperatriz Brasil Novo CEP: 65911375 MA",
+    "Telefone Comercial": "(99)8846-4076",
+    "E-mail Comercial": "fntourviagens@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SIM VIAJAR E FACIL",
+    "Município": "São Raimundo das Mangabeiras",
+    "Endereço Completo Comercial": "Centro 100 São Raimundo das Mangabeiras",
+    "Telefone Comercial": "(99)8445-2424",
+    "E-mail Comercial": "ALOISIOFILHOJ@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TEM VIAGENS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Simplício Moreira  Imperatriz Centro CEP: 65901490 MA",
+    "Telefone Comercial": "(99)9810-9816",
+    "E-mail Comercial": "ELIANAMILHOMENS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SAVANA TURISMO",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Rua Justiniano Coelho 388 Carolina",
+    "Telefone Comercial": "(99)8531-9139",
+    "E-mail Comercial": "CONTATO@SAVANAECOTURISMO.COM",
+    "Website": "https://savanaecoturismo.com"
+  },
+  {
+    "Nome Fantasia": "ANAS TUR",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Dunas PArk Sn Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8112-8801",
+    "E-mail Comercial": "ANAVERASADEODATO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "@TOR NOS LENCOIS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA FIGUEREDO CAMPOS  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8529-1579",
+    "E-mail Comercial": "PRIMENESES985291579@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MC TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Mandacaru  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9219-6476",
+    "E-mail Comercial": "MACIELLISBOASOUSA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LISBOA TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "POVOADO MIRINZAL  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9248-4050",
+    "E-mail Comercial": "MAZINHO.LISBOA123@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MS AG  VIAGENS",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "travessa joao castelo 122 Santa Helena",
+    "Telefone Comercial": "(98)98500-5696",
+    "E-mail Comercial": "marcelopinheiro.mp68@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MARCELO VIAGENS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "das Siriemas  São Luís Jardim Renascença CEP: 65075390 MA",
+    "Telefone Comercial": "(98)98160-0444",
+    "E-mail Comercial": "MARCELOEVERTON@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PAULANNATURISMO",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "Rua 470 Balsas",
+    "Telefone Comercial": "(99)3541-5365",
+    "E-mail Comercial": "paulannamoraes@outlook.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CARVALHO TURISMO",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "Rua 05 SN Balsas",
+    "Telefone Comercial": "(99)8428-6538",
+    "E-mail Comercial": "BRENOCARVALHODASILVA22@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CAICARA TOUR",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Avenida rodoviária vila Anselmo  10/ r motos  Barreirinhas",
+    "Telefone Comercial": "(98)8558-4595",
+    "E-mail Comercial": "MAYLSONAGUIAR123@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GRUPO JC DE COMUNICACAO",
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "avenida Amaral raposo  1529     sala 307 Grajaú",
+    "Telefone Comercial": "(99)9179-9981",
+    "E-mail Comercial": "REDACAOJCCIDADES@GMAIL.COM",
+    "Website": "www.guiasuldomaranhao.com.br"
+  },
+  {
+    "Nome Fantasia": "VENTURA FROES VIAGENS LTDA",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "Av  Duque de Caixias s/n  LOJA Santa Helena",
+    "Telefone Comercial": "(98)8554-0269",
+    "E-mail Comercial": "ADEVALDOVENTURA20@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MárcioTur Viagens e Turismo",
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "Rua Deocleciano de Santos Barros  04 Grajaú",
+    "Telefone Comercial": "(99)9143-6164",
+    "E-mail Comercial": "MARCIOJOB2020@GMAIL.COM",
+    "Website": "http://marcioturviagenseturismo.com.br"
+  },
+  {
+    "Nome Fantasia": "LIDER AGENCIA DE TURISMO",
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centro  34 Paulino Neves",
+    "Telefone Comercial": "(98)8547-3065",
+    "E-mail Comercial": "LEALALEF@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BRAITALY TUR AGENCIA DE TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Quatorze  São Luís Cohatrac IV CEP: 65054710 MA",
+    "Telefone Comercial": "(98)8419-0976",
+    "E-mail Comercial": "BRAITALY13@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA MANE AGENCIA DE TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Travessa Olho D Agua   Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8817-0230",
+    "E-mail Comercial": "ANTONIARBMOUZINHO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "STORM JERI-ATINS KITE TRIP",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "PC DA MATRIZ 127 São José de Ribamar",
+    "Telefone Comercial": "(88)8150-8885",
+    "E-mail Comercial": "L.RENATO@OUTLOOK.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GLEYSON TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua antigamente praça do mercado 0 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8504-8398",
+    "E-mail Comercial": "MELINHACOPP@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "IlhaBella Tour",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Bom Jesus quadra 143 São Luís Jardim São Cristóvão CEP: 65055050 MA",
+    "Telefone Comercial": "(98)98824-1182",
+    "E-mail Comercial": "MARCIAMENDES685@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "F J P TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Comunidade Cocal  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8756-0069",
+    "E-mail Comercial": "FRANCISCOSILVAAGUIAR32@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MIROTUR TRANSPORTE E VIAGENS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Antiga praça do mercado  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8770-9538",
+    "E-mail Comercial": "MIROTUR@OUTLOOK.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "J M W TURISMO",
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "10 r rua nova 4 Tutóia",
+    "Telefone Comercial": "(98)3479-1963",
+    "E-mail Comercial": "WASHINGTON.ISP23@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RAI TURISMO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Rua Cinco  Quadra 10  Bairro Cohatrac Itaguara 42 São José de Ribamar",
+    "Telefone Comercial": "(98)98767-8326",
+    "E-mail Comercial": "raiturismoslz@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RIO PREGUICAS EXPEDICOES E TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "AV RODOVIARIA 285 Barreirinhas",
+    "Telefone Comercial": "(98)8769-3985",
+    "E-mail Comercial": "MIKAELLCARVALHO15@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ZTUR PASSAGENS AEREAS",
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "Rua José dos Reis Feitosa  433 Itinga do Maranhão",
+    "Telefone Comercial": "(99)99151-2511",
+    "E-mail Comercial": "zdecpintoviagens@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SUMMER TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Três  São Luís São Francisco CEP: 65076349 MA",
+    "Telefone Comercial": "(98)98477-0402",
+    "E-mail Comercial": "DANNY_CBF@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BORA VIAJAR - VIAGENS E TURISMO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Rua 13 20  QUADRA 19 São José de Ribamar",
+    "Telefone Comercial": "(98)3196-1630",
+    "E-mail Comercial": "VOUDEBORAVIAJAR@GMAIL.COM",
+    "Website": "https://www.instagram.com/voudeboraviajar/"
+  },
+  {
+    "Nome Fantasia": "CHARLES TRANSPORTE E TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA DO ALECRIM SN Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8523-3678",
+    "E-mail Comercial": "COSTAVALE170@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LENCOISMA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Avenida Beira Rio  Barreirinhas",
+    "Telefone Comercial": "(98)8554-6255",
+    "E-mail Comercial": "KELLEM.RODRIGUES2013@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "WANDERSON TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Figueira Campos s/n Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)98518-7215",
+    "E-mail Comercial": "WANDERSONATURISMO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CHECK-IN PARAISO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "VIA LOCAL 115 16  QUADRA 117  PARQUE VITORIA São José de Ribamar",
+    "Telefone Comercial": "(98)98241-7827",
+    "E-mail Comercial": "checkinparaiso@hotmail.com",
+    "Website": "-"
   }
 ]

@@ -66,7 +66,7 @@
   {
     "Nome Fantasia": "RESTAURANTE MALOUDA",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Barreirinhas",
+    "Endereço Completo Comercial": "beira rio 109 Barreirinhas",
     "Telefone Comercial": "(98)98739-7130",
     "E-mail Comercial": "ojacarepub@gmail.com",
     "Website": "-"
@@ -96,6 +96,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "RESTAURANTE O BAMBU",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)9851-9493",
+    "E-mail Comercial": "gilbertdemousseau@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "J C RESTAURANTE",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
@@ -120,20 +128,20 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "CIAMAT CAMP",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "rua Sempre Virgem n°13 - Olho d Agua  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)98708-4735",
-    "E-mail Comercial": "info@ciamatcamp.com",
-    "Website": "www.ciamatcamp.com"
-  },
-  {
     "Nome Fantasia": "Restaurante e Pizzaria Ipês",
     "Município": "Caxias",
     "Endereço Completo Comercial": "Aarão Reis - de 1102/1103 ao fim Caxias Centro CEP: 65604060 MA",
     "Telefone Comercial": "(99)8118-6926",
     "E-mail Comercial": "IPECARNESGRELHADOS@GMAIL.COM",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SESC TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Carlos S/N São Luís Olho D Água CEP: 65065420 MA",
+    "Telefone Comercial": "(98)3248-8337",
+    "E-mail Comercial": "fasantos@ma.sesc.com.br",
+    "Website": "www.sescma.com.br"
   },
   {
     "Nome Fantasia": "PASTELARIA E RESTAURANTE DO ZEQUINHA",
@@ -152,35 +160,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "Valparaiso Complexo Turístico Ltda",
-    "Município": "Paço do Lumiar",
-    "Endereço Completo Comercial": "Estrada da Pindoba nº 03  Paço do Lumiar",
-    "Telefone Comercial": "(98)3265-0217",
-    "E-mail Comercial": "contato@valparaisoadventurepark.com.br",
-    "Website": "http://www.valparaisoadventurepark.com.br/"
-  },
-  {
-    "Nome Fantasia": "La Maison Du Chef",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Estrada do São Domingos Povoado Boa Vista Barreirinhas",
-    "Telefone Comercial": "(98)8705-4987",
-    "E-mail Comercial": "GILBERTDEMOUSSEAU@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "Restaurante e Lanchonete Esperança",
     "Município": "Porto Rico do Maranhão",
     "Endereço Completo Comercial": "Rua Edson Lobão Centro Porto Rico do Maranhão",
     "Telefone Comercial": "(98)8433-8665",
     "E-mail Comercial": "niraleitesantos@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOTEL POUSADA PARAISO",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua do Sol  nº 70 A - Centro   Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)3369-1086",
-    "E-mail Comercial": "hpparaiso@hotmail.com",
     "Website": "-"
   },
   {
@@ -248,10 +232,10 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "RESTAURANTE TEMPERO NOVO",
+    "Nome Fantasia": "RESTAURANTE E PIZZARIA TEMPERO NOVO",
     "Município": "Centro Novo do Maranhão",
-    "Endereço Completo Comercial": "Av JK  NÚMERO 167  Centro Novo do Maranhão",
-    "Telefone Comercial": "(98)8492-9766",
+    "Endereço Completo Comercial": "AV  Juscelino Kubitschek 164 A Centro Novo do Maranhão",
+    "Telefone Comercial": "(98)97000-7463",
     "E-mail Comercial": "ELAINE20091912@HOTMAIL.COM",
     "Website": "-"
   },
@@ -264,9 +248,9 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "RESTAURANTE JM",
+    "Nome Fantasia": "Point Pizzaria e Hamburgueria",
     "Município": "Centro Novo do Maranhão",
-    "Endereço Completo Comercial": "Av Tancredo Neves  número 90  Centro Novo do Maranhão",
+    "Endereço Completo Comercial": "Av  Juscelino Kubistchek 69 Centro Novo do Maranhão",
     "Telefone Comercial": "(98)98490-0265",
     "E-mail Comercial": "marisousa175021@gmail.com",
     "Website": "-"
@@ -440,6 +424,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "RESTAURANTE CANTINHO DA FELICIDADE",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "povoado betania  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)99130-1936",
+    "E-mail Comercial": "betania.cantinho@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "FLOR DO MANGUE",
     "Município": "Tutóia",
     "Endereço Completo Comercial": "Rua Guajiru  Tutóia",
@@ -536,6 +528,14 @@
     "Website": "adventurebeachbar"
   },
   {
+    "Nome Fantasia": "CACHOEIRA DO PRATA",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "ESVC RODAGEM  ZONA RURAL DO CACHOEIRA DO PRATA  Carolina",
+    "Telefone Comercial": "(99)8140-1142",
+    "E-mail Comercial": "deusivanc59@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "POUSADA SANTA BARBARA",
     "Município": "Riachão",
     "Endereço Completo Comercial": "ma 132  km 12  poço azul ecoturismo Fazenda Santa Bárbara Riachão",
@@ -552,46 +552,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "PININGA",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "rua principal povoado de atins  Barreirinhas",
-    "Telefone Comercial": "(85)3494-3008",
-    "E-mail Comercial": "jessicaanobre@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VELA ATINS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA PRINCIPAL 67  Barreirinhas",
-    "Telefone Comercial": "(98)8857-8937",
-    "E-mail Comercial": "viegas_d8@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BAR COM",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "rua da saudade s/n  Barreirinhas",
-    "Telefone Comercial": "(98)99113-8993",
-    "E-mail Comercial": "federicogigli@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BALNEARIO DO DELEGA",
-    "Município": "Rosário",
-    "Endereço Completo Comercial": "Rua Carlindo Camara Lima n° 1506 Vila Pereira  Rosário",
-    "Telefone Comercial": "-",
-    "E-mail Comercial": "REGI_ANE_24@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PORTUGALIA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Avenida Litorânea 100  São Luís Calhau CEP: 65071377 MA",
-    "Telefone Comercial": "(98)3248-2000",
-    "E-mail Comercial": "PORTUGALIASAOLUIS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "POUSADA IRMAO ATINS",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "atins  Barreirinhas",
@@ -602,7 +562,7 @@
   {
     "Nome Fantasia": "RESTAURANTE TAPERA POPULAR",
     "Município": "Itinga do Maranhão",
-    "Endereço Completo Comercial": "Restaurante  Cafeteria  Bar e Similares Praça Ana da Penha  Itinga do Maranhão",
+    "Endereço Completo Comercial": "Restaurante  Cafeteria  Bar e Similares rua da assembléia  centro  Itinga do Maranhão",
     "Telefone Comercial": "(99)99206-6801",
     "E-mail Comercial": "FRANKLINJUNIOR6188@GMAIL.COM",
     "Website": "-"
@@ -613,166 +573,6 @@
     "Endereço Completo Comercial": "AVENIDA PRESIDENTE MEDICE próximo ao monumento da onça  Itinga do Maranhão",
     "Telefone Comercial": "(99)99153-1200",
     "E-mail Comercial": "pontodapicanha.itinga@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BORABIKE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Litorânea Quadra 01  Casa 08 São Luís Calhau CEP: 65071377 MA",
-    "Telefone Comercial": "(98)9112-7230",
-    "E-mail Comercial": "CASAMARLITORANEA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CHURRASCARIA E POUSADA CAMPELO",
-    "Município": "Arari",
-    "Endereço Completo Comercial": "Centro Número 06 Arari",
-    "Telefone Comercial": "(98)8175-8194",
-    "E-mail Comercial": "Tatilaflanthesca@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RESTAURANTE E LANCHONETE PANELA DE BARRO",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "RUA EMILIO HABIB  Guimarães",
-    "Telefone Comercial": "(98)8419-6573",
-    "E-mail Comercial": "VALESKATHAYLA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ESPACO GOURMET HC",
-    "Município": "Humberto de Campos",
-    "Endereço Completo Comercial": "Rua Nova  144  Centro  Humberto de Campos",
-    "Telefone Comercial": "(98)9197-7732",
-    "E-mail Comercial": "MARAMALDOMARAMALDO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SERVREFRIGELAR",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "17  Quadra 01 São José de Ribamar",
-    "Telefone Comercial": "(98)8585-5278",
-    "E-mail Comercial": "SERVREFRIGELAR@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GAB'S LANCHES",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Rua 16 A São José de Ribamar",
-    "Telefone Comercial": "-",
-    "E-mail Comercial": "JUIZESMORAES@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "M P SANTOS",
-    "Município": "Tutóia",
-    "Endereço Completo Comercial": "RUA GUAJIRU S/N  Tutóia",
-    "Telefone Comercial": "(98)8516-3524",
-    "E-mail Comercial": "moizzalobato@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DEPOSITO E CIA",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "NOSSA SENHORA DA CONCEICAO sede Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)9901-0727",
-    "E-mail Comercial": "CLEOCIR_31@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "COLONIAL EMPREENDIMENTOS",
-    "Município": "Alcântara",
-    "Endereço Completo Comercial": "rua grande  32 Alcântara",
-    "Telefone Comercial": "(98)99153-3559",
-    "E-mail Comercial": "nailtonlobato@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BUCCANEER",
-    "Município": "Araioses",
-    "Endereço Completo Comercial": "ILHA DO CAJU  Araioses",
-    "Telefone Comercial": "(21)99863-7987",
-    "E-mail Comercial": "buccaneer@tourmix.net",
-    "Website": "www.tourmix.net"
-  },
-  {
-    "Nome Fantasia": "Flor de Vinagreira Praia",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Professor Carlos Cunha  São Luís Jaracaty CEP: 65076820 MA",
-    "Telefone Comercial": "(98)3248-2282",
-    "E-mail Comercial": "francisco.neto@restaurantefeijaodecorda.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RESTAURANTE FEIJAO DE CORDA GRILL",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Litorânea  São Luís Calhau CEP: 65071377 MA",
-    "Telefone Comercial": "(98)99201-0537",
-    "E-mail Comercial": "diretoria@restaurantefeijaodecorda.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "THAMYLLA MODAS",
-    "Município": "Pedreiras",
-    "Endereço Completo Comercial": "RUA RENATO ARCHER  Pedreiras",
-    "Telefone Comercial": "(99)8122-6510",
-    "E-mail Comercial": "ADAILTONRODRIGUESDASILVAR96@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RAYSSA LANCHE",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Povoado  Damásio   Guimarães",
-    "Telefone Comercial": "(98)8302-1786",
-    "E-mail Comercial": "NILSONMARTINS2105@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BAR E RESTAURANTE PAULINA",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Povoado Gepuba  Guimarães",
-    "Telefone Comercial": "(98)8565-5585",
-    "E-mail Comercial": "alinealine34063@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "FRANCES E RESTAURANTE",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Centro  Guimarães",
-    "Telefone Comercial": "(98)8105-2086",
-    "E-mail Comercial": "FRANCILENE.PONTES15@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ACAI DO SEU JEITO",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Centro  Guimarães",
-    "Telefone Comercial": "(98)8416-0920",
-    "E-mail Comercial": "JAYNACAMILA79@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RAUL LANCHES",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Centro  Guimarães",
-    "Telefone Comercial": "(98)8441-4480",
-    "E-mail Comercial": "RAULSILVA513@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BAR VERDE MAR",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Povoado ARAOCA  Guimarães",
-    "Telefone Comercial": "(98)8400-4465",
-    "E-mail Comercial": "WERBETH-MELO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BAR NOVA OPCAO",
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "Povoado araoca  Guimarães",
-    "Telefone Comercial": "(98)8420-7061",
-    "E-mail Comercial": "MARTINSLEMOS26@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -2213,6 +2013,366 @@
     "Endereço Completo Comercial": "ROD BR 135  KM 287 77 Santo Antônio dos Lopes",
     "Telefone Comercial": "(98)98813-0006",
     "E-mail Comercial": "diretoria@p77.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FILIAL GOLDEN SHOPPING CALHAU",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+    "Telefone Comercial": "(11)3524-4500",
+    "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "REI DO GELO",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AV GOVERNADOR LUIZ ROCHA   CENTRO 128 Balsas",
+    "Telefone Comercial": "(99)3541-3685",
+    "E-mail Comercial": "CONTABIL@ADICAOCONTABILIDADE.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BALSAS PREMIER HOTEL",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AV GOVERNADOR LUIZ ROCHA 2500 Balsas",
+    "Telefone Comercial": "(99)3541-6989",
+    "E-mail Comercial": "administrativo@balsaspremierhotel.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BURGUER DO ENGENHEIRO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Quatro  São Luís Cohajap CEP: 65072400 MA",
+    "Telefone Comercial": "(98)8355-2222",
+    "E-mail Comercial": "LUKASLIMA_00@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DOLCCE GRILL CONFEITARIA E RESTAURANTE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
+    "Telefone Comercial": "(98)3235-1896",
+    "E-mail Comercial": "goiacibisinotto16@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BULLDOG BURGUER",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "H-20  São Luís Parque Shalon CEP: 65073000 MA",
+    "Telefone Comercial": "(98)3089-4854",
+    "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BULLDOG BURGUER",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "V  São Luís Planalto Anil III CEP: 65050875 MA",
+    "Telefone Comercial": "(98)3089-4854",
+    "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BULLDOG BURGUER",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Narcisos  São Luís Jardim Renascença CEP: 65075600 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "NONNO GIOTTO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Litorânea  São Luís Calhau CEP: 65071377 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BULLDOG BURGUER",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Beta  São Luís Parque Athenas CEP: 65072120 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BULLDOG BURGUER",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "General Artur Carvalho  São Luís Turu CEP: 65066320 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE E CAFE DA DONA",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "av panaquatira 16 São José de Ribamar",
+    "Telefone Comercial": "(98)8781-1595",
+    "E-mail Comercial": "EDWIGES57@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ROUTE 315 RESTAURANTE E LANCHONETE",
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centeo 51 Paulino Neves",
+    "Telefone Comercial": "(98)9996-8061",
+    "E-mail Comercial": "MARISA.JBE@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DELTAEXPRESSO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Libaneses 3503  Setor Saguão Desemb  Tps1  Loja 08  São Luís Tirirical CEP: 65056480 MA",
+    "Telefone Comercial": "(81)2127-4750",
+    "E-mail Comercial": "LEGALIZACAO@MDCONTADORES.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DELTAEXPRESSO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Libaneses 3503  Setor Saguão Desembarque  Loja 07 São Luís Tirirical CEP: 65056480 MA",
+    "Telefone Comercial": "(81)2127-4750",
+    "E-mail Comercial": "LEGALIZACAO@MDCONTADORES.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BITTE BURGER",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Libaneses 3503  Setor Saguão Desembarque  Loja 06 São Luís Tirirical CEP: 65056480 MA",
+    "Telefone Comercial": "(81)2127-4750",
+    "E-mail Comercial": "LEGALIZACAO@MDCONTADORES.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SAYMON TURISMO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Das Flores s/n  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)98719-0508",
+    "E-mail Comercial": "hayrann.nunes@yahoo.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FILIAL KSK BURGER KING SHOPPING DA ILHA II",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+    "Telefone Comercial": "(11)2397-0320",
+    "E-mail Comercial": "juridico@zamp.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FILIAL RIO ANIL SHOPPING",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+    "Telefone Comercial": "(11)4199-5345",
+    "E-mail Comercial": "juridico@zamp.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PATIO NORTE MARANHAO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Estr  De Ribamar Ma-201 1000 São José de Ribamar",
+    "Telefone Comercial": "(11)4199-5345",
+    "E-mail Comercial": "juridico@zamp.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FILIAL SHOPPING RIO ANIL QUIOSQUE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+    "Telefone Comercial": "(11)4199-5345",
+    "E-mail Comercial": "juridico@zamp.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FILIAL BURGER KING RIO ANIL SHOPPING KSK II",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+    "Telefone Comercial": "(11)2397-0320",
+    "E-mail Comercial": "juridico@zamp.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "KINOPLEX GOLDEN",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+    "Telefone Comercial": "(21)3974-1077",
+    "E-mail Comercial": "JURIDICO@KINOPLEX.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FILIAL SHOPPING DA ILHA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida Daniel de La Touche 987 São Luís Cohama CEP: 65074115 MA",
+    "Telefone Comercial": "(11)4199-5345",
+    "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BOULEVARD EMPREENDIMENTOS EM HOTELARIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Guajajaras 1000  HOTEL BOULEVARD São Luís Jardim São Cristóvão CEP: 65055285 MA",
+    "Telefone Comercial": "(98)3227-0772",
+    "E-mail Comercial": "CONTABILIDADE@GRUPOLUZ.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "V G RESTAURANTE",
+    "Município": "Santo Antônio dos Lopes",
+    "Endereço Completo Comercial": "EST DE ACESSO A BR 135 KM 277 Santo Antônio dos Lopes",
+    "Telefone Comercial": "(98)98813-0006",
+    "E-mail Comercial": "diretoria@p77.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ESCOLA DE GASTRONOMIA JL",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Um  São Luís Recanto do Turu CEP: 65068866 MA",
+    "Telefone Comercial": "(98)8707-4420",
+    "E-mail Comercial": "JUNIORLISBOA_@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ALECRIM RESTAURANTE",
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Tingidor Pv  Tingidor Paulino Neves",
+    "Telefone Comercial": "(98)8870-9823",
+    "E-mail Comercial": "LORENNASOMBREIRA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BC COMPANY",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+    "Telefone Comercial": "(98)99171-3003",
+    "E-mail Comercial": "SAC.BCCOMPANY@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CHURRASCARIA RESIDENCIA TUTOIA",
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Rua São José 139 Tutóia",
+    "Telefone Comercial": "(98)98557-7359",
+    "E-mail Comercial": "CHURRASCARIARESIDENCIATUTOIA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BAR E RESTAURANTE VARANDA F E M",
+    "Município": "Cedral",
+    "Endereço Completo Comercial": "Rua Viva Deus s/nº Outeiro Cedral",
+    "Telefone Comercial": "(98)98483-0469",
+    "E-mail Comercial": "FRANCIMAURO035@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PASTELARIA NORDESTINA",
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centro Av  Rio Novo  08 Paulino Neves",
+    "Telefone Comercial": "(88)9610-7879",
+    "E-mail Comercial": "MLNORONHA79@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "EMPORIUM 357",
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "benedito leite 100 Porto Franco",
+    "Telefone Comercial": "(99)8144-6220",
+    "E-mail Comercial": "EXATOSCONSULTORIA@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ESPETO MIX",
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "Trav  Tocantins   Porto Franco",
+    "Telefone Comercial": "(99)8407-5717",
+    "E-mail Comercial": "ISENNY-CHAVES@LIVE.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Ponto do Churrasco",
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Av Dr Paulo Ramos 55 Paulino Neves",
+    "Telefone Comercial": "(98)8607-9818",
+    "E-mail Comercial": "CDELXAVIERCOSTA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE DO SOLA",
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "Rodovia BR-230 Ponte do Rio Santana Estreito",
+    "Telefone Comercial": "(99)9179-0347",
+    "E-mail Comercial": "ricardosousa91234@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "COZINHA BRASILEIRA",
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "Av  Valentim Aguiar  148 Porto Franco",
+    "Telefone Comercial": "(99)8115-5728",
+    "E-mail Comercial": "SILVA-ANA5@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PIZZARIA E LANCHONETE FINO SABOR",
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "Av  Valentim Aguiar  147 Porto Franco",
+    "Telefone Comercial": "(99)8130-4743",
+    "E-mail Comercial": "jc.cultura@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE DELICIAS DO MAR",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Centro 101 São José de Ribamar",
+    "Telefone Comercial": "(98)8876-4173",
+    "E-mail Comercial": "JOSIVANSC@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SKINA DO CHOPP",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AVENIDA JOSE BERNARDINO  14 Balsas",
+    "Telefone Comercial": "(99)8810-1377",
+    "E-mail Comercial": "DATA.BALSAS@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SKINA DO CHOPP BEIRA RIO",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "RUA BERNARDINO DE CASTRO 02/ BEIRA RIO Balsas",
+    "Telefone Comercial": "(99)8810-1377",
+    "E-mail Comercial": "DATA.BALSAS@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FULLBAR'S RESTAURANTE",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Aracagy  Praia do Aracagy  quiosque 8 São José de Ribamar",
+    "Telefone Comercial": "(98)98462-3535",
+    "E-mail Comercial": "MURILOGRACETTO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "INTERATIVA INFORMATICA",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "AVENIDA FREDERICO MARTINS DE AZEVEDO CASA NA INTERATIVA INFORMATICA Carolina",
+    "Telefone Comercial": "(99)8452-0009",
+    "E-mail Comercial": "clebersoncunha21@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AMO VINHO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Paz 16 São Luís Parque Shalon CEP: 65072570 MA",
+    "Telefone Comercial": "(98)3232-5533",
+    "E-mail Comercial": "celia@orgamar.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GIO GASTROBAR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 145  Lj  06  GALERIA MONDRIAN São Luís Ponta do Farol CEP: 65077635 MA",
+    "Telefone Comercial": "(98)8305-2449",
+    "E-mail Comercial": "procontasaoluis@gmail.com",
     "Website": "-"
   }
 ]

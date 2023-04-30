@@ -1,13 +1,5 @@
 [
   {
-    "Nome Fantasia": "PALAZZO",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Av São Paulo N°01 Quadra 15  São José de Ribamar",
-    "Telefone Comercial": "(98)3244-0729",
-    "E-mail Comercial": "palazzoeventosslz@gmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "SARAH PARK",
     "Município": "Nina Rodrigues",
     "Endereço Completo Comercial": "Av Central  s/n - Centro   Nina Rodrigues",
@@ -37,14 +29,6 @@
     "Endereço Completo Comercial": "RUA DO CAMPO 178  Itinga do Maranhão",
     "Telefone Comercial": "(99)3531-4056",
     "E-mail Comercial": "FARIASARAUJO2006@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "COLONIAL EMPREENDIMENTOS",
-    "Município": "Alcântara",
-    "Endereço Completo Comercial": "rua direita  sn Alcântara",
-    "Telefone Comercial": "(98)99153-3559",
-    "E-mail Comercial": "nailtonlobato@gmail.com",
     "Website": "-"
   },
   {
@@ -134,5 +118,21 @@
     "Telefone Comercial": "(99)98116-5244",
     "E-mail Comercial": "producoesdudu0@gmail.com",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CENTRO DE DANÇA E MOVIMENTO SORAYA LIRA LTDA ME",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 11 São Luís Jardim Renascença CEP: 65075650 MA",
+    "Telefone Comercial": "(98)9112-9106",
+    "E-mail Comercial": "svcontabilidade512@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CENTRO CULTURAL CASA GAMELA",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Rua Major Pirola 131 São José de Ribamar",
+    "Telefone Comercial": "(98)98601-0406",
+    "E-mail Comercial": "casagamelasjr@gmail.com",
+    "Website": "https://casagamelasjr.com/"
   }
 ]

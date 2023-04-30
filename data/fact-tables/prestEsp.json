@@ -56,6 +56,14 @@
     "Website": "wanderstour@hotmail.com"
   },
   {
+    "Nome Fantasia": "ROTA VIAGENS E TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Marquês de Tamandaré  São Luís Recanto dos Nobres CEP: 65074261 MA",
+    "Telefone Comercial": "(98)98859-4682",
+    "E-mail Comercial": "CONCILENECAMPOS@YAHOO.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "BUSINESS ENTERPRISE",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Euclides Farias 24 São Luís Cohama CEP: 65074080 MA",
@@ -69,6 +77,14 @@
     "Endereço Completo Comercial": "RUA CORONEL GODINHO   Barreirinhas",
     "Telefone Comercial": "(98)3349-1698",
     "E-mail Comercial": "sousa@rotadastrilhas.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "OASIS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Centro  Casa Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8819-3053",
+    "E-mail Comercial": "hillfontinele@hotmail.com",
     "Website": "-"
   },
   {
@@ -88,70 +104,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "VELA ATINS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA PRINCIPAL 37  Barreirinhas",
-    "Telefone Comercial": "(98)8857-8937",
-    "E-mail Comercial": "viegas_d8@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "OLIVEIRA_PASSEIOS",
-    "Município": "Tutóia",
-    "Endereço Completo Comercial": "prefeito Jose veras   Tutóia",
-    "Telefone Comercial": "(98)3479-1725",
-    "E-mail Comercial": "PAULOREIS0621@GMAIL.COM",
-    "Website": "https://www.instagram.com/"
-  },
-  {
-    "Nome Fantasia": "LEONARDUS BORGES ARTE CONTEMPORANEA",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Avenida Elias Barros  363  centro  Carolina",
-    "Telefone Comercial": "(99)98136-0824",
-    "E-mail Comercial": "LEONARDUSBORGES@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "AQUARELA HOSPEDARIA",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Primavera  Barreirinhas",
-    "Telefone Comercial": "(98)99171-7120",
-    "E-mail Comercial": "aquarelahospedaria@yahoo.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Cerrado Adventure #Agência Turismo da Chapada das Mesas",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua Duque de Caxias Número  Centro  Carolina",
-    "Telefone Comercial": "(99)98401-6622",
-    "E-mail Comercial": "JUNIORCROSSBALA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "L  CARLOS BARBOSA TURISMO",
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "PC RODOVIÁRIO TERMINAL RODOVIÁRIO DE GRAJAÚ MA Grajaú",
-    "Telefone Comercial": "(99)9187-3103",
-    "E-mail Comercial": "edy07barbosa@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "KABECAO TURISMO E EQUIPAMENTOS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua 7 de setembro 19  Barreirinhas",
-    "Telefone Comercial": "(98)8452-1675",
-    "E-mail Comercial": "wscontab@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ALCANTARA ENTRENTERIMENTOS E REPRESENTA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Tancredo Neves Q  10 São Luís Recanto dos Pássaros CEP: 65058748 MA",
-    "Telefone Comercial": "(98)99143-5017",
-    "E-mail Comercial": "DEREKYALCANTARA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "NEURIVAN CONSULTORIA E REPRESENTACAO CO",
     "Município": "Açailândia",
     "Endereço Completo Comercial": "RUA GAMELEIRA  21 QUADRA 31 Açailândia",
@@ -160,67 +112,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "ECOTRIP CANOAGEM",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Rua Oitocentos quadra 08 casa 20 São Luís Jardim das Margaridas CEP: 65052875 MA",
-    "Telefone Comercial": "(98)98503-7140",
-    "E-mail Comercial": "ecotripcanoagem@gmail.com",
-    "Website": "www.ecotripcanoagem.com.br"
-  },
-  {
-    "Nome Fantasia": "POUSADA CANTO DA DUNA",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AV 31 DE MARÇO  160  Barreirinhas",
-    "Telefone Comercial": "(98)8723-2253",
-    "E-mail Comercial": "MARRY.LIMA123@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "WC VIAGENS",
-    "Município": "Açailândia",
-    "Endereço Completo Comercial": "RUA SÃO FRANCISCO  N° 208 A   CENTRO  Açailândia",
-    "Telefone Comercial": "(99)3538-1724",
-    "E-mail Comercial": "denilson@denitur.com.br",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "PARTIU VIAJAR TOUR",
     "Município": "Paço do Lumiar",
     "Endereço Completo Comercial": "AV PRINCIPAL  32  Paço do Lumiar",
     "Telefone Comercial": "(98)8891-7346",
     "E-mail Comercial": "DANNYLIMAJK@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CASA DA FONTE MAISON DE LA FONTAINE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Isaac Martins  São Luís Centro CEP: 65010690 MA",
-    "Telefone Comercial": "(98)8102-2073",
-    "E-mail Comercial": "DELIRIOPLANETA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MIMOS DA MAMAE",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Doutor Juvêncio Matos  São Luís COHAB Anil IV CEP: 65050700 MA",
-    "Telefone Comercial": "(98)8718-8318",
-    "E-mail Comercial": "jane_graziela@yahoo.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GOMES TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "do Arame  São Luís Jardim São Cristóvão CEP: 65055030 MA",
-    "Telefone Comercial": "(98)8558-0690",
-    "E-mail Comercial": "GOMESNETO323@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POSTO E POUSADA PARQUE NACIONAL LTDA",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua Tiradentes  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)3243-1088",
-    "E-mail Comercial": "pousadaparquenacional01@gmail.com",
     "Website": "-"
   },
   {
@@ -353,10 +249,10 @@
   },
   {
     "Nome Fantasia": "DRM CONSULTORIA E SERVICOS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Luís Rocha 3537 São Luís Vila Vicente Fialho CEP: 65070290 MA",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "RUA TANGARA  COND  BONAVITA PRIME 03 São José de Ribamar",
     "Telefone Comercial": "(98)98741-6398",
-    "E-mail Comercial": "DEL.ALISSON.K@GMAIL.COM",
+    "E-mail Comercial": "contato@drmtravel.com",
     "Website": "www.drmtravel.com"
   },
   {
@@ -798,5 +694,61 @@
     "Telefone Comercial": "(86)99929-1156",
     "E-mail Comercial": "ADVENTUREUTVPHB@GMAIL.COM",
     "Website": "www.sectecnologia.org"
+  },
+  {
+    "Nome Fantasia": "JR TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA CINCINATO RIBEIRO REGO 21 Barreirinhas",
+    "Telefone Comercial": "(98)8711-0343",
+    "E-mail Comercial": "JPEDROJUNIOR836@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CENTRO DE TREINAMENTO TAUANNE COSTA",
+    "Município": "Bacabal",
+    "Endereço Completo Comercial": "RUA RAIMUNDO CORREA 421 Bacabal",
+    "Telefone Comercial": "(89)9982-6552",
+    "E-mail Comercial": "TAUANNE.COSTASILVA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "IRENE TUR",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "rio alegre  Bairro Olho D Agua  10 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8731-9500",
+    "E-mail Comercial": "IRENEPAULA.COMJOAO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "STM SERVICOS",
+    "Município": "Paço do Lumiar",
+    "Endereço Completo Comercial": "estrada da pindoba  Paço do Lumiar",
+    "Telefone Comercial": "(98)9114-2011",
+    "E-mail Comercial": "pablosavigny@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ANAS TUR",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Vicinal Condomínio Dunas Park  nº 109 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)98112-8801",
+    "E-mail Comercial": "ANAVERASADEODATO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CENTRO CULTURAL CASA GAMELA",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Praça da Matriz 131 São José de Ribamar",
+    "Telefone Comercial": "(98)98601-0406",
+    "E-mail Comercial": "casagamelasjr@gmail.com",
+    "Website": "https://casagamelasjr.com/"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE MALOUDA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "av beira rio 109 Barreirinhas",
+    "Telefone Comercial": "(98)99127-2733",
+    "E-mail Comercial": "ojacarepub@gmail.com",
+    "Website": "-"
   }
 ]

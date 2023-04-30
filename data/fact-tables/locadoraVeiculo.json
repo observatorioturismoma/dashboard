@@ -8,6 +8,14 @@
     "Website": "www.locadoraslz.com.br"
   },
   {
+    "Nome Fantasia": "MAXIMOS LOCAÇÃO E TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Vinte e Um de Abril  São Luís Vila Passos CEP: 65025830 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "maximo.locacao@terra.com.br",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "POUSADA RIO GRANDE",
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "Rua Beira Rio  s/n - Olho D Água  Santo Amaro do Maranhão",
@@ -22,14 +30,6 @@
     "Telefone Comercial": "(98)3227-9114",
     "E-mail Comercial": "administracao@rochaturismo.net.br",
     "Website": "www.rochatursimo.net.br"
-  },
-  {
-    "Nome Fantasia": "OLHO VIVO LOCACAO & TURISMO",
-    "Município": "Chapadinha",
-    "Endereço Completo Comercial": "175  Chapadinha",
-    "Telefone Comercial": "(98)3471-2260",
-    "E-mail Comercial": "olhovivo-2@hotmail.com",
-    "Website": "-"
   },
   {
     "Nome Fantasia": "TRANSCOSTA E TURISMO",
@@ -56,59 +56,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "FIDELITY CAR",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "João Damázio Pinheiro  São Luís Maiobinha CEP: 65052140 MA",
-    "Telefone Comercial": "(98)3013-6262",
-    "E-mail Comercial": "SAC@FIDELITYCAR.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GEO TUR LOCACOES E TURISMO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Dois  São Luís IPEM Turu CEP: 65065682 MA",
-    "Telefone Comercial": "(98)8828-2271",
-    "E-mail Comercial": "kleitonfernandez@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "STAND CAR LOCACOES",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua do Petróleo  86 casa Carolina",
-    "Telefone Comercial": "(99)8201-0837",
-    "E-mail Comercial": "IAPOLONIOJR@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "JUREMA TRANSPORTES E TURISMO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "DOMINGOS CARVALHO EM FRENTE AO SUPERMERCADO CAMINÕ Barreirinhas",
-    "Telefone Comercial": "(98)3349-0500",
-    "E-mail Comercial": "jurematransporteturismo@gmail.com",
-    "Website": "www.jurematurismo.com.br"
-  },
-  {
     "Nome Fantasia": "MORIATUR TRANSPORTES",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Quarenta e Um  S/N Qd 76 São Luís Jardim São Cristóvão II CEP: 65055358 MA",
     "Telefone Comercial": "(98)9612-4525",
     "E-mail Comercial": "MORIA.TRANSPORTES@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "A  R TURISMO LTDA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Quatro  São Luís Jardim São Cristóvão II CEP: 65055374 MA",
-    "Telefone Comercial": "(98)8834-9086",
-    "E-mail Comercial": "ARTURISMOLOCACAO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BL TUR",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "de Ribamar  São Luís Forquilha CEP: 65054005 MA",
-    "Telefone Comercial": "(98)8188-8043",
-    "E-mail Comercial": "BERNILSONTURISMO_2014@HOTMAIL.COM",
     "Website": "-"
   },
   {
@@ -397,6 +349,38 @@
     "Endereço Completo Comercial": "296  Balsas",
     "Telefone Comercial": "(99)8804-3300",
     "E-mail Comercial": "TRANSPORTADORANUNES-@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "INOVA TRANSPORTES E LOCACAO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Dois (Res Araras) São Luís Cohama CEP: 65064504 MA",
+    "Telefone Comercial": "(98)99211-1691",
+    "E-mail Comercial": "inovatransporteslocacao@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PLANNIX",
+    "Município": "Pedreiras",
+    "Endereço Completo Comercial": "RUA PINTO SALDANHA S/N Pedreiras",
+    "Telefone Comercial": "(99)8219-6933",
+    "E-mail Comercial": "PLANNIXENGENHARIA2014@GMAIL.COM",
+    "Website": "PLANNIXENGENHARIA83@GMAIL.COM"
+  },
+  {
+    "Nome Fantasia": "SAFARI LOCACAO E TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "TV AV PAULISTA 105 BOA VISTA Barreirinhas",
+    "Telefone Comercial": "(98)99172-6932",
+    "E-mail Comercial": "ARIELFALCAO@MSN.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "REQUINTE",
+    "Município": "-",
+    "Endereço Completo Comercial": "Independência sal b n 26 São Luís Cruzeiro de Santa Bárbara CEP: 65059812 MA",
+    "Telefone Comercial": "(98)3244-3418",
+    "E-mail Comercial": "tonny381@hotmail.com",
     "Website": "-"
   }
 ]
