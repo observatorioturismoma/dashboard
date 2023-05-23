@@ -8,6 +8,22 @@
     "Website": "www.brisamar.com.br"
   },
   {
+    "Nome Fantasia": "POUSADA PORTAS DA AMAZONIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Vinte e Oito de Julho  São Luís Centro CEP: 65010680 MA",
+    "Telefone Comercial": "(91)8808-9952",
+    "E-mail Comercial": "gerencia@portasdaamazonia.com.br",
+    "Website": "www.portasdaamazonia.com.br"
+  },
+  {
+    "Nome Fantasia": "FABIO BARBOSA AYOUB",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Guajajaras  São Luís Jardim São Cristóvão CEP: 65055285 MA",
+    "Telefone Comercial": "(98)99147-4099",
+    "E-mail Comercial": "fabioayoub69@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "COSTA  ATLÂNTICO HOTEL",
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Sambaquis  São Luís Calhau CEP: 65071390 MA",
@@ -16,20 +32,28 @@
     "Website": "www.costaatlanticohotel.com.br"
   },
   {
+    "Nome Fantasia": "POUSADA LA FERME DE GEORGES ATINS",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)98808-7513",
+    "E-mail Comercial": "lotusassessoriacontabil@gmail.com",
+    "Website": "georges.life/br"
+  },
+  {
     "Nome Fantasia": "POUSADA VILA TUTÓIA PRAIA",
     "Município": "Tutóia",
     "Endereço Completo Comercial": "Praça Teremembés s/n Centro  Tutóia",
-    "Telefone Comercial": "(98)3196-0679",
+    "Telefone Comercial": "(98)3479-1140",
     "E-mail Comercial": "reservas@vilatutoia.com.br",
     "Website": "www.vilatutoia.com.br"
   },
   {
     "Nome Fantasia": "VELEIROS MAR HOTEL",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Holandeses 00 São Luís Ponta D Areia CEP: 65077357 MA",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Ponta D Areia CEP: 65077357 MA",
     "Telefone Comercial": "(98)3215-3211",
     "E-mail Comercial": "financeiro@veleiroshotel.com.br",
-    "Website": "WWW.VELEIROSHOTEL.COM.BR"
+    "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA IRMAO ATINS",
@@ -80,9 +104,17 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "HOTEL ILHA COSTEIRA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Curuzu Quadra 12  Nº08 São Luís Jardim Eldorado CEP: 65067225 MA",
+    "Telefone Comercial": "(98)3226-7682",
+    "E-mail Comercial": "GERENCIA@HOTELILHACOSTEIRA.COM.BR",
+    "Website": "WWW.HOTELILHACOSTEIRA.COM.BR"
+  },
+  {
     "Nome Fantasia": "BALUARTE ECOTURISMO",
     "Município": "Tutóia",
-    "Endereço Completo Comercial": "rua magalhaes de almeida  914 Tutóia",
+    "Endereço Completo Comercial": "rua magalhaes de almeida 914  Tutóia",
     "Telefone Comercial": "(98)3479-1380",
     "E-mail Comercial": "contato@baluarte.tur.br",
     "Website": "baluarte.tur.br"
@@ -107,7 +139,7 @@
     "Nome Fantasia": "LARA'S HOTEL",
     "Município": "Açailândia",
     "Endereço Completo Comercial": "Rua Duque de Caxias  1272  centro  Açailândia",
-    "Telefone Comercial": "-",
+    "Telefone Comercial": "(99)3592-1000",
     "E-mail Comercial": "financeiro@hotellaras.com.br",
     "Website": "WWW.LARASHOTEL.COM.BR"
   },
@@ -130,10 +162,26 @@
   {
     "Nome Fantasia": "POUSADA DO RIACHO",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua Nova   85 - Ladeira Barreirinhas",
-    "Telefone Comercial": "(98)98135-3205",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)98820-7161",
     "E-mail Comercial": "atendimentopousadadoriacho@gmail.com",
     "Website": "www.pousadadoriacholencois.com.br"
+  },
+  {
+    "Nome Fantasia": "POUSADA VILA TUTÓIA",
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Sem Logradouro  Tutóia",
+    "Telefone Comercial": "(98)3479-1140",
+    "E-mail Comercial": "reservas@vilatutoia.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ORLA NAUTICA  - POUSADA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA SITIO CANTINHO  01  CARNAUBAL  Barreirinhas",
+    "Telefone Comercial": "(98)3349-1314",
+    "E-mail Comercial": "LOTUSASSESSORIACONTABIL@GMAIL.COM",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "STOP WAY HOTEL",
@@ -144,20 +192,20 @@
     "Website": "www.stopway.com.br"
   },
   {
-    "Nome Fantasia": "MONTERREY HOTEL",
-    "Município": "Santa Inês",
-    "Endereço Completo Comercial": "da Raposa 178 Santa Inês Centro CEP: 65300088 MA",
-    "Telefone Comercial": "(98)3653-1670",
-    "E-mail Comercial": "gerencia@monterreyhotel.com.br",
-    "Website": "www.monterryhotel.com.br"
-  },
-  {
     "Nome Fantasia": "SANTUARIO ECOLOGICO PEDRA CAÍDA",
     "Município": "Carolina",
     "Endereço Completo Comercial": "Sem Logradouro  Carolina",
     "Telefone Comercial": "(99)3531-2426",
     "E-mail Comercial": "pipes@uol.com.br",
     "Website": "www.santuarioecopedracaida.tur.br"
+  },
+  {
+    "Nome Fantasia": "POSSEIDON HOTEL",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Paraíba  Imperatriz Centro CEP: 65903310 MA",
+    "Telefone Comercial": "(99)3529-8500",
+    "E-mail Comercial": "reservas@posseidonhotel.com.br",
+    "Website": "www.posseidonhotel.com.br"
   },
   {
     "Nome Fantasia": "POUSADA MURICI",
@@ -168,18 +216,26 @@
     "Website": "WWW.POUSADAMURICI.COM.BR"
   },
   {
+    "Nome Fantasia": "ANTONIO ELSON FERREIRA",
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "br 230 s/n  Riachão",
+    "Telefone Comercial": "(99)3531-0066",
+    "E-mail Comercial": "suzanafeitosa84@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "PREGUIÇA'S RIVERSIDE HOTEL",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Av  Amapá  100 Barreirinhas",
-    "Telefone Comercial": "(98)9173-7969",
-    "E-mail Comercial": "newriversidehotel1@gmail.com",
-    "Website": "WWW.NEWHOTELRIVERSIDE.COM.BR"
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)3349-1421",
+    "E-mail Comercial": "riversidehotel@terra.com.br",
+    "Website": "WWW.HOTELRIVERSIDE.COM.BR"
   },
   {
     "Nome Fantasia": "HOTEL DINIZ",
     "Município": "Barra do Corda",
-    "Endereço Completo Comercial": "Rua rio tapajós 260 Barra do Corda",
-    "Telefone Comercial": "(99)98152-3192",
+    "Endereço Completo Comercial": "Sem Logradouro  Barra do Corda",
+    "Telefone Comercial": "(99)3643-3566",
     "E-mail Comercial": "hoteldiniz@hotmail.com",
     "Website": "www.hoteldiniz.com.br"
   },
@@ -200,20 +256,28 @@
     "Website": "www.luzeirossaoluis.com.br"
   },
   {
+    "Nome Fantasia": "SCHALOM HOTEL",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Pará  Imperatriz Centro CEP: 65901580 MA",
+    "Telefone Comercial": "(99)3221-7777",
+    "E-mail Comercial": "hsreservas@gmail.com",
+    "Website": "WWW.SCHALOM.COM.BR"
+  },
+  {
+    "Nome Fantasia": "HOTEL RYAD EXPRESS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Guajajaras n 345 São Luís Jardim São Cristóvão CEP: 65055285 MA",
+    "Telefone Comercial": "(98)3313-6000",
+    "E-mail Comercial": "HOTEL.RYAD@TERRA.COM.BR",
+    "Website": "www.hotelryadexpress.com.br"
+  },
+  {
     "Nome Fantasia": "ABBEVILLE HOTEL",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Castelo Branco  São Luís São Francisco CEP: 65076090 MA",
     "Telefone Comercial": "(98)3217-3000",
     "E-mail Comercial": "gerencia@hotelabbeville.com.br",
     "Website": "www.hotelabbeville.com.br"
-  },
-  {
-    "Nome Fantasia": "POUSADA BOA VISTA",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Av principal  Prox  Encantes Nordeste  Barreirinhas",
-    "Telefone Comercial": "(98)98730-9001",
-    "E-mail Comercial": "reservas@pousadaboavista.com.br",
-    "Website": "www.pousadaboavista.com.br"
   },
   {
     "Nome Fantasia": "HOTEL CARVALHO",
@@ -232,9 +296,9 @@
     "Website": "www.pousadadolajes.com"
   },
   {
-    "Nome Fantasia": "Convento Arcádia Turismo LTDA",
+    "Nome Fantasia": "Convento Arcádia Turismo EIRELI",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua Esperança  3 Barreirinhas",
+    "Endereço Completo Comercial": "Rua Esperança 3  Barreirinhas",
     "Telefone Comercial": "(98)99219-3416",
     "E-mail Comercial": "oi@convento-arcadia.com",
     "Website": "www.convento-arcadia.com"
@@ -246,6 +310,14 @@
     "Telefone Comercial": "(98)3349-0641",
     "E-mail Comercial": "IRANDIZ@HOTMAIL.COM",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA BELO SONO",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Rua Cidade de Grajaú  201  Centro  Carolina",
+    "Telefone Comercial": "(99)3531-2699",
+    "E-mail Comercial": "pousadabelosono28@hotmail.com",
+    "Website": "http://pousadabelosonoemcarolina.com.br/home.html"
   },
   {
     "Nome Fantasia": "TRIP DO NORDESTE TURISMO",
@@ -312,12 +384,12 @@
     "Website": "WWW.POUSADADORIOMA.COM.BR"
   },
   {
-    "Nome Fantasia": "HOSPEDARIA POUSADA PALMEIRA",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)99982-2596",
-    "E-mail Comercial": "santoamarojorge@hotmail.com",
-    "Website": "-"
+    "Nome Fantasia": "PORTO PREGUIÇAS RESORT",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)3349-6050",
+    "E-mail Comercial": "rsdoria@bol.com.br",
+    "Website": "www.portopreguicas.com.br"
   },
   {
     "Nome Fantasia": "POUSADA DO BURITI",
@@ -330,10 +402,34 @@
   {
     "Nome Fantasia": "HOTEL ADVENTURE",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Altamira  São Luís Quintas do Calhau CEP: 65072881 MA",
+    "Endereço Completo Comercial": "I  São Luís Parque Athenas CEP: 65072480 MA",
     "Telefone Comercial": "(98)99129-9977",
     "E-mail Comercial": "reserva@hoteladventuresaoluis.com.br",
     "Website": "www.hoteladventuresaoluis.com.br"
+  },
+  {
+    "Nome Fantasia": "BRISTOL EXPRESS SAO LUIZ",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís São Francisco CEP: 65075440 MA",
+    "Telefone Comercial": "(98)8436-3199",
+    "E-mail Comercial": "gerencia.bsl@redebristol.com.br",
+    "Website": "www.bristolhotels.com.br"
+  },
+  {
+    "Nome Fantasia": "HOTEL SANTA LUZIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Papagaios  São Luís Parque Atlântico CEP: 65066100 MA",
+    "Telefone Comercial": "(98)3248-5807",
+    "E-mail Comercial": "gcatour@hotmail.com",
+    "Website": "www.hotelsantaluzia.com.br"
+  },
+  {
+    "Nome Fantasia": "POUSADA SÃO JOSÉ",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "av Carnaubal  Barreirinhas",
+    "Telefone Comercial": "(98)3349-1398",
+    "E-mail Comercial": "contato@saojosepousada.com.br",
+    "Website": "WWW.SAOJOSEPOUSADA.COM.BR"
   },
   {
     "Nome Fantasia": "POUSADA SOLAR DAS GAIVOTAS",
@@ -388,7 +484,7 @@
     "Município": "Riachão",
     "Endereço Completo Comercial": "br 230  Riachão",
     "Telefone Comercial": "(99)3531-0356",
-    "E-mail Comercial": "letica.fortes58@gmail.com",
+    "E-mail Comercial": "letica.fortes@ig.com.br",
     "Website": "www.pousadachapadadasmesas.com.br"
   },
   {
@@ -416,20 +512,44 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "POUSADA DA PRAIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Magistrados  São Luís Olho D Água CEP: 65065240 MA",
+    "Telefone Comercial": "(98)3248-2047",
+    "E-mail Comercial": "POUSADADAPRAIA@ELOINTERNET.COM.BR",
+    "Website": "WWW.POUSADAPRAIA.COM.BR"
+  },
+  {
+    "Nome Fantasia": "HOTEL CONTORNO",
+    "Município": "Santa Inês",
+    "Endereço Completo Comercial": "R DAS LARANJEIRAS",
+    "Telefone Comercial": "(98)98180-6397",
+    "E-mail Comercial": "aurea.escontal2@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "POUSADA CHYKO'S",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "rua principal 05 Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
     "Telefone Comercial": "(98)8407-8094",
-    "E-mail Comercial": "chykoferreira@hotmail.com",
-    "Website": "www.pousadachykos.com.br"
+    "E-mail Comercial": "chicoferreira@hotmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA PARAÍSO DOS LENÇÓIS",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Avenida Joaquim Soeiro de Carvalho 117 - Centro Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
     "Telefone Comercial": "(98)3349-1809",
     "E-mail Comercial": "marilene.agra@gmail.com",
     "Website": "www.pousadaparaisodoslencois.com.br"
+  },
+  {
+    "Nome Fantasia": "HOTEL PILÃO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Vespasiano Ramos quadra 09 São Luís Filipinho CEP: 65043030 MA",
+    "Telefone Comercial": "(98)3243-6531",
+    "E-mail Comercial": "hotelpilao@gmail.com",
+    "Website": "www.hotelpilao.net.br"
   },
   {
     "Nome Fantasia": "BALNEÁRIO E POUSADA QUEDA D'ÁGUA",
@@ -440,19 +560,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "LITORÂNEA PRAIA HOTEL",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "AV LITORANEA  São Luís Calhau CEP: 65071380 MA",
-    "Telefone Comercial": "(98)3213-3200",
-    "E-mail Comercial": "reservas@litoraneapraiahotel.com.br",
-    "Website": "WWW.LITORANEAPRAIAHOTEL.COM.BR"
-  },
-  {
     "Nome Fantasia": "NOVO HOTEL",
     "Município": "Carolina",
     "Endereço Completo Comercial": "Sem Logradouro  Carolina",
     "Telefone Comercial": "(99)3531-2794",
     "E-mail Comercial": "contato@seturcarolina.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA VETTORE",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)98213-7733",
+    "E-mail Comercial": "nildis2010@hotmail.com",
     "Website": "-"
   },
   {
@@ -480,26 +600,42 @@
     "Website": "www.pousadadareia.com.br"
   },
   {
+    "Nome Fantasia": "NEW CENTER HOTEL",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Avenida Getulio Vargas  1443 Em frente a praça Alípio de Carvalho (Prefeitura) Carolina",
+    "Telefone Comercial": "(99)3531-2875",
+    "E-mail Comercial": "newcenterhotel@gmail.com",
+    "Website": "www.newcenterhotel.com.br"
+  },
+  {
     "Nome Fantasia": "POÇO AZUL ECOTURISMO",
     "Município": "Riachão",
     "Endereço Completo Comercial": "ma-134 km 12 Fazenda Santa Bárbara Riachão",
     "Telefone Comercial": "(99)98847-1289",
-    "E-mail Comercial": "pocoazul.adm@gmail.com",
+    "E-mail Comercial": "pocoazulriachao@gmail.com",
     "Website": "www.pocoazulriachao.com.br"
   },
   {
     "Nome Fantasia": "POUSADA TAMBAÚ",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Litorânea 1183 São Luís Calhau CEP: 65071377 MA",
+    "Endereço Completo Comercial": "Litorânea  São Luís Calhau CEP: 65071377 MA",
     "Telefone Comercial": "(98)3248-9300",
     "E-mail Comercial": "gerencia@pousadatambau.com.br",
     "Website": "WWW.POUSADATAMBAU.COM.BR"
   },
   {
+    "Nome Fantasia": "HOTEL PACHECO",
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "Sem Logradouro  Barra do Corda",
+    "Telefone Comercial": "(99)8808-6451",
+    "E-mail Comercial": "hotelpacheco@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "HOTEL AVENIDA",
     "Município": "Açailândia",
     "Endereço Completo Comercial": "Avenida João Castelo  346 - Pequiá  Açailândia",
-    "Telefone Comercial": "(99)99192-8920",
+    "Telefone Comercial": "(99)99122-9281",
     "E-mail Comercial": "hotel.av@hotmail.com",
     "Website": "-"
   },
@@ -602,7 +738,7 @@
   {
     "Nome Fantasia": "POUSADA VITORIA DOS LOPES",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA CORONEL GOLDINHO  72 Barreirinhas",
+    "Endereço Completo Comercial": "RUA CORONEL GOLDINHO N-72 CENTRO  Barreirinhas",
     "Telefone Comercial": "(98)99176-0055",
     "E-mail Comercial": "pousadavitoriadolopes@gmail.com",
     "Website": "-"
@@ -616,11 +752,19 @@
     "Website": "www.pousadajagata.com.br"
   },
   {
-    "Nome Fantasia": "HOTEL POUSADA UNIVERSAL",
-    "Município": "Riachão",
-    "Endereço Completo Comercial": "BR 230 N° 33 Centro  Riachão",
-    "Telefone Comercial": "(99)3531-9155",
-    "E-mail Comercial": "hoteluniversal91@gmail.com",
+    "Nome Fantasia": "R  DE C  S  ALENCAR ME",
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "RODOVIA BR 226  KM300 N°326 ALTAMIRA BARRA DO CORDA  Barra do Corda",
+    "Telefone Comercial": "(99)98202-4513",
+    "E-mail Comercial": "hotelayrtonalencar@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL POUSADA PARAISO",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)3369-1086",
+    "E-mail Comercial": "hpparaiso@hotmail.com",
     "Website": "-"
   },
   {
@@ -648,52 +792,132 @@
     "Website": "www.granlencoisflat.com.br"
   },
   {
-    "Nome Fantasia": "VELA MAR PRAIA HOTEL",
+    "Nome Fantasia": "POUSADA RECANTO DOS PASSAROS",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "rua Theodorico Fernandes  600 bairro bacaba  Balsas",
+    "Telefone Comercial": "(99)3541-1032",
+    "E-mail Comercial": "autoposto.trevo@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA COLIBRI",
+    "Município": "Presidente Dutra",
+    "Endereço Completo Comercial": "BR 226  AV OTON GONÇALVES  1910 KM 202 Presidente Dutra",
+    "Telefone Comercial": "(99)3663-1064",
+    "E-mail Comercial": "rosanegfigueiredo@yahoo.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL VIEIRA JUCÁ",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Litorânea 1186 São Luís Calhau CEP: 65071377 MA",
+    "Endereço Completo Comercial": "Virgílio Domingues 744 São Luís São Francisco CEP: 65076340 MA",
+    "Telefone Comercial": "(98)98162-8205",
+    "E-mail Comercial": "hotelvieirajuca@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SAO CRISTOVAO HOTEL TRANSPORTE E TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Santos Dumont  São Luís Tirirical CEP: 65055555 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "GUTO.MILHOMEM@BOL.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA VELA MAR",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Litorânea  São Luís Calhau CEP: 65071377 MA",
     "Telefone Comercial": "(98)3233-6517",
     "E-mail Comercial": "velamarpousadahotel@yahoo.com.br",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "CHALE PRAIA RESIDENCE",
+    "Nome Fantasia": "MARAMAZON",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Mendes Frota Parque Atlântico São Luís Olho D Água CEP: 65065100 MA",
-    "Telefone Comercial": "(98)3248-1400",
-    "E-mail Comercial": "RESERVAS@CHALEPRAIARESIDENCE.COM.BR",
-    "Website": "WWW.CHALEPRAIARESIDENCE.COM.BR"
+    "Endereço Completo Comercial": "Litorânea numero 300 São Luís Calhau CEP: 65071377 MA",
+    "Telefone Comercial": "(99)3235-3994",
+    "E-mail Comercial": "maramazon@maramazon.com",
+    "Website": "www.maramazon.com"
   },
   {
-    "Nome Fantasia": "HOTEL PRAIA PONTA D AREIA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Holandeses  São Luís Ponta D Areia CEP: 65077357 MA",
-    "Telefone Comercial": "(98)3215-3232",
-    "E-mail Comercial": "financeiro@veleiroshotel.com.br",
+    "Nome Fantasia": "CASA ACQUAMARINA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Povoado Atins  Barreirinhas",
+    "Telefone Comercial": "(98)98102-5958",
+    "E-mail Comercial": "peter@casaacquamarina.com",
+    "Website": "casaacquamarina.com"
+  },
+  {
+    "Nome Fantasia": "Hotel Costa do Delta",
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Barra  Tutóia",
+    "Telefone Comercial": "(98)3479-0247",
+    "E-mail Comercial": "hotelcostadodelta@gmail.com",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "POUSADA CRIS-SALES",
-    "Município": "Bacurituba",
-    "Endereço Completo Comercial": "Bairro Alto Feliz Bairro do Forte Bacurituba",
-    "Telefone Comercial": "(98)98441-5754",
-    "E-mail Comercial": "augusto.trindade1@outlook.com",
+    "Nome Fantasia": "VALE DAS AGUAS POUSADA",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "avenida Getúlio Vargas 1361  Carolina",
+    "Telefone Comercial": "(98)8702-5847",
+    "E-mail Comercial": "NILTONADLER@GMAIL.COM",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "HOTEL SAMBAQUIS",
+    "Nome Fantasia": "Vila Guará",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA BEIRA MAR  SN  POVOADO DO ATINS  Barreirinhas",
+    "Telefone Comercial": "(11)7572-9898",
+    "E-mail Comercial": "RESERVAS@VILAGUARA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL POUSADA COLONIAL",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Sambaquis  São Luís Calhau CEP: 65071390 MA",
-    "Telefone Comercial": "(98)9219-9735",
-    "E-mail Comercial": "messiaspedrosa2015@hotmail.com",
+    "Endereço Completo Comercial": "Afonso Pena  São Luís Centro CEP: 65010030 MA",
+    "Telefone Comercial": "(98)3232-2834",
+    "E-mail Comercial": "pousadacolonialslz@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BOULEVARD PARK HOTEL",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Guajajaras  São Luís Jardim São Cristóvão CEP: 65055285 MA",
+    "Telefone Comercial": "(98)2107-2020",
+    "E-mail Comercial": "boulevard.gerencia@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "REVIVER HOSTEL",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "de Nazaré Centro Histórico São Luís Centro CEP: 65010410 MA",
+    "Telefone Comercial": "(98)3213-9955",
+    "E-mail Comercial": "reviverhostel@gmail.com",
+    "Website": "www.reviverhostel@gmail.com"
+  },
+  {
+    "Nome Fantasia": "POUSADA MAKTUB",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "AVENIDA ADALBERTO RIBEIRO 949  Carolina",
+    "Telefone Comercial": "(99)98406-1502",
+    "E-mail Comercial": "EDU.MAKTUB@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "A3H GESTORA",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Coronel Colares Moreira 4/Quadra 100 São Luís Jardim Renascença CEP: 65075441 MA",
+    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
     "Telefone Comercial": "(98)98119-2165",
     "E-mail Comercial": "gerencia@slzlagoahotel.com.br",
     "Website": "www.slzlagoahotel.com.br"
+  },
+  {
+    "Nome Fantasia": "SERTOES TIMBIRA HOSPEDAGEM",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Avenida Elias Barros 391 Centro  Carolina",
+    "Telefone Comercial": "(99)8127-5771",
+    "E-mail Comercial": "leonardusborges@gmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "SOFT WIN HOTEL SÃO LUÍS",
@@ -707,8 +931,16 @@
     "Nome Fantasia": "POUSADA SÃO VICENTE",
     "Município": "Tutóia",
     "Endereço Completo Comercial": "Magalhães de Almeida  Tutóia",
-    "Telefone Comercial": "(98)98712-3343",
+    "Telefone Comercial": "(98)3479-1686",
     "E-mail Comercial": "pousadasaovicente1@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL SCALIBUR I",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AV CORONEL FONSECA 326- CENTRO  Balsas",
+    "Telefone Comercial": "(99)3541-8313",
+    "E-mail Comercial": "hotelscalibur1@gmail.com",
     "Website": "-"
   },
   {
@@ -728,20 +960,36 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "HOTEL DO PORTO",
-    "Município": "Porto Franco",
-    "Endereço Completo Comercial": "Sem Logradouro  Porto Franco",
-    "Telefone Comercial": "(99)3571-9099",
-    "E-mail Comercial": "angelikadeoliveira@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "GRAMADO HOTEL",
     "Município": "Grajaú",
     "Endereço Completo Comercial": "BR 226 KM 415 Nº 01 GRAMADO HOTEL Grajaú",
     "Telefone Comercial": "(99)3532-8219",
-    "E-mail Comercial": "GRAMADOHOTELGRAJAUMA@GMAIL.COM",
+    "E-mail Comercial": "GRAMADO_HOTEL@HOTMAIL.COM",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SESC TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Carlos  São Luís Olho D Água CEP: 65065420 MA",
+    "Telefone Comercial": "(98)3215-1500",
+    "E-mail Comercial": "reserva@ma.sesc.com.br",
+    "Website": "http://sescma.com.br/"
+  },
+  {
+    "Nome Fantasia": "HOTEL POUSADA FAROL DA PRAIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Marcos  São Luís São Marcos CEP: 65077310 MA",
+    "Telefone Comercial": "(98)3301-6033",
+    "E-mail Comercial": "faroldapraiaslz@gmail.com",
+    "Website": "http://www.temporadasaoluis.com"
+  },
+  {
+    "Nome Fantasia": "HOTEL RECREATIVO PARQUE DOS IPES",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "BR 010 KM ESQUINA COM AV JOSE ORLANDO N- 01ª QUADRA N 01 LOTE  Carolina",
+    "Telefone Comercial": "(99)9190-4117",
+    "E-mail Comercial": "hotelparquedosipes2018@outlook.com",
+    "Website": "www.hotelrecreativoipes.com.br"
   },
   {
     "Nome Fantasia": "HOTEL LIDER",
@@ -773,6 +1021,14 @@
     "Endereço Completo Comercial": "Rua Dr  José Pires  92 Centro Cururupu Centro CEP: 65268970 MA",
     "Telefone Comercial": "(98)98431-6881",
     "E-mail Comercial": "JACIRAPIMENTEL2@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE E POUSADA ATAIRU",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "beira rio 115 loja 01  Barreirinhas",
+    "Telefone Comercial": "(98)3349-1589",
+    "E-mail Comercial": "ATAIRUPOUSADA@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -808,11 +1064,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "POUSADA PARAISO VIDAL",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "Rua dos Operários 403 Centro Carolina",
-    "Telefone Comercial": "(63)9968-8889",
-    "E-mail Comercial": "contabilidade.tatiane@gmail.com",
+    "Nome Fantasia": "RESTAURANTE E DORMITORIO BOM GOSTO",
+    "Município": "Fortaleza dos Nogueiras",
+    "Endereço Completo Comercial": "Praça  Fortaleza dos Nogueiras",
+    "Telefone Comercial": "(99)3531-1440",
+    "E-mail Comercial": "joileneassuncao@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Pousada Encantos",
+    "Município": "Fortaleza dos Nogueiras",
+    "Endereço Completo Comercial": "Avenida  Fortaleza dos Nogueiras",
+    "Telefone Comercial": "(99)8156-2726",
+    "E-mail Comercial": "carinnyrego2@hotmail.com",
     "Website": "-"
   },
   {
@@ -832,11 +1096,51 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "PRAIABELLA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Litorânea 46 São Luís Calhau CEP: 65071377 MA",
+    "Telefone Comercial": "(98)4009-2777",
+    "E-mail Comercial": "GERENCIA@PRAIABELLAHOTEL.COM",
+    "Website": "praiabellahotel.com"
+  },
+  {
+    "Nome Fantasia": "AQUARELA HOSPEDARIA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Primavera  19  Barreirinhas",
+    "Telefone Comercial": "(98)99171-7120",
+    "E-mail Comercial": "aquarelahospedaria@gmail.com",
+    "Website": "www.aquarelahospedaria.com"
+  },
+  {
     "Nome Fantasia": "POUSADA DOS LEOES",
     "Município": "São Luís",
     "Endereço Completo Comercial": "da Cruz 453 São Luís Centro CEP: 65010120 MA",
     "Telefone Comercial": "(98)3221-5845",
-    "E-mail Comercial": "pousadaleoes@HOTMAIL.COM",
+    "E-mail Comercial": "MANOELMARIOFERRO@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA RIO GRANDE",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Beira Rio  s/n - Olho D Água  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)98735-0387",
+    "E-mail Comercial": "srasantos1@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "VENTANAS HOTEL",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "AVENIDA BRASILIA  1298 - CENTRO  Carolina",
+    "Telefone Comercial": "(63)9912-3415",
+    "E-mail Comercial": "rangelbezerra@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BRISTOL IMPERATRIZ HOTEL",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Alagoas  Imperatriz Juçara CEP: 65919170 MA",
+    "Telefone Comercial": "(99)3199-0500",
+    "E-mail Comercial": "ACAOCONTABIL2017@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -848,6 +1152,14 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "PALLACE HOTEL",
+    "Município": "Rosário",
+    "Endereço Completo Comercial": "RUA NOVA 3527  Rosário",
+    "Telefone Comercial": "(98)3345-1348",
+    "E-mail Comercial": "dnpallacehotel@yahoo.com.br",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "Lubas Hotel",
     "Município": "Rosário",
     "Endereço Completo Comercial": "Rua Doutor Urbano Santos 1020  Rosário Centro CEP: 65150970 MA",
@@ -856,27 +1168,11 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "ESTANCIA IMPERIAL",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "rua das flores s/n  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)8112-4070",
-    "E-mail Comercial": "ANTONIOLSFERNANDES@GMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "BAIANO CONSTRUCOES",
     "Município": "Água Doce do Maranhão",
     "Endereço Completo Comercial": "Rua Neide Costa  N° 02 - Cana Brava - Água Doce do Maranhão  Água Doce do Maranhão",
     "Telefone Comercial": "(98)3479-1349",
     "E-mail Comercial": "marina_fnd16@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Pousada Reflexo das Aguas",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Centro  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)98873-1022",
-    "E-mail Comercial": "reservabellasaguas@gmail.com",
     "Website": "-"
   },
   {
@@ -962,7 +1258,7 @@
   {
     "Nome Fantasia": "Pousada Oliveira Barros",
     "Município": "Centro Novo do Maranhão",
-    "Endereço Completo Comercial": "Avenida Juscelino Kubistchek  573 Centro Novo do Maranhão",
+    "Endereço Completo Comercial": "Rua Juscelino Kubstchek  número 573  Centro Novo do Maranhão",
     "Telefone Comercial": "(98)98522-7900",
     "E-mail Comercial": "pousadaoliveirabarros@hotmail.com",
     "Website": "-"
@@ -990,6 +1286,14 @@
     "Telefone Comercial": "(99)98120-7885",
     "E-mail Comercial": "padrecicerohotel2008@hotmail.com",
     "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CRUZ E OLIVI EMPREENDIMENTOS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Getúlio Vargas - de 1496/1497 ao fim Imperatriz Centro CEP: 65903280 MA",
+    "Telefone Comercial": "(99)3321-2699",
+    "E-mail Comercial": "h8885-dm@accor.com.br",
+    "Website": "https://ibis.accorhotels.com"
   },
   {
     "Nome Fantasia": "HOTEL SANTOS DUMONT SLZ",
@@ -1061,6 +1365,14 @@
     "Endereço Completo Comercial": "POVOADO LAGOA DO CASSÓ S/N ZONA RURAL Primeira Cruz",
     "Telefone Comercial": "(98)99109-8282",
     "E-mail Comercial": "portodosventospousada@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL & POUSADA SOUSA",
+    "Município": "Arari",
+    "Endereço Completo Comercial": "RUA PEDRO ALEX DE SOUSA Nº 18 PROX  AO POSTO TOTAL Arari",
+    "Telefone Comercial": "(98)8266-5491",
+    "E-mail Comercial": "hotelpousadasousa@outlook.com",
     "Website": "-"
   },
   {
@@ -1136,22 +1448,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "NBR TURISMO E HOTELARIA LTDA",
-    "Município": "Imperatriz",
-    "Endereço Completo Comercial": "Bernardo Sayão  Imperatriz Nova Imperatriz CEP: 65907000 MA",
-    "Telefone Comercial": "(99)3221-7400",
-    "E-mail Comercial": "ggeral@stayinnhotel.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "KABANA HOTEL E RESTAURANTE",
-    "Município": "Cantanhede",
-    "Endereço Completo Comercial": "Rua Erasmo Marcelino Lopes  Cantanhede",
-    "Telefone Comercial": "(98)8471-7125",
-    "E-mail Comercial": "JOHNNSPINHEIURO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "POUSADA E CHURRASCARIA YURI",
     "Município": "Vargem Grande",
     "Endereço Completo Comercial": "AV SÃO RAIMUNDO  Nº 116 - CENTRO  Vargem Grande",
@@ -1166,14 +1462,6 @@
     "Telefone Comercial": "(89)3569-7345",
     "E-mail Comercial": "UNICONTSC@HOTMAIL.COM",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOTEL CONFIANA",
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Br canoeiro Grajaú",
-    "Telefone Comercial": "(99)3532-7894",
-    "E-mail Comercial": "confiancahotel@hotmail.com",
-    "Website": "www.hotelconfiança.com.br"
   },
   {
     "Nome Fantasia": "CHALE RECANTO DAS AGUAS",
@@ -1221,14 +1509,6 @@
     "Endereço Completo Comercial": "Av Diortino Castro  s/n -  Centro  Nina Rodrigues",
     "Telefone Comercial": "(98)8848-8708",
     "E-mail Comercial": "MIGUEL-CONTABEIS@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOTEL BEIRA MAR",
-    "Município": "Cajapió",
-    "Endereço Completo Comercial": "AV 11 SILVIO TAVARES  S/N  CENTRO Cajapió",
-    "Telefone Comercial": "(98)98438-7320",
-    "E-mail Comercial": "Wenia_andrade20@hotmail.com",
     "Website": "-"
   },
   {
@@ -1280,44 +1560,12 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "POUSADA LINS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Av  Joaquim Soeiro de Carvalho  Nº550 Centro Barreirinhas",
-    "Telefone Comercial": "(98)3349-1494",
-    "E-mail Comercial": "GERENCIA@POUSADALINS.COM.BR",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "HOTEL COSTA DO CALHAU",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Buriti Bravo 16 São Luís Quintas do Calhau CEP: 65072025 MA",
     "Telefone Comercial": "(98)8124-2855",
-    "E-mail Comercial": "gerencia@hotelcostadocalhau.com.br",
+    "E-mail Comercial": "TIAGO-SMOURA@HOTMAIL.COM",
     "Website": "www.hotelcostadocalhau.com.br"
-  },
-  {
-    "Nome Fantasia": "BIG HOTEL",
-    "Município": "Imperatriz",
-    "Endereço Completo Comercial": "BR-010  Imperatriz Conjunto Nova Vitória CEP: 65915050 MA",
-    "Telefone Comercial": "(99)3524-3125",
-    "E-mail Comercial": "rozalinaferreira@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA RIO GRAJAU",
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Rua Sete de Setembro  26  Grajaú",
-    "Telefone Comercial": "(99)9158-1030",
-    "E-mail Comercial": "GABIKAB566@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PORTAL DAS DUNAS EMPREENDIMENTOS",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua dos Mirins  Bairro Mandacaru S/N  B Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)98138-1601",
-    "E-mail Comercial": "portaldasdunasville@gmail.com",
-    "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA DELTA VILLAGE",
@@ -1360,14 +1608,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "POUSADA BANDEIRANTE",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AVENIDA RODOVIARIA  Barreirinhas",
-    "Telefone Comercial": "(98)8829-8460",
-    "E-mail Comercial": "cassiasalesss@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "POUSADA CANTO DA DUNA",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Avenida 31 de março  n 160  Ladeira  Barreirinhas",
@@ -1400,11 +1640,51 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "HOTEL RESERVA DOS ARACAS",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Avenida Getúlio Vargas  Carolina",
+    "Telefone Comercial": "(98)98842-3399",
+    "E-mail Comercial": "hotelaracas01@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GOLDEN LIS HOTEL - FILIAL 2",
+    "Município": "Açailândia",
+    "Endereço Completo Comercial": "br 010 km 1415 ao lado do posto carreteiro Açailândia",
+    "Telefone Comercial": "(62)3206-1213",
+    "E-mail Comercial": "CONTABILIDADE@grupocentrooeste.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CLASSIC HOTEL",
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "BR 010  N°1760 CENTRO  Estreito",
+    "Telefone Comercial": "(99)99141-9318",
+    "E-mail Comercial": "tatiane@construtoraallianca.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA BELA VISTA",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "av adaiberto ribeiro pousada bela vista Carolina",
+    "Telefone Comercial": "(62)9131-9669",
+    "E-mail Comercial": "NFSILVAFILHO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "HOTEL POUSADA TREVAO",
     "Município": "Riachão",
     "Endereço Completo Comercial": "BR 230 KM 471  Riachão",
     "Telefone Comercial": "(99)98460-0286",
     "E-mail Comercial": "pousada.trevao@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GRA-NORTE",
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "RUA JOAQUIM TAVORA  Pinheiro",
+    "Telefone Comercial": "(98)3381-2020",
+    "E-mail Comercial": "MSDEOBARROS@GMAIL.COM",
     "Website": "-"
   },
   {
@@ -1416,11 +1696,35 @@
     "Website": "www.calhaupraiahotel.com.br"
   },
   {
-    "Nome Fantasia": "HOTEL RIO PREGUIÇAS",
+    "Nome Fantasia": "ROCHA'S POUSADA",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "rua justiniano coelho 372  Carolina",
+    "Telefone Comercial": "(99)98135-6316",
+    "E-mail Comercial": "luneteee@gmail.com",
+    "Website": "www.rochaspousada.com.br"
+  },
+  {
+    "Nome Fantasia": "URNAS SANTA FE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Rua Nazaré   São Luís Centro CEP: 65010410 MA",
+    "Telefone Comercial": "(98)9123-0081",
+    "E-mail Comercial": "ATENDIMENTO@GOLDENCONTADORES.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RIO PREGUICAS EXPEDICOES E TURISMO",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Rua Clarence Ramos  80 Sala 02 Barreirinhas",
     "Telefone Comercial": "(98)3349-1293",
     "E-mail Comercial": "conradversatil@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOSTEL CASA AMARELA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Rua De Santo Antonio 56  São Luís Centro CEP: 65010000 MA",
+    "Telefone Comercial": "(98)8336-2450",
+    "E-mail Comercial": "casaamarelaslz@gmail.com",
     "Website": "-"
   },
   {
@@ -1432,11 +1736,43 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "RANCHO DAS ESTRELAS",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "BR 010 KM 47 CANTO GRANDE Carolina",
+    "Telefone Comercial": "(99)3531-2143",
+    "E-mail Comercial": "dilzaprazeres@gmail.com",
+    "Website": "www.ranchodasestrelas.com.br"
+  },
+  {
     "Nome Fantasia": "MARE DE ATINS ECO LODGE",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Vila de Atins  Barreirinhas",
     "Telefone Comercial": "(98)9109-1351",
     "E-mail Comercial": "maredeatinsecolodge@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA ANDORINHAS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "PRAÇA NOSSA SENHORA DA CONCEICAO  CENTRO Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8510-8333",
+    "E-mail Comercial": "POUSADAANDORINHASSTA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA E DEPOSITO ISABELLA",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA DO SOL 00 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)98810-0506",
+    "E-mail Comercial": "netooliveiraalencar@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CASA DA PRAIA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Atins Povoado Atins rua principal Barreirinhas",
+    "Telefone Comercial": "(98)9157-0789",
+    "E-mail Comercial": "casadapraia.atins@gmail.com",
     "Website": "-"
   },
   {
@@ -1448,12 +1784,52 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "FOLLOW ME",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Principal S/N Povoado Atins  Barreirinhas",
+    "Telefone Comercial": "(98)99125-6864",
+    "E-mail Comercial": "atinsparadise@gmail.com",
+    "Website": "https://atinsparadise.wixsite.com/atinsparadise"
+  },
+  {
+    "Nome Fantasia": "POUSADA TOCA DOS AVENTUREIROS",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "cruzeiro  Barreirinhas",
+    "Telefone Comercial": "(98)98203-7000",
+    "E-mail Comercial": "tocadosaventureiros@outlook.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "VILA VENTO ATINS",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "AV BEIRA MAR S/N POVOADO ATINS  Barreirinhas",
     "Telefone Comercial": "(98)3248-3292",
     "E-mail Comercial": "info@vilavento.com",
     "Website": "http://www.info@vilavento.com"
+  },
+  {
+    "Nome Fantasia": "Z18 HOSTEL",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA SIQUEIRA CAMPOS  174  Barreirinhas",
+    "Telefone Comercial": "(98)98565-5156",
+    "E-mail Comercial": "z18hostel@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOSPEDARIA FK",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "praça do Antigo  Mercado  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9162-3677",
+    "E-mail Comercial": "RODOLFO.MILAN@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA VIDAL",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "rua dos operários   Carolina",
+    "Telefone Comercial": "(99)9185-0506",
+    "E-mail Comercial": "pousada.vidal@hotmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "pousada lagoa azul",
@@ -1468,8 +1844,24 @@
     "Município": "Balsas",
     "Endereço Completo Comercial": "RUA DR  IRYNEU A  BAYS   23 B  AO LADO DO PLAY TIME  Balsas",
     "Telefone Comercial": "(99)3541-4356",
-    "E-mail Comercial": "hotel10balsas@hotel10.com.br",
+    "E-mail Comercial": "LACIJB@UOL.COM.BR",
     "Website": "https://www.hotel10.com.br/hoteis/"
+  },
+  {
+    "Nome Fantasia": "ORION EMPREENDIMENTOS E ALUGUEIS",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Dorgival Pinheiro de Sousa  Imperatriz Beira Rio CEP: 65900110 MA",
+    "Telefone Comercial": "(99)3525-1172",
+    "E-mail Comercial": "comercial@residencehotelitz.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BORGES HOTEL",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Carajás  Imperatriz Entroncamento CEP: 65912010 MA",
+    "Telefone Comercial": "(99)3525-0039",
+    "E-mail Comercial": "cleidimarborges@hotmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA PARQUE DOS LENCOIS",
@@ -1496,6 +1888,38 @@
     "Website": "www.atinscharmechales.com"
   },
   {
+    "Nome Fantasia": "POUSADA ALVORADA",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Lino Teixeira  Imperatriz Entroncamento CEP: 65913471 MA",
+    "Telefone Comercial": "(99)3524-2544",
+    "E-mail Comercial": "hotelitamaraty4@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MUITA PAZ CONTRUCOES",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Principal 5 Barreirinhas",
+    "Telefone Comercial": "(98)99149-3991",
+    "E-mail Comercial": "muitapaz.atins@GMAIL.COM",
+    "Website": "muitapaz.com"
+  },
+  {
+    "Nome Fantasia": "Q LAR DOCE MAR",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL S/N   Barreirinhas",
+    "Telefone Comercial": "(98)9138-1384",
+    "E-mail Comercial": "MAILTONSSILVA95@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA SANTA MARIA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA BEIRA MAR  ATINS  SN Barreirinhas",
+    "Telefone Comercial": "(98)8808-7513",
+    "E-mail Comercial": "kiriaraposo@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "POUSADA MADALENA",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "Av Neiva Moreira  Condomínio Varandas Grand Park  Torre San Thomas Barreirinhas",
@@ -1504,33 +1928,113 @@
     "Website": "-"
   },
   {
+    "Nome Fantasia": "HOSPEDARIA E CAMPING PINGO DE OURO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Praia  Atins  Santo Inácio I  Barreirinhas",
+    "Telefone Comercial": "(98)9110-8614",
+    "E-mail Comercial": "KELIANEFERNANDESPEREIRA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA TOCA DO VAIDOSO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Anacleto de Carvalho  212  Barreirinhas",
+    "Telefone Comercial": "(98)98833-1224",
+    "E-mail Comercial": "reginacaura@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL BRASÍLIA",
+    "Município": "Buriticupu",
+    "Endereço Completo Comercial": "AV  DAVI ALVES SILVA  Nº11  TERRA BELA   Buriticupu",
+    "Telefone Comercial": "(98)8251-6210",
+    "E-mail Comercial": "JOHNSTONMATIAS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "MINI HOSTEL",
     "Município": "Tutóia",
-    "Endereço Completo Comercial": "RUA MAGALHÃES DE ALMEIDA 315 Tutóia",
-    "Telefone Comercial": "(98)98554-0632",
+    "Endereço Completo Comercial": "RUA JOAQUIM VERAS  Tutóia",
+    "Telefone Comercial": "(98)98735-4843",
     "E-mail Comercial": "minihosteltutoia@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "pousada flamboyart",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "povoado de Atins rua principal  Barreirinhas",
+    "Telefone Comercial": "(98)9225-7205",
+    "E-mail Comercial": "pousadaflamboyart@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LAGOA DO VENTO",
     "Município": "Barreirinhas",
     "Endereço Completo Comercial": "RUA NOVA  N 01  ATINS  Barreirinhas",
-    "Telefone Comercial": "(11)98524-0550",
-    "E-mail Comercial": "lagoadovento@gmail.com",
+    "Telefone Comercial": "(98)9211-0172",
+    "E-mail Comercial": "VIDAL.TIMO@GMAIL.COM",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "Valen Porto Hotel",
+    "Nome Fantasia": "HOTEL POUSADA ACONCHEGO",
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "BRK 135 KM95  Itapecuru Mirim",
+    "Telefone Comercial": "(98)9139-6354",
+    "E-mail Comercial": "fran.abreeu18@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Valen Hotel Express",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Av  Eng  Emiliano Macieira - Km 02 - N° 100  São Luís Vila Maranhão CEP: 65091320 MA",
-    "Telefone Comercial": "(98)2016-7000",
-    "E-mail Comercial": "edila.santos@redevalen.com",
-    "Website": "https://www.valenportohotel.com.br"
+    "Telefone Comercial": "(98)3226-9787",
+    "E-mail Comercial": "gerencia@valenhotelexpress.com",
+    "Website": "https://valenhotelexpress.com/"
+  },
+  {
+    "Nome Fantasia": "ORLA NAUTICA POUSADA E TURISMO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL SN ATINS  Barreirinhas",
+    "Telefone Comercial": "(98)8808-7513",
+    "E-mail Comercial": "LOTUSASSESSORIACONTABIL@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA VILA DOS LENCOIS",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "povoado atins rua do porto Barreirinhas",
+    "Telefone Comercial": "(98)9183-5709",
+    "E-mail Comercial": "VILADOSLENCOIS@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA DO MELO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Povoado atins Rua principal Barreirinhas",
+    "Telefone Comercial": "(98)9130-3044",
+    "E-mail Comercial": "NAYMELLO003@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "VELA ATINS",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL  Barreirinhas",
+    "Telefone Comercial": "(98)98857-8937",
+    "E-mail Comercial": "viegas_d8@hotmail.com",
+    "Website": "viegas_d8@hotmail.com"
+  },
+  {
+    "Nome Fantasia": "VILLA CAJUANA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL SN ATINS  Barreirinhas",
+    "Telefone Comercial": "(66)9233-1528",
+    "E-mail Comercial": "POUSADAVILLACAJUANA@GMAIL.COM",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "CHALE MARINAS",
     "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "N 655 CHALE MARINAS  Barreirinhas",
+    "Endereço Completo Comercial": "N 655  Barreirinhas",
     "Telefone Comercial": "(98)8174-1477",
     "E-mail Comercial": "consultarhoteis@live.com",
     "Website": "-"
@@ -1550,6 +2054,38 @@
     "Telefone Comercial": "(98)9149-3991",
     "E-mail Comercial": "muitapaz.atins@GMAIL.COM",
     "Website": "http://muitapaz.com/pt/"
+  },
+  {
+    "Nome Fantasia": "CHURRASCARIA SAO LUIS",
+    "Município": "Bacabal",
+    "Endereço Completo Comercial": "RUA JORGE JOSE DE MENDONCA  120  CAJUEIRO  Bacabal",
+    "Telefone Comercial": "(99)98153-3891",
+    "E-mail Comercial": "hotelsaofrancisco1@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TOQUE ESPECIAL",
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "PC CENTENARIO  865  Pinheiro",
+    "Telefone Comercial": "(98)3381-5589",
+    "E-mail Comercial": "alaidepho@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POSTO E POUSADA PARQUE NACIONAL LTDA",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Tiradentes 21 Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)3243-1088",
+    "E-mail Comercial": "pousadaparquenacional01@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PENSAO ITAMARATY",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Babaçulândia HOTEL ITAMARATY Imperatriz Vila Lobão CEP: 65910000 MA",
+    "Telefone Comercial": "(99)3524-2544",
+    "E-mail Comercial": "hotelitamaraty4@hotmail.com",
+    "Website": "https://www.google.com/maps/place/HOTEL+ITAMARATY+--+IMPERATRI-MA/@-5.520685,-47.470857,17z/data=!4m8!3m7!1s0x92c55fa646e607ed:0xc61d83ee8256c8f2!5m2!"
   },
   {
     "Nome Fantasia": "OTICA FABRICA DOS OCULOS & POUSADA CENTRAL",
@@ -1800,14 +2336,6 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "Pousada da Bel",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA DA ALEGRIA 26 Barreirinhas",
-    "Telefone Comercial": "(98)9227-9205",
-    "E-mail Comercial": "sd-peixoto@hotmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "TEIXEIRA CONSTRUCOES",
     "Município": "Matinha",
     "Endereço Completo Comercial": "ROD MA 014 55 Matinha",
@@ -1989,406 +2517,6 @@
     "Endereço Completo Comercial": "Rua das Palmeiras 10 Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)8866-3264",
     "E-mail Comercial": "cfferreirasophia@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOTEL STYLLO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA SAO JOSE 15/C Barreirinhas",
-    "Telefone Comercial": "(98)3349-0427",
-    "E-mail Comercial": "ANNAEEMANUEL@OUTLOOK.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "THAISLANDIA HOTEL",
-    "Município": "Lago da Pedra",
-    "Endereço Completo Comercial": "RUA HUMBERTO DE CAMPOS  Lago da Pedra",
-    "Telefone Comercial": "(99)3644-0828",
-    "E-mail Comercial": "CERAMICAALCOBACA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LAGOA VILLAGE ATINS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA PROJETADA  QUADRA 12  LOTE 21 SN Barreirinhas",
-    "Telefone Comercial": "(98)8135-9282",
-    "E-mail Comercial": "JRSGO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DUNAS BEACH POUSADA",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua do Sol  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)7021-4784",
-    "E-mail Comercial": "LAISFERRE@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA COCO VERDE BOMBORDO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua boa vista 100 Barreirinhas",
-    "Telefone Comercial": "(98)99232-5425",
-    "E-mail Comercial": "washingthonluiz64@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA ILHINHA",
-    "Município": "Anajatuba",
-    "Endereço Completo Comercial": "Estrada do Rosário  500 ilhinha  Anajatuba",
-    "Telefone Comercial": "(98)98488-3236",
-    "E-mail Comercial": "NEVESJOSE040@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA GIRO DAS DUNAS",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Rua Das Flores C 143 Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)8857-7606",
-    "E-mail Comercial": "SANDRAGOMESZ837@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA LENÇÓIS MARANHENSES LTDA",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "RUA  FIGUEREDO CAMPOS  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)9604-8970",
-    "E-mail Comercial": "PPG@POUSADAPEDRAGRANDE.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA PONTA DO FAROL",
-    "Município": "Zé Doca",
-    "Endereço Completo Comercial": "RUA DO COMERCIO  391 Zé Doca",
-    "Telefone Comercial": "(98)98141-1177",
-    "E-mail Comercial": "magnogonsalves55@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BACABEIRA HOTEL",
-    "Município": "Bacabeira",
-    "Endereço Completo Comercial": "Avenida José da Silva Calvet 68 Bacabeira",
-    "Telefone Comercial": "(98)99608-7988",
-    "E-mail Comercial": "carlabraga@bnb.gov.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "AGENCIA SATUR DE TURISMO ATINS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA PRINCIPAL SN Barreirinhas",
-    "Telefone Comercial": "(98)3349-1714",
-    "E-mail Comercial": "LOTUSASSESSORIACONABIL@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOSTEL RIO CLARO",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "A 96 (Jd de Allah) São Luís Olho D Água CEP: 65067542 MA",
-    "Telefone Comercial": "(98)99902-6183",
-    "E-mail Comercial": "db2000jc@gmail.com",
-    "Website": "hostelrioclaro@gmail.com"
-  },
-  {
-    "Nome Fantasia": "ENCANTO DOS LENCOIS",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "Centro  12 Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)9119-5524",
-    "E-mail Comercial": "WS471586@GMAIL.COM",
-    "Website": "http://encantodoslencoispousada"
-  },
-  {
-    "Nome Fantasia": "ESTACAO SANTANINHA",
-    "Município": "Matinha",
-    "Endereço Completo Comercial": "SANTANINHA  Matinha",
-    "Telefone Comercial": "(98)98534-2266",
-    "E-mail Comercial": "DPSMATINHA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA OASIS DOS LENCOIS",
-    "Município": "Paulino Neves",
-    "Endereço Completo Comercial": "Rua São Francisco 50 Paulino Neves",
-    "Telefone Comercial": "(98)98504-7303",
-    "E-mail Comercial": "URSULADAROCHASANTOS@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA PEQUENOS LENCOIS",
-    "Município": "Paulino Neves",
-    "Endereço Completo Comercial": "Vista Alegre 07 Paulino Neves",
-    "Telefone Comercial": "(98)7000-6165",
-    "E-mail Comercial": "ENEASCSAA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA SANTA FE",
-    "Município": "Riachão",
-    "Endereço Completo Comercial": "Rua Belo Céu 100 Riachão",
-    "Telefone Comercial": "(99)98800-5253",
-    "E-mail Comercial": "LUIZAVALADARESGOMES@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA CABANA DOS LAGOS",
-    "Município": "Riachão",
-    "Endereço Completo Comercial": "av Brasil 10 bairro primavera Riachão",
-    "Telefone Comercial": "(98)8744-0617",
-    "E-mail Comercial": "CHACARACABANADOSLAGOS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA BELO HORIZONTE",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AVENIDA JOAQUIM  SOEIRO SN Barreirinhas",
-    "Telefone Comercial": "(98)8734-8893",
-    "E-mail Comercial": "AMAPALEANDRO1234@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA BRILHO DOS LENÇOIS",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA DA QUADRA RIACHO 17 Barreirinhas",
-    "Telefone Comercial": "(98)8738-7079",
-    "E-mail Comercial": "POUSADABRILHODOSLENCOIS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RANCHO SOSSEGO",
-    "Município": "Raposa",
-    "Endereço Completo Comercial": "PRAIA DO MANGUE SECO - ARAÇAGI 08 Raposa",
-    "Telefone Comercial": "(98)9891-4772",
-    "E-mail Comercial": "AMELIANECHAVESDAMASCENO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA AGUIAR",
-    "Município": "Centro Novo do Maranhão",
-    "Endereço Completo Comercial": "Avenida Juscelino Kubitschek s/n Centro Novo do Maranhão",
-    "Telefone Comercial": "(98)8539-3299",
-    "E-mail Comercial": "POUSADAAGUIAR2022@OUTLOOK.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "G G C SERRA",
-    "Município": "Cururupu",
-    "Endereço Completo Comercial": "Centro  Cururupu",
-    "Telefone Comercial": "(98)8497-5555",
-    "E-mail Comercial": "GLEIANESERRA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA DO PROFESSOR",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "TRAVESSA CINCINATO RIBEIRO REGO N° 25 Barreirinhas",
-    "Telefone Comercial": "(98)9217-5372",
-    "E-mail Comercial": "CONTABILIDADE.CBC.2016@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LENCOIS DO DELTA",
-    "Município": "Tutóia",
-    "Endereço Completo Comercial": "RUA MAGALHÃES DE ALMEIDA 615 Tutóia",
-    "Telefone Comercial": "(98)98771-0407",
-    "E-mail Comercial": "T.FIGUEREDO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "AUTO POSTO CONFIANCA",
-    "Município": "Formosa da Serra Negra",
-    "Endereço Completo Comercial": "AVENIDA EDSON LOBÃO 04 Formosa da Serra Negra",
-    "Telefone Comercial": "(99)8400-2065",
-    "E-mail Comercial": "confianca.combustivel17@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "JM POUSADA",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA SAO SEBASTIAO SN Barreirinhas",
-    "Telefone Comercial": "(98)9969-5887",
-    "E-mail Comercial": "GERCYFERNANDES590@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA AGUAS DA CHAPADA",
-    "Município": "Carolina",
-    "Endereço Completo Comercial": "RUA DO CERRADO 27 Carolina",
-    "Telefone Comercial": "(99)8440-5659",
-    "E-mail Comercial": "SOL_SAMIA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SOUSA E HALLGREN POUSADA E RESTAURANTE LTDA",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "RUA OSWALDO CRUZ  Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)8827-4822",
-    "E-mail Comercial": "CLEILTONCONTABILIDADETAVARES@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RESTAURANTE PARAISO",
-    "Município": "Açailândia",
-    "Endereço Completo Comercial": "RUA SÃO PAULO 655 CENTRO Açailândia",
-    "Telefone Comercial": "(99)99186-4222",
-    "E-mail Comercial": "pa.hotel@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PARAISO HOTEL",
-    "Município": "Açailândia",
-    "Endereço Completo Comercial": "RUA SÃO PAULO 673 CENTRO Açailândia",
-    "Telefone Comercial": "(99)99186-4222",
-    "E-mail Comercial": "PA.HOTEL@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA ENCONTRO DA PAZ",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AVENIDA RODOVIARIA  Barreirinhas",
-    "Telefone Comercial": "(98)8596-4304",
-    "E-mail Comercial": "FILHOOIVAN@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA RECANTO NATIVO",
-    "Município": "Paulino Neves",
-    "Endereço Completo Comercial": "Rua Trancredo  S/N Paulino Neves",
-    "Telefone Comercial": "(98)8487-6678",
-    "E-mail Comercial": "GOMESMAG91@GMAIL.COM",
-    "Website": "@pousada_recanto_nativo"
-  },
-  {
-    "Nome Fantasia": "JEOVA BARBOSA ENGENHARIA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Trinta e Dois  São Luís Calhau CEP: 65071520 MA",
-    "Telefone Comercial": "(98)9226-1818",
-    "E-mail Comercial": "FINANCEIRO@JEOVABARBOSAENGENHARIA.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA DO AMOR",
-    "Município": "Paulino Neves",
-    "Endereço Completo Comercial": "Rua Demetrio Ribeiro Centro S/N Paulino Neves",
-    "Telefone Comercial": "(98)8451-5553",
-    "E-mail Comercial": "ELANESU@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GUARA HOSTEL ALBERGUE EMPREENDIMENTOS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "São João 329 ANTES DA ESCOLA MODELO São Luís Centro CEP: 65010600 MA",
-    "Telefone Comercial": "(98)9161-0297",
-    "E-mail Comercial": "GUARAHOSTEL@OUTLOOK.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOSTEL FAMILIA CARVALHO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "RUA SIQUEIRA CAMPOS 268 A Barreirinhas",
-    "Telefone Comercial": "(98)9124-1380",
-    "E-mail Comercial": "CARMOFABIANO466@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RANCHO POUSADA RODRIGUES",
-    "Município": "Paulino Neves",
-    "Endereço Completo Comercial": "Aeroporto Av  Paulino Neves S/N Paulino Neves",
-    "Telefone Comercial": "(98)8556-5615",
-    "E-mail Comercial": "ITALOSURF2015@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GODOFREDO HOTEL",
-    "Município": "Santa Inês",
-    "Endereço Completo Comercial": "Marechal Castelo Branco  Santa Inês Centro CEP: 65300001 MA",
-    "Telefone Comercial": "(98)98586-0990",
-    "E-mail Comercial": "godofredohotel@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CHALES PASSAGEM DO CANTO",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "AVENIDA PASSAGEM DO CANTO  Barreirinhas",
-    "Telefone Comercial": "(98)8775-8716",
-    "E-mail Comercial": "CIDA.GASPER@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LUCAS GUIMARAES LUSTOSA",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "São João  São Luís Centro CEP: 65010600 MA",
-    "Telefone Comercial": "(98)98465-9993",
-    "E-mail Comercial": "LUCAS.EJCON@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CASA NO BAIRRO VINHAIS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Cinquenta e Sete - A QUADRA 46  CASA 16A São Luís Vinhais CEP: 65074497 MA",
-    "Telefone Comercial": "(98)8824-8583",
-    "E-mail Comercial": "CAPCOSTA@HOTMAIL.COM",
-    "Website": "AIRBNB.COM\\H\\CASANOVINHAIS"
-  },
-  {
-    "Nome Fantasia": "POUSADA COCO VERDE",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Rua Boa Vista 100 Barreirinhas",
-    "Telefone Comercial": "(22)9611-5803",
-    "E-mail Comercial": "RODRIGUESRIBAMAR17@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOTEL RIOS",
-    "Município": "Balsas",
-    "Endereço Completo Comercial": "Av  Gov  Luiz Rocha N° 216 Balsas",
-    "Telefone Comercial": "(99)3541-6101",
-    "E-mail Comercial": "HOTELRIOBALSAS@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Pousada dos Guarás",
-    "Município": "Alcântara",
-    "Endereço Completo Comercial": "Rua da Baronesa 04 Alcântara",
-    "Telefone Comercial": "(98)99165-8545",
-    "E-mail Comercial": "pousadaguaras@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "HOSTEL DOS POETAS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Montanha Russa  São Luís Centro CEP: 65010400 MA",
-    "Telefone Comercial": "(98)8272-6801",
-    "E-mail Comercial": "hosteldospoetasslz@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RANCHARIA TOUR",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "rua principal  s/nº - ATINS Barreirinhas",
-    "Telefone Comercial": "(13)9767-5277",
-    "E-mail Comercial": "ANNATERESARAMUS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CHARME TOUR",
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Avenida Beira Mar  SN  Barreirinhas",
-    "Telefone Comercial": "(13)9767-5277",
-    "E-mail Comercial": "ANNATERESARAMUS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA DOS LAGOS",
-    "Município": "Paulino Neves",
-    "Endereço Completo Comercial": "Paulino Neves Rua São João Batista n 10 Paulino Neves",
-    "Telefone Comercial": "(98)9997-1728",
-    "E-mail Comercial": "ETSCONTABILIDADE@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA VILLA LENCOIS",
-    "Município": "Santo Amaro do Maranhão",
-    "Endereço Completo Comercial": "PRAÇA DA BÍBLIA S/N Santo Amaro do Maranhão",
-    "Telefone Comercial": "(98)7019-8198",
-    "E-mail Comercial": "VILLALENCOISMA@GMAIL.COM",
     "Website": "-"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "Nome Fantasia": "PALAZZO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Av São Paulo N°01 Quadra 15  São José de Ribamar",
+    "Telefone Comercial": "(98)3244-0729",
+    "E-mail Comercial": "palazzoeventosslz@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BAMBU GROUP",
+    "Município": "Fortaleza dos Nogueiras",
+    "Endereço Completo Comercial": "Avenida  Fortaleza dos Nogueiras",
+    "Telefone Comercial": "(99)3532-1341",
+    "E-mail Comercial": "joileneassuncao@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "SARAH PARK",
     "Município": "Nina Rodrigues",
     "Endereço Completo Comercial": "Av Central  s/n - Centro   Nina Rodrigues",
@@ -16,19 +32,19 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "POUSADA RIO GRAJAU",
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Rua Sete de Setembro  26  Grajaú",
-    "Telefone Comercial": "(99)9158-1030",
-    "E-mail Comercial": "GABIKAB566@GMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "J  C  EMPREENDIMENTOS",
     "Município": "Itinga do Maranhão",
     "Endereço Completo Comercial": "RUA DO CAMPO 178  Itinga do Maranhão",
     "Telefone Comercial": "(99)3531-4056",
     "E-mail Comercial": "FARIASARAUJO2006@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "COLONIAL EMPREENDIMENTOS",
+    "Município": "Alcântara",
+    "Endereço Completo Comercial": "rua direita  sn Alcântara",
+    "Telefone Comercial": "(98)99153-3559",
+    "E-mail Comercial": "nailtonlobato@gmail.com",
     "Website": "-"
   },
   {
@@ -102,37 +118,5 @@
     "Telefone Comercial": "(11)8254-3683",
     "E-mail Comercial": "BRUNO.ANTONI.PRADO@GMAIL.COM",
     "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CENTERPLEX CINEMAS",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "EST DE SAO JOSE DE RIBAMAR 1000  KM: 05  : PATIO NORTE SHOPPING  : SEGUNDO PA São José de Ribamar",
-    "Telefone Comercial": "(11)3225-1313",
-    "E-mail Comercial": "fiscal@centerplex.com.br",
-    "Website": "www.centerplex.com.br"
-  },
-  {
-    "Nome Fantasia": "DUDU PRODUCOES",
-    "Município": "Colinas",
-    "Endereço Completo Comercial": "R DO QUARTEL VELHO I 42/A Colinas",
-    "Telefone Comercial": "(99)98116-5244",
-    "E-mail Comercial": "producoesdudu0@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CENTRO DE DANÇA E MOVIMENTO SORAYA LIRA LTDA ME",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Holandeses 11 São Luís Jardim Renascença CEP: 65075650 MA",
-    "Telefone Comercial": "(98)9112-9106",
-    "E-mail Comercial": "svcontabilidade512@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CENTRO CULTURAL CASA GAMELA",
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Rua Major Pirola 131 São José de Ribamar",
-    "Telefone Comercial": "(98)98601-0406",
-    "E-mail Comercial": "casagamelasjr@gmail.com",
-    "Website": "https://casagamelasjr.com/"
   }
 ]

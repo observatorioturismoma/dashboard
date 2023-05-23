@@ -151,7 +151,7 @@
   },
   {
     "municipio_id": 31,
-    "polo_id": 9,
+    "polo_id": 0,
     "municipio_nome": "Cândido Mendes"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "municipio_id": 49,
-    "polo_id": 3,
+    "polo_id": 0,
     "municipio_nome": "Governador Edison Lobão"
   },
   {
@@ -356,7 +356,7 @@
   },
   {
     "municipio_id": 72,
-    "polo_id": 9,
+    "polo_id": 0,
     "municipio_nome": "Luís Domingues"
   },
   {
@@ -521,7 +521,7 @@
   },
   {
     "municipio_id": 105,
-    "polo_id": 0,
+    "polo_id": 3,
     "municipio_nome": "Porto Franco"
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "municipio_id": 115,
-    "polo_id": 7,
+    "polo_id": 0,
     "municipio_nome": "Santa Inês"
   },
   {
@@ -611,7 +611,7 @@
   },
   {
     "municipio_id": 123,
-    "polo_id": 7,
+    "polo_id": 0,
     "municipio_nome": "São Bento"
   },
   {
@@ -821,7 +821,7 @@
   },
   {
     "municipio_id": 165,
-    "polo_id": 1,
+    "polo_id": 0,
     "municipio_nome": "Alcântara"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "municipio_id": 178,
-    "polo_id": 3,
+    "polo_id": 0,
     "municipio_nome": "Formosa da Serra Negra"
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "municipio_id": 181,
-    "polo_id": 0,
+    "polo_id": 3,
     "municipio_nome": "Campestre do Maranhão"
   },
   {
@@ -921,17 +921,17 @@
   },
   {
     "municipio_id": 185,
-    "polo_id": 4,
+    "polo_id": 0,
     "municipio_nome": "Caxias"
   },
   {
     "municipio_id": 186,
-    "polo_id": 4,
+    "polo_id": 0,
     "municipio_nome": "Pedreiras"
   },
   {
     "municipio_id": 187,
-    "polo_id": 4,
+    "polo_id": 0,
     "municipio_nome": "Igarapé Grande"
   },
   {
@@ -956,7 +956,7 @@
   },
   {
     "municipio_id": 192,
-    "polo_id": 2,
+    "polo_id": 0,
     "municipio_nome": "Araioses"
   },
   {
@@ -986,7 +986,7 @@
   },
   {
     "municipio_id": 198,
-    "polo_id": 6,
+    "polo_id": 0,
     "municipio_nome": "Mirinzal"
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "municipio_id": 205,
-    "polo_id": 8,
+    "polo_id": 0,
     "municipio_nome": "Axixá"
   },
   {
@@ -1036,7 +1036,7 @@
   },
   {
     "municipio_id": 208,
-    "polo_id": 8,
+    "polo_id": 0,
     "municipio_nome": "Cachoeira Grande"
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "municipio_id": 210,
-    "polo_id": 0,
+    "polo_id": 8,
     "municipio_nome": "Chapadinha"
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "municipio_id": 213,
-    "polo_id": 0,
+    "polo_id": 8,
     "municipio_nome": "Cantanhede"
   },
   {
