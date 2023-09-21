@@ -5,6 +5,11 @@
     "municipio_nome": "Afonso Cunha"
   },
   {
+    "municipio_id": 193,
+    "polo_id": 2,
+    "municipio_nome": "Água Doce do Maranhão"
+  },
+  {
     "municipio_id": 165,
     "polo_id": 0,
     "municipio_nome": "Alcântara"
@@ -88,6 +93,11 @@
     "municipio_id": 15,
     "polo_id": 0,
     "municipio_nome": "Barão de Grajaú"
+  },
+  {
+    "municipio_id": 170,
+    "polo_id": 2,
+    "municipio_nome": "Barreirinhas"
   },
   {
     "municipio_id": 16,
@@ -325,6 +335,11 @@
     "municipio_nome": "Graça Aranha"
   },
   {
+    "municipio_id": 168,
+    "polo_id": 2,
+    "municipio_nome": "Humberto de Campos"
+  },
+  {
     "municipio_id": 55,
     "polo_id": 0,
     "municipio_nome": "Igarapé do Meio"
@@ -545,6 +560,11 @@
     "municipio_nome": "Pastos Bons"
   },
   {
+    "municipio_id": 191,
+    "polo_id": 2,
+    "municipio_nome": "Paulino Neves"
+  },
+  {
     "municipio_id": 96,
     "polo_id": 0,
     "municipio_nome": "Paulo Ramos"
@@ -630,6 +650,11 @@
     "municipio_nome": "Presidente Vargas"
   },
   {
+    "municipio_id": 171,
+    "polo_id": 2,
+    "municipio_nome": "Primeira Cruz"
+  },
+  {
     "municipio_id": 167,
     "polo_id": 1,
     "municipio_nome": "Raposa"
@@ -688,6 +713,11 @@
     "municipio_id": 121,
     "polo_id": 0,
     "municipio_nome": "Santo Antônio Dos Lopes"
+  },
+  {
+    "municipio_id": 169,
+    "polo_id": 2,
+    "municipio_nome": "Santo Amaro do Maranhão"
   },
   {
     "municipio_id": 122,
@@ -875,6 +905,11 @@
     "municipio_nome": "Turilândia"
   },
   {
+    "municipio_id": 190,
+    "polo_id": 2,
+    "municipio_nome": "Tutóia"
+  },
+  {
     "municipio_id": 157,
     "polo_id": 0,
     "municipio_nome": "Urbano Santos"
@@ -903,26 +938,6 @@
     "municipio_id": 162,
     "polo_id": 0,
     "municipio_nome": "Zé Doca"
-  },
-  {
-    "municipio_id": 168,
-    "polo_id": 2,
-    "municipio_nome": "Humberto de Campos"
-  },
-  {
-    "municipio_id": 169,
-    "polo_id": 2,
-    "municipio_nome": "Santo Amaro do Maranhão"
-  },
-  {
-    "municipio_id": 170,
-    "polo_id": 2,
-    "municipio_nome": "Barreirinhas"
-  },
-  {
-    "municipio_id": 171,
-    "polo_id": 2,
-    "municipio_nome": "Primeira Cruz"
   },
   {
     "municipio_id": 172,
@@ -983,16 +998,6 @@
     "municipio_id": 189,
     "polo_id": 4,
     "municipio_nome": "Bacabal"
-  },
-  {
-    "municipio_id": 190,
-    "polo_id": 2,
-    "municipio_nome": "Tutóia"
-  },
-  {
-    "municipio_id": 191,
-    "polo_id": 2,
-    "municipio_nome": "Paulino Neves"
   },
   {
     "municipio_id": 193,
