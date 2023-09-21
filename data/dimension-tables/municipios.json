@@ -515,6 +515,11 @@
     "municipio_nome": "Olinda Nova do Maranhão"
   },
   {
+    "municipio_id": 164,
+    "polo_id": 1,
+    "municipio_nome": "Paço do Lumiar"
+  },
+  {
     "municipio_id": 91,
     "polo_id": 0,
     "municipio_nome": "Palmeirândia"
@@ -625,6 +630,11 @@
     "municipio_nome": "Presidente Vargas"
   },
   {
+    "municipio_id": 167,
+    "polo_id": 1,
+    "municipio_nome": "Raposa"
+  },
+  {
     "municipio_id": 111,
     "polo_id": 0,
     "municipio_nome": "Ribamar Fiquene"
@@ -725,6 +735,11 @@
     "municipio_nome": "São João Batista"
   },
   {
+    "municipio_id": 166,
+    "polo_id": 1,
+    "municipio_nome": "São José de Ribamar"
+  },
+  {
     "municipio_id": 131,
     "polo_id": 0,
     "municipio_nome": "São João do Carú"
@@ -743,6 +758,11 @@
     "municipio_id": 134,
     "polo_id": 0,
     "municipio_nome": "São José Dos Basílios"
+  },
+  {
+    "municipio_id": 163,
+    "polo_id": 1,
+    "municipio_nome": "São Luís"
   },
   {
     "municipio_id": 135,
@@ -883,26 +903,6 @@
     "municipio_id": 162,
     "polo_id": 0,
     "municipio_nome": "Zé Doca"
-  },
-  {
-    "municipio_id": 163,
-    "polo_id": 1,
-    "municipio_nome": "São Luís"
-  },
-  {
-    "municipio_id": 164,
-    "polo_id": 1,
-    "municipio_nome": "Paço do Lumiar"
-  },
-  {
-    "municipio_id": 166,
-    "polo_id": 1,
-    "municipio_nome": "São José de Ribamar"
-  },
-  {
-    "municipio_id": 167,
-    "polo_id": 1,
-    "municipio_nome": "Raposa"
   },
   {
     "municipio_id": 168,
