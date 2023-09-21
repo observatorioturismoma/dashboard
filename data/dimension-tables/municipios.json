@@ -84,6 +84,11 @@
     "municipio_nome": "Araioses"
   },
   {
+    "municipio_id": 201,
+    "polo_id": 7,
+    "municipio_nome": "Arari"
+  },
+  {
     "municipio_id": 205,
     "polo_id": 0,
     "municipio_nome": "Axixá"
@@ -117,6 +122,11 @@
     "municipio_id": 15,
     "polo_id": 0,
     "municipio_nome": "Barão de Grajaú"
+  },
+  {
+    "municipio_id": 216,
+    "polo_id": 10,
+    "municipio_nome": "Barra do Corda"
   },
   {
     "municipio_id": 170,
@@ -239,6 +249,11 @@
     "municipio_nome": "Carolina"
   },
   {
+    "municipio_id": 215,
+    "polo_id": 9,
+    "municipio_nome": "Carutapera"
+  },
+  {
     "municipio_id": 185,
     "polo_id": 0,
     "municipio_nome": "Caxias"
@@ -257,6 +272,11 @@
     "municipio_id": 34,
     "polo_id": 0,
     "municipio_nome": "Centro do Guilherme"
+  },
+  {
+    "municipio_id": 214,
+    "polo_id": 9,
+    "municipio_nome": "Centro Novo do Maranhão"
   },
   {
     "municipio_id": 210,
@@ -282,6 +302,11 @@
     "municipio_id": 37,
     "polo_id": 0,
     "municipio_nome": "Colinas"
+  },
+  {
+    "municipio_id": 204,
+    "polo_id": 7,
+    "municipio_nome": "Conceição do Lago-Açu"
   },
   {
     "municipio_id": 38,
@@ -388,6 +413,11 @@
     "municipio_nome": "Graça Aranha"
   },
   {
+    "municipio_id": 217,
+    "polo_id": 10,
+    "municipio_nome": "Grajaú"
+  },
+  {
     "municipio_id": 194,
     "polo_id": 6,
     "municipio_nome": "Guimarães"
@@ -396,6 +426,11 @@
     "municipio_id": 168,
     "polo_id": 2,
     "municipio_nome": "Humberto de Campos"
+  },
+  {
+    "municipio_id": 206,
+    "polo_id": 8,
+    "municipio_nome": "Icatu"
   },
   {
     "municipio_id": 55,
@@ -573,6 +608,16 @@
     "municipio_nome": "Montes Altos"
   },
   {
+    "municipio_id": 209,
+    "polo_id": 8,
+    "municipio_nome": "Morros"
+  },
+  {
+    "municipio_id": 212,
+    "polo_id": 8,
+    "municipio_nome": "Nina Rodrigues"
+  },
+  {
     "municipio_id": 86,
     "polo_id": 0,
     "municipio_nome": "Nova Colinas"
@@ -741,6 +786,11 @@
     "municipio_id": 111,
     "polo_id": 0,
     "municipio_nome": "Ribamar Fiquene"
+  },
+  {
+    "municipio_id": 207,
+    "polo_id": 8,
+    "municipio_nome": "Rosário"
   },
   {
     "municipio_id": 112,
@@ -1003,6 +1053,11 @@
     "municipio_nome": "Urbano Santos"
   },
   {
+    "municipio_id": 211,
+    "polo_id": 8,
+    "municipio_nome": "Vargem Grande"
+  },
+  {
     "municipio_id": 158,
     "polo_id": 7,
     "municipio_nome": "Viana"
@@ -1026,60 +1081,5 @@
     "municipio_id": 162,
     "polo_id": 0,
     "municipio_nome": "Zé Doca"
-  },
-  {
-    "municipio_id": 201,
-    "polo_id": 7,
-    "municipio_nome": "Arari"
-  },
-  {
-    "municipio_id": 204,
-    "polo_id": 7,
-    "municipio_nome": "Conceição do Lago-Açu"
-  },
-  {
-    "municipio_id": 206,
-    "polo_id": 8,
-    "municipio_nome": "Icatu"
-  },
-  {
-    "municipio_id": 207,
-    "polo_id": 8,
-    "municipio_nome": "Rosário"
-  },
-  {
-    "municipio_id": 209,
-    "polo_id": 8,
-    "municipio_nome": "Morros"
-  },
-  {
-    "municipio_id": 211,
-    "polo_id": 8,
-    "municipio_nome": "Vargem Grande"
-  },
-  {
-    "municipio_id": 212,
-    "polo_id": 8,
-    "municipio_nome": "Nina Rodrigues"
-  },
-  {
-    "municipio_id": 214,
-    "polo_id": 9,
-    "municipio_nome": "Centro Novo do Maranhão"
-  },
-  {
-    "municipio_id": 215,
-    "polo_id": 9,
-    "municipio_nome": "Carutapera"
-  },
-  {
-    "municipio_id": 216,
-    "polo_id": 10,
-    "municipio_nome": "Barra do Corda"
-  },
-  {
-    "municipio_id": 217,
-    "polo_id": 10,
-    "municipio_nome": "Grajaú"
   }
 ]
