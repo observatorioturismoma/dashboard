@@ -64,6 +64,11 @@
     "municipio_nome": "Anapurus"
   },
   {
+    "municipio_id": 199,
+    "polo_id": 6,
+    "municipio_nome": "Apicum-Açu"
+  },
+  {
     "municipio_id": 10,
     "polo_id": 0,
     "municipio_nome": "Araguanã"
@@ -132,6 +137,11 @@
     "municipio_id": 18,
     "polo_id": 0,
     "municipio_nome": "Benedito Leite"
+  },
+  {
+    "municipio_id": 197,
+    "polo_id": 6,
+    "municipio_nome": "Bequimão"
   },
   {
     "municipio_id": 19,
@@ -239,6 +249,11 @@
     "municipio_nome": "Cedral"
   },
   {
+    "municipio_id": 200,
+    "polo_id": 6,
+    "municipio_nome": "Central do Maranhão"
+  },
+  {
     "municipio_id": 34,
     "polo_id": 0,
     "municipio_nome": "Centro do Guilherme"
@@ -272,6 +287,11 @@
     "municipio_id": 38,
     "polo_id": 0,
     "municipio_nome": "Coroatá"
+  },
+  {
+    "municipio_id": 195,
+    "polo_id": 6,
+    "municipio_nome": "Cururupu"
   },
   {
     "municipio_id": 39,
@@ -366,6 +386,11 @@
     "municipio_id": 54,
     "polo_id": 0,
     "municipio_nome": "Graça Aranha"
+  },
+  {
+    "municipio_id": 194,
+    "polo_id": 6,
+    "municipio_nome": "Guimarães"
   },
   {
     "municipio_id": 168,
@@ -666,6 +691,11 @@
     "municipio_id": 105,
     "polo_id": 3,
     "municipio_nome": "Porto Franco"
+  },
+  {
+    "municipio_id": 196,
+    "polo_id": 6,
+    "municipio_nome": "Porto Rico do Maranhão"
   },
   {
     "municipio_id": 106,
@@ -996,36 +1026,6 @@
     "municipio_id": 162,
     "polo_id": 0,
     "municipio_nome": "Zé Doca"
-  },
-  {
-    "municipio_id": 194,
-    "polo_id": 6,
-    "municipio_nome": "Guimarães"
-  },
-  {
-    "municipio_id": 195,
-    "polo_id": 6,
-    "municipio_nome": "Cururupu"
-  },
-  {
-    "municipio_id": 196,
-    "polo_id": 6,
-    "municipio_nome": "Porto Rico do Maranhão"
-  },
-  {
-    "municipio_id": 197,
-    "polo_id": 6,
-    "municipio_nome": "Bequimão"
-  },
-  {
-    "municipio_id": 199,
-    "polo_id": 6,
-    "municipio_nome": "Apicum-Açu"
-  },
-  {
-    "municipio_id": 200,
-    "polo_id": 6,
-    "municipio_nome": "Central do Maranhão"
   },
   {
     "municipio_id": 201,
