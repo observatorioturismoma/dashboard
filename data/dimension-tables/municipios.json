@@ -60,6 +60,16 @@
     "municipio_nome": "Arame"
   },
   {
+    "municipio_id": 192,
+    "polo_id": 0,
+    "municipio_nome": "Araioses"
+  },
+  {
+    "municipio_id": 205,
+    "polo_id": 0,
+    "municipio_nome": "Axixá"
+  },
+  {
     "municipio_id": 12,
     "polo_id": 0,
     "municipio_nome": "Bacabeira"
@@ -955,11 +965,6 @@
     "municipio_nome": "Paulino Neves"
   },
   {
-    "municipio_id": 192,
-    "polo_id": 0,
-    "municipio_nome": "Araioses"
-  },
-  {
     "municipio_id": 193,
     "polo_id": 2,
     "municipio_nome": "Água Doce do Maranhão"
@@ -1018,11 +1023,6 @@
     "municipio_id": 204,
     "polo_id": 7,
     "municipio_nome": "Conceição do Lago-Açu"
-  },
-  {
-    "municipio_id": 205,
-    "polo_id": 0,
-    "municipio_nome": "Axixá"
   },
   {
     "municipio_id": 206,
