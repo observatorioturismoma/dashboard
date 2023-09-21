@@ -5,6 +5,11 @@
     "municipio_nome": "Afonso Cunha"
   },
   {
+    "municipio_id": 165,
+    "polo_id": 0,
+    "municipio_nome": "Alcântara"
+  },
+  {
     "municipio_id": 2,
     "polo_id": 0,
     "municipio_nome": "Aldeias Altas"
@@ -818,11 +823,6 @@
     "municipio_id": 164,
     "polo_id": 1,
     "municipio_nome": "Paço do Lumiar"
-  },
-  {
-    "municipio_id": 165,
-    "polo_id": 0,
-    "municipio_nome": "Alcântara"
   },
   {
     "municipio_id": 166,
