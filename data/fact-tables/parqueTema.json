@@ -1,18 +1,26 @@
 [
   {
     "Nome Fantasia": "VALPARAISO COMPLEXO TURISTICO LTDA",
-    "Município": "Paço do Lumiar",
-    "Endereço Completo Comercial": "Estrada da Pindoba nº 03  Paço do Lumiar",
+    "Munic�pio": "Pa�o do Lumiar",
+    "Endere�o Completo Comercial": "Estrada da Pindoba n� 03  Pa�o do Lumiar",
     "Telefone Comercial": "(98)3265-0217",
     "E-mail Comercial": "contato@valparaisoacquapark.com.br",
     "Website": "www.valparaisoadventurepark.com.br"
   },
   {
     "Nome Fantasia": "BAMBU GROUP",
-    "Município": "Fortaleza dos Nogueiras",
-    "Endereço Completo Comercial": "00  Fortaleza dos Nogueiras",
+    "Munic�pio": "Fortaleza dos Nogueiras",
+    "Endere�o Completo Comercial": "00  Fortaleza dos Nogueiras",
     "Telefone Comercial": "(99)3532-1341",
     "E-mail Comercial": "joileneassuncao@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PARQUE DAS GARCAS",
+    "Munic�pio": "Presidente Dutra",
+    "Endere�o Completo Comercial": "Br226 km 207 805 Presidente Dutra",
+    "Telefone Comercial": "(99)99100-2987",
+    "E-mail Comercial": "SOUZAVIS@YAHOO.COM.BR",
     "Website": "-"
   }
 ]
