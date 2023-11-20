@@ -8,9 +8,15 @@
     "Website": "baluarte.tur.br"
   },
   {
+<<<<<<< HEAD
     "Nome Fantasia": "C�U ABERTO",
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "R NOVA 184 Barreirinhas",
+=======
+    "Nome Fantasia": "CÉU ABERTO",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "R NOVA 184 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99213-5590",
     "E-mail Comercial": "ceuabertoatins@gmail.com",
     "Website": "-"
@@ -33,8 +39,13 @@
   },
   {
     "Nome Fantasia": "Point Pizzaria e Hamburgueria",
+<<<<<<< HEAD
     "Munic�pio": "Centro Novo do Maranh�o",
     "Endere�o Completo Comercial": "Av  Juscelino Kubistchek 69 Centro Novo do Maranh�o",
+=======
+    "Município": "Centro Novo do Maranhão",
+    "Endereço Completo Comercial": "Av  Juscelino Kubistchek 69 Centro Novo do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98490-0265",
     "E-mail Comercial": "marisousa175021@gmail.com",
     "Website": "-"
@@ -49,16 +60,26 @@
   },
   {
     "Nome Fantasia": "J C RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Sem Logradouro  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8882-7363",
     "E-mail Comercial": "jcsilvacarvalho@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR NOVO PARAISO",
+<<<<<<< HEAD
     "Munic�pio": "Carutapera",
     "Endere�o Completo Comercial": "Bairro Sto  Ant�nio n� 13 Carutapera",
+=======
+    "Município": "Carutapera",
+    "Endereço Completo Comercial": "Bairro Sto  Antônio n° 13 Carutapera",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8456-9040",
     "E-mail Comercial": "novo.paraiso.2019@gmail.com",
     "Website": "-"
@@ -73,24 +94,39 @@
   },
   {
     "Nome Fantasia": "RESTAURANTE E PIZZARIA CORTEZ",
+<<<<<<< HEAD
     "Munic�pio": "Graja�",
     "Endere�o Completo Comercial": "Av  Amaral Raposo  1790  Bairro: Canoeiro  Graja�",
+=======
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "Av  Amaral Raposo  1790  Bairro: Canoeiro  Grajaú",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9209-6583",
     "E-mail Comercial": "ELIETEOLIVEIRA33@HOTMAIL.COM",
     "Website": ""
   },
   {
     "Nome Fantasia": "RESTAURANTE CANTINHO DA FELICIDADE",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "povoado betania  Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "povoado betania  Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99130-1936",
     "E-mail Comercial": "betania.cantinho@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BOM GOSTO",
+<<<<<<< HEAD
     "Munic�pio": "Alc�ntara",
     "Endere�o Completo Comercial": "MA 106 S/N    Alc�ntara",
+=======
+    "Município": "Alcântara",
+    "Endereço Completo Comercial": "MA 106 S/N    Alcântara",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9163-8589",
     "E-mail Comercial": "kecialucas17@gmail.com",
     "Website": "-"
@@ -105,14 +141,20 @@
   },
   {
     "Nome Fantasia": "Restaurante Cabana do Sol",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Jo�o Damasceno  S�o Lu�s Ponta do Farol CEP: 65077630 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "João Damasceno  São Luís Ponta do Farol CEP: 65077630 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3235-2586",
     "E-mail Comercial": "contato@cabanadosol.com.br",
     "Website": "https://www.cabanadosol.com.br/"
   },
   {
     "Nome Fantasia": "RESTAURANTE MALOUDA",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "beira rio 109 Barreirinhas",
     "Telefone Comercial": "(98)98739-7130",
@@ -203,102 +245,254 @@
     "Nome Fantasia": "FLOR DO MANGUE",
     "Munic�pio": "Tut�ia",
     "Endere�o Completo Comercial": "Rua Guajiru  Tut�ia",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "beira rio 109 Barreirinhas",
+    "Telefone Comercial": "(98)98739-7130",
+    "E-mail Comercial": "ojacarepub@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Restaurante e Lanchonete Esperança",
+    "Município": "Porto Rico do Maranhão",
+    "Endereço Completo Comercial": "Rua Edson Lobão Centro Porto Rico do Maranhão",
+    "Telefone Comercial": "(98)8433-8665",
+    "E-mail Comercial": "niraleitesantos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Restaurante e Pousada do Pincel",
+    "Município": "Tasso Fragoso",
+    "Endereço Completo Comercial": "Rua Rui Barbosa  n° 290- Centro  Tasso Fragoso",
+    "Telefone Comercial": "(99)3543-1107",
+    "E-mail Comercial": "apolianaal07@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CHURRASCARIA E PIZZARIA PALHOCA",
+    "Município": "Alto Parnaíba",
+    "Endereço Completo Comercial": "Avenida Rio Parnaiba  Alto Parnaíba",
+    "Telefone Comercial": "(89)3569-7117",
+    "E-mail Comercial": "palhocaeventosap@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE DA EDNA",
+    "Município": "São João do Soter",
+    "Endereço Completo Comercial": "Travessa Eugênia Campos 31  São João do Soter Centro CEP: 65615970 MA",
+    "Telefone Comercial": "(99)8211-1181",
+    "E-mail Comercial": "caioalex160793@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE BARROKA",
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "AVENIDA AMARAL RAPOSO   Grajaú",
+    "Telefone Comercial": "(99)3532-4022",
+    "E-mail Comercial": "thiago.desousasilva@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE A CANOA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+    "Telefone Comercial": "(98)3349-1724",
+    "E-mail Comercial": "gilbertdemousseau@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BOM D +",
+    "Município": "Caxias",
+    "Endereço Completo Comercial": "Otávio Passos  Caxias Centro CEP: 65600010 MA",
+    "Telefone Comercial": "(99)98400-2788",
+    "E-mail Comercial": "w_glennos.2016@outlook.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA E RESTAURANTE PORTAL DOS GUARAS",
+    "Município": "Porto Rico do Maranhão",
+    "Endereço Completo Comercial": "Rua do trânsito  Rodovia MA 302  Porto Rico do Maranhão",
+    "Telefone Comercial": "(98)98494-7699",
+    "E-mail Comercial": "portaldosguaraspousada@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CHALE RECANTO DAS AGUAS",
+    "Município": "Conceição do Lago-Açu",
+    "Endereço Completo Comercial": "Rua Rosilda  10 - Centro  Conceição do Lago-Açu",
+    "Telefone Comercial": "(98)8800-4697",
+    "E-mail Comercial": "juarildotomas@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Rancho Bambu",
+    "Município": "Vargem Grande",
+    "Endereço Completo Comercial": "Rua dos Abricos  s/n - Palmeiral  Nina Rodrigues",
+    "Telefone Comercial": "(98)9126-1093",
+    "E-mail Comercial": "jccontabilidadevg@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FLOR DO MANGUE",
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Rua Guajiru  Tutóia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8828-7917",
     "E-mail Comercial": "flordomanguetutoia@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA JACARE",
+<<<<<<< HEAD
     "Munic�pio": "Alc�ntara",
     "Endere�o Completo Comercial": "AV Getulio Vargas N� 48 Centro  Alc�ntara",
+=======
+    "Município": "Alcântara",
+    "Endereço Completo Comercial": "AV Getulio Vargas N° 48 Centro  Alcântara",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99177-3140",
     "E-mail Comercial": "pousadajacare_ma@outlook.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIZZARIA TIO PEPE",
+<<<<<<< HEAD
     "Munic�pio": "Carolina",
     "Endere�o Completo Comercial": "p� jose alcides de carvalho  236  centro Carolina",
+=======
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "pç jose alcides de carvalho  236  centro Carolina",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3531-2960",
     "E-mail Comercial": "vilmarlieber@hotmail.com",
     "Website": "www.tiopepepizzaria.com.br"
   },
   {
     "Nome Fantasia": "POUSADA BARREIRINHAS",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Rua Cincinato Ribeiro R�go   Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Cincinato Ribeiro Rêgo   Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99114-2254",
     "E-mail Comercial": "pousadabarreirinhas@gmail.com",
     "Website": "http://www.pousadabarreirinha.com.br"
   },
   {
     "Nome Fantasia": "RESTAURANTE PARAISO",
+<<<<<<< HEAD
     "Munic�pio": "A�ail�ndia",
     "Endere�o Completo Comercial": "Sem Logradouro  A�ail�ndia",
+=======
+    "Município": "Açailândia",
+    "Endereço Completo Comercial": "Sem Logradouro  Açailândia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99186-4222",
     "E-mail Comercial": "pa.hotel@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DA SESE",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Povoado Atins  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Povoado Atins  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99101-3213",
     "E-mail Comercial": "sesesantosporto@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ADVENTURE BAR E RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Litor�nea Barraca 20A S�o Lu�s Calhau CEP: 65071377 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Litorânea Barraca 20A São Luís Calhau CEP: 65071377 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3223-1340",
     "E-mail Comercial": "adrianaramm15@gmail.com",
     "Website": "adventurebeachbar"
   },
   {
     "Nome Fantasia": "D RIOS BAR - RESATAURANTE E TURISMO",
+<<<<<<< HEAD
     "Munic�pio": "Pindar� Mirim",
     "Endere�o Completo Comercial": "Rua Leopoldina  Bairro Alto do Bode  23 Pindar� Mirim",
+=======
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Rua Leopoldina  Bairro Alto do Bode  23 Pindaré Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8492-8666",
     "E-mail Comercial": "KLAYANNEKARLA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR CERVEJEIROS",
+<<<<<<< HEAD
     "Munic�pio": "Governador Edison Lob�o",
     "Endere�o Completo Comercial": "AV  BERNADO SAY�O  EM FRETE A BR 010 Governador Edison Lob�o",
+=======
+    "Município": "Governador Edison Lobão",
+    "Endereço Completo Comercial": "AV  BERNADO SAYÃO  EM FRETE A BR 010 Governador Edison Lobão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8505-0755",
     "E-mail Comercial": "EDUARDOPSMODESTO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CASA DA PIZZA",
+<<<<<<< HEAD
     "Munic�pio": "Cururupu",
     "Endere�o Completo Comercial": "Rua dr Jose Pires S/N Cururupu",
+=======
+    "Município": "Cururupu",
+    "Endereço Completo Comercial": "Rua dr Jose Pires S/N Cururupu",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98410-9768",
     "E-mail Comercial": "liliagomes_bl@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FLINE MARCIO DIAS PEREIRA",
+<<<<<<< HEAD
     "Munic�pio": "Cururupu",
     "Endere�o Completo Comercial": "TV Aquiles Lisboa s/n Cururupu",
+=======
+    "Município": "Cururupu",
+    "Endereço Completo Comercial": "TV Aquiles Lisboa s/n Cururupu",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8563-3730",
     "E-mail Comercial": "FLINE.MARCIO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "AGARRADINHO BAR",
+<<<<<<< HEAD
     "Munic�pio": "A�ail�ndia",
     "Endere�o Completo Comercial": "rua 22 37 A�ail�ndia",
+=======
+    "Município": "Açailândia",
+    "Endereço Completo Comercial": "rua 22 37 Açailândia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9223-7323",
     "E-mail Comercial": "BARBARAGOMESSOUSA3@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CALDOS & LANCHES",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "Fomento 3247 Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Fomento 3247 Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8895-7072",
     "E-mail Comercial": "LUZIAMPACHECOZANZAN@GMAIL.COM",
     "Website": "-"
@@ -321,72 +515,117 @@
   },
   {
     "Nome Fantasia": "RONAN CASTRO FIGUEREDO 79556442391",
+<<<<<<< HEAD
     "Munic�pio": "Riach�o",
     "Endere�o Completo Comercial": "Pra�a Bom Jesus  Riach�o",
+=======
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "Praça Bom Jesus  Riachão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98813-1113",
     "E-mail Comercial": "ronanfigueredo@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SESC TURISMO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "S�o Carlos S/N S�o Lu�s Olho D �gua CEP: 65065420 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Carlos S/N São Luís Olho D Água CEP: 65065420 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3248-8337",
     "E-mail Comercial": "fasantos@ma.sesc.com.br",
     "Website": "www.sescma.com.br"
   },
   {
     "Nome Fantasia": "BIG DELICIA SORVETES",
+<<<<<<< HEAD
     "Munic�pio": "Carutapera",
     "Endere�o Completo Comercial": "Av  Padre Mario Racca  Carutapera",
+=======
+    "Município": "Carutapera",
+    "Endereço Completo Comercial": "Av  Padre Mario Racca  Carutapera",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8409-1721",
     "E-mail Comercial": "renan-s-aragao@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CHURRASCARIA DO PORTAL",
+<<<<<<< HEAD
     "Munic�pio": "Morros",
     "Endere�o Completo Comercial": "Rod BR 402  kM 100  Centro Estabelecimento Comercial Morros",
+=======
+    "Município": "Morros",
+    "Endereço Completo Comercial": "Rod BR 402  kM 100  Centro Estabelecimento Comercial Morros",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8701-1785",
     "E-mail Comercial": "huerton.silva@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DELICIOUS",
+<<<<<<< HEAD
     "Munic�pio": "Vargem Grande",
     "Endere�o Completo Comercial": "RUA DA BALAIADA   Vargem Grande",
+=======
+    "Município": "Vargem Grande",
+    "Endereço Completo Comercial": "RUA DA BALAIADA   Vargem Grande",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9999-3939",
     "E-mail Comercial": "MFREIRE.CONTAB@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GAGUINHO DA CARNE DE SOL",
+<<<<<<< HEAD
     "Munic�pio": "Vargem Grande",
     "Endere�o Completo Comercial": "Cer�mica   Vargem Grande",
+=======
+    "Município": "Vargem Grande",
+    "Endereço Completo Comercial": "Cerâmica   Vargem Grande",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9181-3683",
     "E-mail Comercial": "GAGUINHODACARNEDESOL@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA RIO GRAJAU",
+<<<<<<< HEAD
     "Munic�pio": "Graja�",
     "Endere�o Completo Comercial": "Rua Sete de Setembro  26  Graja�",
+=======
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "Rua Sete de Setembro  26  Grajaú",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9158-1030",
     "E-mail Comercial": "GABIKAB566@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SAIDEIRA CONVENIENCIA CLUBE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "M�rio Andreazza  S�o Lu�s Turu CEP: 65068500 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Mário Andreazza  São Luís Turu CEP: 65068500 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8214-9790",
     "E-mail Comercial": "GREICYLOREN@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIZZARIA CEARENSE CARLOS LANCHE",
+<<<<<<< HEAD
     "Munic�pio": "�gua Doce do Maranh�o",
     "Endere�o Completo Comercial": "Nonato Paiva 240 �gua Doce do Maranh�o",
+=======
+    "Município": "Água Doce do Maranhão",
+    "Endereço Completo Comercial": "Nonato Paiva 240 Água Doce do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3478-6186",
     "E-mail Comercial": "turismo.aguadoce.ma@gmail.com",
     "Website": "-"
@@ -417,30 +656,47 @@
   },
   {
     "Nome Fantasia": "MANO'S SERVICE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Mateus do Maranh�o",
     "Endere�o Completo Comercial": "Av Antonio Pereira Arag�o  1163 S�o Mateus do Maranh�o",
+=======
+    "Município": "São Mateus do Maranhão",
+    "Endereço Completo Comercial": "Av Antonio Pereira Aragão  1163 São Mateus do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8134-5201",
     "E-mail Comercial": "CONAECONTABILIDADE@YAHOO.COM.BR",
     "Website": "-"
   },
   {
+<<<<<<< HEAD
     "Nome Fantasia": "Restaurante e Pizzaria Ip�s",
     "Munic�pio": "Caxias",
     "Endere�o Completo Comercial": "Aar�o Reis - de 1102/1103 ao fim Caxias Centro CEP: 65604060 MA",
+=======
+    "Nome Fantasia": "Restaurante e Pizzaria Ipês",
+    "Município": "Caxias",
+    "Endereço Completo Comercial": "Aarão Reis - de 1102/1103 ao fim Caxias Centro CEP: 65604060 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8118-6926",
     "E-mail Comercial": "IPECARNESGRELHADOS@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MANGUE ATINS",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA SAO MIGUEL  SN  POVOADO ATINS  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA SAO MIGUEL  SN  POVOADO ATINS  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9219-1720",
     "E-mail Comercial": "sia-ra@live.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MERCANTIL MUNIZ",
+<<<<<<< HEAD
     "Munic�pio": "Morros",
     "Endere�o Completo Comercial": "Bairro 13  S/N  Morros",
     "Telefone Comercial": "(98)8912-0995",
@@ -507,342 +763,620 @@
     "Nome Fantasia": "CHURRASCARIA E HOTEL BRIZA DO MEARIM",
     "Munic�pio": "Arari",
     "Endere�o Completo Comercial": "RUA DA FRANCA  118 A - FRANCA  Arari",
+=======
+    "Município": "Morros",
+    "Endereço Completo Comercial": "Bairro 13  S/N  Morros",
+    "Telefone Comercial": "(98)8912-0995",
+    "E-mail Comercial": "MUNIZTELMA928@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTE DEUS E FIEL",
+    "Município": "Apicum-Açu",
+    "Endereço Completo Comercial": "AVENIDA CÂNDIDO MENDES  BAIRRO NOVO APICUM-AÇU  S/ Nº Apicum-Açu",
+    "Telefone Comercial": "(98)8523-2121",
+    "E-mail Comercial": "kelyh-ta@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL E RESTAURANTE RIO UNA",
+    "Município": "Morros",
+    "Endereço Completo Comercial": "AVENIDA RIO UNA S/N CENTRO  Morros",
+    "Telefone Comercial": "(98)8497-9637",
+    "E-mail Comercial": "Morrosfredkennedy@outlook.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PIZZARIA SABOR DO NORTE",
+    "Município": "Centro Novo do Maranhão",
+    "Endereço Completo Comercial": "Avenida Floriano Peixoto 590 Centro Novo do Maranhão",
+    "Telefone Comercial": "(98)98432-0897",
+    "E-mail Comercial": "lucelina35.lses@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BIG LANCHE",
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Rua Nossa Senhora Aparecida  Bairro Centro 19 Pindaré Mirim",
+    "Telefone Comercial": "(94)8121-9473",
+    "E-mail Comercial": "JUNIORELDORADO@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MARÉ ALTA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL  SN  TAPUIO  Barreirinhas",
+    "Telefone Comercial": "(98)98730-8272",
+    "E-mail Comercial": "jsilvaaraujo09@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MILK SHAKE MIX",
+    "Município": "Rosário",
+    "Endereço Completo Comercial": "Rua Urbano Santos 469 Centro Praça da Prefeitura Rosário",
+    "Telefone Comercial": "(98)98602-7219",
+    "E-mail Comercial": "antoniocpfilho@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "RESTAURANTEE CENTRAL",
+    "Município": "Formosa da Serra Negra",
+    "Endereço Completo Comercial": "Rua Tancredo Neves  Formosa da Serra Negra",
+    "Telefone Comercial": "(99)3565-1160",
+    "E-mail Comercial": "retcentral2019@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CHURRASCARIA E HOTEL BRIZA DO MEARIM",
+    "Município": "Arari",
+    "Endereço Completo Comercial": "RUA DA FRANCA  118 A - FRANCA  Arari",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8131-3326",
     "E-mail Comercial": "claudiapestana422@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIZZA & CIA",
+<<<<<<< HEAD
     "Munic�pio": "Alc�ntara",
     "Endere�o Completo Comercial": "AV PRINCIPAL MA-106 N� 15  Alc�ntara",
+=======
+    "Município": "Alcântara",
+    "Endereço Completo Comercial": "AV PRINCIPAL MA-106 N° 15  Alcântara",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9124-7599",
     "E-mail Comercial": "queirozegusmao@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CASA DE CABOCLO",
+<<<<<<< HEAD
     "Munic�pio": "Araioses",
     "Endere�o Completo Comercial": "ZONA RURAL  Araioses",
+=======
+    "Município": "Araioses",
+    "Endereço Completo Comercial": "ZONA RURAL  Araioses",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(86)9413-7383",
     "E-mail Comercial": "ATENDIMENTO@CASADECABOCLO.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA SANTA BARBARA",
+<<<<<<< HEAD
     "Munic�pio": "Riach�o",
     "Endere�o Completo Comercial": "ma 132  km 12  po�o azul ecoturismo Fazenda Santa B�rbara Riach�o",
+=======
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "ma 132  km 12  poço azul ecoturismo Fazenda Santa Bárbara Riachão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3531-0337",
     "E-mail Comercial": "pocoazul.adm@gmail.com",
     "Website": "www.pocoazulriachao.com.br"
   },
   {
     "Nome Fantasia": "PASTELARIA E RESTAURANTE DO ZEQUINHA",
+<<<<<<< HEAD
     "Munic�pio": "Cururupu",
     "Endere�o Completo Comercial": "Rua Getulio Vargas  100 Centro Cururupu",
+=======
+    "Município": "Cururupu",
+    "Endereço Completo Comercial": "Rua Getulio Vargas  100 Centro Cururupu",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98431-4083",
     "E-mail Comercial": "ZECA.ARANHAFILHO@BOL.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DRINKS LANCHES",
+<<<<<<< HEAD
     "Munic�pio": "Ros�rio",
     "Endere�o Completo Comercial": "Rua Heraclito Nina n� 34000  Ros�rio",
+=======
+    "Município": "Rosário",
+    "Endereço Completo Comercial": "Rua Heraclito Nina n° 34000  Rosário",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98870-4050",
     "E-mail Comercial": "hmilsousa@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE TREVO",
+<<<<<<< HEAD
     "Munic�pio": "Formosa da Serra Negra",
     "Endere�o Completo Comercial": "TREVO MA 006  Formosa da Serra Negra",
+=======
+    "Município": "Formosa da Serra Negra",
+    "Endereço Completo Comercial": "TREVO MA 006  Formosa da Serra Negra",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3565-1079",
     "E-mail Comercial": "mery.07@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "VARANDAO DO NIDINHO",
+<<<<<<< HEAD
     "Munic�pio": "Bequim�o",
     "Endere�o Completo Comercial": "Rua Bar�o do Rio Branco  523  Centro  Bequim�o",
+=======
+    "Município": "Bequimão",
+    "Endereço Completo Comercial": "Rua Barão do Rio Branco  523  Centro  Bequimão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8240-7841",
     "E-mail Comercial": "rosangelaalves07@outlook.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE E PIZZARIA DA TATY",
+<<<<<<< HEAD
     "Munic�pio": "Carutapera",
     "Endere�o Completo Comercial": "cais de carutapera  Carutapera",
+=======
+    "Município": "Carutapera",
+    "Endereço Completo Comercial": "cais de carutapera  Carutapera",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8400-5852",
     "E-mail Comercial": "tatyanacassia@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Bola de Ouro",
+<<<<<<< HEAD
     "Munic�pio": "Caxias",
     "Endere�o Completo Comercial": "BR-316 - do km 550 000 ao km 552 499 - lado esquerdo Caxias Volta Redonda CEP: 65606525 MA",
+=======
+    "Município": "Caxias",
+    "Endereço Completo Comercial": "BR-316 - do km 550 000 ao km 552 499 - lado esquerdo Caxias Volta Redonda CEP: 65606525 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98258-4009",
     "E-mail Comercial": "juliana_tavares.ufcg@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESPETINHO BOM JESUS",
+<<<<<<< HEAD
     "Munic�pio": "Itinga do Maranh�o",
     "Endere�o Completo Comercial": "bar e restaurante   Itinga do Maranh�o",
+=======
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "bar e restaurante   Itinga do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99199-0298",
     "E-mail Comercial": "turismoitinga@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE SABOR CAIPIRA",
+<<<<<<< HEAD
     "Munic�pio": "Carutapera",
     "Endere�o Completo Comercial": "Rua: duque de caxias  Carutapera",
+=======
+    "Município": "Carutapera",
+    "Endereço Completo Comercial": "Rua: duque de caxias  Carutapera",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8450-9789",
     "E-mail Comercial": "elane.ellen@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GAZU EMPREENDIMENTOS",
+<<<<<<< HEAD
     "Munic�pio": "Mirinzal",
     "Endere�o Completo Comercial": "avenida Governador Antonio  sn Centro pousada Mirinzal",
+=======
+    "Município": "Mirinzal",
+    "Endereço Completo Comercial": "avenida Governador Antonio  sn Centro pousada Mirinzal",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3399-1239",
     "E-mail Comercial": "joselenesilvas58@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "M P SANTOS",
+<<<<<<< HEAD
     "Munic�pio": "Tut�ia",
     "Endere�o Completo Comercial": "RUA GUAJIRU S/N  Tut�ia",
+=======
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "RUA GUAJIRU S/N  Tutóia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8516-3524",
     "E-mail Comercial": "moizzalobato@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "KAYTON & KAYTON",
+<<<<<<< HEAD
     "Munic�pio": "Godofredo Viana",
     "Endere�o Completo Comercial": "avenida enseada s/n  Godofredo Viana",
+=======
+    "Município": "Godofredo Viana",
+    "Endereço Completo Comercial": "avenida enseada s/n  Godofredo Viana",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8458-4000",
     "E-mail Comercial": "sued_gda@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "sabor carioca",
+<<<<<<< HEAD
     "Munic�pio": "�gua Doce do Maranh�o",
     "Endere�o Completo Comercial": "Manoel Pereira sem numero �gua Doce do Maranh�o",
+=======
+    "Município": "Água Doce do Maranhão",
+    "Endereço Completo Comercial": "Manoel Pereira sem numero Água Doce do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(21)7076-0532",
     "E-mail Comercial": "lianaa897@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PORTO DO SABOR-CAFETERIA E RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Pindar� Mirim",
     "Endere�o Completo Comercial": "Rua Pedro Leal  Bairro Centro  35 Pindar� Mirim",
+=======
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Rua Pedro Leal  Bairro Centro  35 Pindaré Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8239-5979",
     "E-mail Comercial": "SILVAMOTA23@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE FOGAO CAIPIRA",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "Rua Jo�o Gomes bandeira  684 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "Rua João Gomes bandeira  684 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8179-1012",
     "E-mail Comercial": "ANDREMACEDO027@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CHURRASCARIA E RESTAURANTE BOM SABOR",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "Sem Logradouro  Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98707-7991",
     "E-mail Comercial": "santoamarojorge@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE O BAMBU",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Sem Logradouro  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Sem Logradouro  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9851-9493",
     "E-mail Comercial": "gilbertdemousseau@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "M&F RESTAURANTE E LANCHONETE",
+<<<<<<< HEAD
     "Munic�pio": "Ros�rio",
     "Endere�o Completo Comercial": "Avenida Vitorino Freire pr�ximo  a Farm�cia do Povo Ros�rio",
+=======
+    "Município": "Rosário",
+    "Endereço Completo Comercial": "Avenida Vitorino Freire próximo  a Farmácia do Povo Rosário",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3345-2907",
     "E-mail Comercial": "fracidalvasena@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIZZARIA DO ITALIANO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "av  brasilia 12 b Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "av  brasilia 12 b Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99206-0172",
     "E-mail Comercial": "avacadatia@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "COQUEIRO VERDE - FRUTOS DO MAR",
+<<<<<<< HEAD
     "Munic�pio": "Tut�ia",
     "Endere�o Completo Comercial": "RUA PRINCIPAL  BAIRRO S�O JOS� SN Tut�ia",
+=======
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "RUA PRINCIPAL  BAIRRO SÃO JOSÉ SN Tutóia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9618-1777",
     "E-mail Comercial": "ALDYVANSARAIVA01@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FREE LUCY FRIGORIFICO",
+<<<<<<< HEAD
     "Munic�pio": "Itinga do Maranh�o",
     "Endere�o Completo Comercial": "AVENIDA PRESIDENTE MEDICE pr�ximo ao monumento da on�a  Itinga do Maranh�o",
+=======
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "AVENIDA PRESIDENTE MEDICE próximo ao monumento da onça  Itinga do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99153-1200",
     "E-mail Comercial": "pontodapicanha.itinga@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CHURRASCARIA DO JULIM",
+<<<<<<< HEAD
     "Munic�pio": "Itinga do Maranh�o",
     "Endere�o Completo Comercial": "restaurante e churrascaria   Itinga do Maranh�o",
+=======
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "restaurante e churrascaria   Itinga do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99121-8549",
     "E-mail Comercial": "TATIANARODRIGUES066@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA RICO ATINS",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "ATINS ATINS Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "ATINS ATINS Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99240-4054",
     "E-mail Comercial": "SAMPAION634@GMAIL.COM",
     "Website": "www.ricoatins.com"
   },
   {
     "Nome Fantasia": "IVAN CONVENIENCIA",
+<<<<<<< HEAD
     "Munic�pio": "Apicum-A�u",
     "Endere�o Completo Comercial": "Av  c�ndido Reis  S/N� Apicum-A�u",
+=======
+    "Município": "Apicum-Açu",
+    "Endereço Completo Comercial": "Av  cândido Reis  S/Nº Apicum-Açu",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8512-0767",
     "E-mail Comercial": "IVANILSONO350@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PETISCO'S GRILL",
+<<<<<<< HEAD
     "Munic�pio": "A�ail�ndia",
     "Endere�o Completo Comercial": "Avenida Santa Luzia  1442 A�ail�ndia",
+=======
+    "Município": "Açailândia",
+    "Endereço Completo Comercial": "Avenida Santa Luzia  1442 Açailândia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9116-9360",
     "E-mail Comercial": "PICANHASGRILL.ACAI@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA E RESTAURANTE LAGUNA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Bento",
     "Endere�o Completo Comercial": "Rua Newton Bello  Bairro aeroporto 1166 S�o Bento",
+=======
+    "Município": "São Bento",
+    "Endereço Completo Comercial": "Rua Newton Bello  Bairro aeroporto 1166 São Bento",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3383-1512",
     "E-mail Comercial": "LUISMARTINSNETO.DIREITO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FERREIRO GRILL",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Independ�ncia  S�o Lu�s Ponta do Farol CEP: 65077180 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Independência  São Luís Ponta do Farol CEP: 65077180 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9971-9923",
     "E-mail Comercial": "VAPINTO@TERRA.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TASQUINHA FERREIRO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Gavi�es  S�o Lu�s Ponta do Farol CEP: 65077170 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Gaviões  São Luís Ponta do Farol CEP: 65077170 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3227-0112",
     "E-mail Comercial": "manoelpmoura12@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BARRACA BARRO VERMELHO",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Fazenda Bezour�o kn 03 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Fazenda Bezourão kn 03 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8828-9014",
     "E-mail Comercial": "sondinhoma@hotmail.com",
     "Website": "sondinhoma@hotmail.com"
   },
   {
     "Nome Fantasia": "RESTAURANTE SOL DE AMARO",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "Rua Oswaldo Cruz  09 - Centro  Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Oswaldo Cruz  09 - Centro  Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98823-3709",
     "E-mail Comercial": "soldeamaro298@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CASA DOM JOAQUIM",
+<<<<<<< HEAD
     "Munic�pio": "Bequim�o",
     "Endere�o Completo Comercial": "Pra�a Santo Antonio  s/n  Centro  Bequim�o",
+=======
+    "Município": "Bequimão",
+    "Endereço Completo Comercial": "Praça Santo Antonio  s/n  Centro  Bequimão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9902-3132",
     "E-mail Comercial": "vilma.rosane@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE E PIZZARIA TEMPERO NOVO",
+<<<<<<< HEAD
     "Munic�pio": "Centro Novo do Maranh�o",
     "Endere�o Completo Comercial": "AV  Juscelino Kubitschek 164 A Centro Novo do Maranh�o",
+=======
+    "Município": "Centro Novo do Maranhão",
+    "Endereço Completo Comercial": "AV  Juscelino Kubitschek 164 A Centro Novo do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)97000-7463",
     "E-mail Comercial": "ELAINE20091912@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR DO CIRENE",
+<<<<<<< HEAD
     "Munic�pio": "Tasso Fragoso",
     "Endere�o Completo Comercial": "Sol nascente  Tasso Fragoso",
+=======
+    "Município": "Tasso Fragoso",
+    "Endereço Completo Comercial": "Sol nascente  Tasso Fragoso",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8176-6410",
     "E-mail Comercial": "bardocirene@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SARAH PARK",
+<<<<<<< HEAD
     "Munic�pio": "Nina Rodrigues",
     "Endere�o Completo Comercial": "Av Central  s/n - Centro   Nina Rodrigues",
+=======
+    "Município": "Nina Rodrigues",
+    "Endereço Completo Comercial": "Av Central  s/n - Centro   Nina Rodrigues",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3082-5588",
     "E-mail Comercial": "MHACARVALHO@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PEPECA COM",
+<<<<<<< HEAD
     "Munic�pio": "Cantanhede",
     "Endere�o Completo Comercial": "Rua Nova 30 Cantanhede",
+=======
+    "Município": "Cantanhede",
+    "Endereço Completo Comercial": "Rua Nova 30 Cantanhede",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8848-8708",
     "E-mail Comercial": "turismo@cantanhede.ma.gov.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "NOSSO CANTO",
+<<<<<<< HEAD
     "Munic�pio": "Graja�",
     "Endere�o Completo Comercial": "BR 226  Av  Amaral Raposa  785  Graja�",
+=======
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "BR 226  Av  Amaral Raposa  785  Grajaú",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3532-7949",
     "E-mail Comercial": "elizabethborges4122@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ATINS CHARME CHALES",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA ALEGRIA  SN QUADRA 02  LOTE 22 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA ALEGRIA  SN QUADRA 02  LOTE 22 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)8254-3683",
     "E-mail Comercial": "BRUNO.ANTONI.PRADO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIZZARIA PARAISO",
+<<<<<<< HEAD
     "Munic�pio": "C�ndido Mendes",
     "Endere�o Completo Comercial": "Piracambu 32 C�ndido Mendes",
+=======
+    "Município": "Cândido Mendes",
+    "Endereço Completo Comercial": "Piracambu 32 Cândido Mendes",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8522-0725",
     "E-mail Comercial": "NIVEAM2308@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE E LANCHONETE BOM SABOR",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "BR 010  S/N  Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "BR 010  S/N  Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9184-2581",
     "E-mail Comercial": "CONTABILIDADECARVALHO1@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "EL PESCADOR",
+<<<<<<< HEAD
     "Munic�pio": "Porto Rico do Maranh�o",
     "Endere�o Completo Comercial": "Rua da paz  70 Porto Rico do Maranh�o",
+=======
+    "Município": "Porto Rico do Maranhão",
+    "Endereço Completo Comercial": "Rua da paz  70 Porto Rico do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8423-5177",
     "E-mail Comercial": "elpescadorrestaurante77@gmail.com",
     "Website": "-"
@@ -857,536 +1391,872 @@
   },
   {
     "Nome Fantasia": "NILDES LANCHONETE",
+<<<<<<< HEAD
     "Munic�pio": "Humberto de Campos",
     "Endere�o Completo Comercial": "Centro   Humberto de Campos",
+=======
+    "Município": "Humberto de Campos",
+    "Endereço Completo Comercial": "Centro   Humberto de Campos",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)9636-4290",
     "E-mail Comercial": "MANUELCUNHA_@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TERRA",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA PRINCIPAL  ATINS SN Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRINCIPAL  ATINS SN Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9200-0443",
     "E-mail Comercial": "TERRAPANE2021@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MAYNEY DELICIAS",
+<<<<<<< HEAD
     "Munic�pio": "Lu�s Domingues",
     "Endere�o Completo Comercial": "Rua Pedro Rodrigues sn Lu�s Domingues",
+=======
+    "Município": "Luís Domingues",
+    "Endereço Completo Comercial": "Rua Pedro Rodrigues sn Luís Domingues",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8457-9408",
     "E-mail Comercial": "FAELSODRE@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESPACO LAMPIAO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA NOVA  POVOADO DE ATINS S/N Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA NOVA  POVOADO DE ATINS S/N Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9178-0155",
     "E-mail Comercial": "BUNAEEVERTON@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "HOTEL IBIS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Avenida dos Holandeses 13 S�o Lu�s Jardim Renascen�a CEP: 65075650 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida dos Holandeses 13 São Luís Jardim Renascença CEP: 65075650 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3311-4060",
     "E-mail Comercial": "h7200-gl@accor.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESTACAO SANTANINHA",
+<<<<<<< HEAD
     "Munic�pio": "Matinha",
     "Endere�o Completo Comercial": "LAGO DO AQUIRI SANTANIHA  Matinha",
+=======
+    "Município": "Matinha",
+    "Endereço Completo Comercial": "LAGO DO AQUIRI SANTANIHA  Matinha",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98534-2266",
     "E-mail Comercial": "DPSMATINHA@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BULLDOG ARACAGY",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "EST DO ARACAGY n� 01 SALA 7-A LOTE LOT PARQUE ARACAGY QUADRA 02 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "EST DO ARACAGY nº 01 SALA 7-A LOTE LOT PARQUE ARACAGY QUADRA 02 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8486-5656",
     "E-mail Comercial": "NOBREGA.ALANA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Q LAR DOCE MAR",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA  PRINCIPAL S/N Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA  PRINCIPAL S/N Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9184-1647",
     "E-mail Comercial": "QDOCEMAR@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "M45 BREW PUB",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Quarenta 20 S�o Lu�s Ponta D Areia CEP: 65077380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Quarenta 20 São Luís Ponta D Areia CEP: 65077380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8119-1284",
     "E-mail Comercial": "oder.lima@yahoo.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR DO CHUCALHO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "PVOADO SERT�OZINHO SN Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "PVOADO SERTÃOZINHO SN Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8753-2021",
     "E-mail Comercial": "DORALICESOUSA50@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ACTINS Food & Drinks",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Atins 01 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Atins 01 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98723-2450",
     "E-mail Comercial": "ce.benedetti@gmail.com",
     "Website": "https://www.instagram.com/actinsmov/"
   },
   {
     "Nome Fantasia": "BONAPARTE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses (Loja Fast Food 11 - Golden Shopping Calhau) 200 S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses (Loja Fast Food 11 - Golden Shopping Calhau) 200 São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3212-4004",
     "E-mail Comercial": "nbr@nbrempreendimentos.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GRILETTO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Daniel de La Touche  S�o Lu�s Cohama CEP: 65074115 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8737-8017",
     "E-mail Comercial": "PRIVACIDADE@HALIPAR.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GRILETTO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a  S�o Lu�s Turu CEP: 65065470 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8737-8017",
     "E-mail Comercial": "PRIVACIDADE@HALIPAR.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CINEPOLIS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Professor Carlos Cunha 1 000 Loja 138 S�o Lu�s Jaracaty CEP: 65076820 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Professor Carlos Cunha 1 000 Loja 138 São Luís Jaracaty CEP: 65076820 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)2526-4900",
     "E-mail Comercial": "morais@cinepolis.com",
     "Website": "http://cinepolis.com"
   },
   {
     "Nome Fantasia": "E-FESTA",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Centro S/N Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centro S/N Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8845-8042",
     "E-mail Comercial": "FERNANDOARAUJOMNC@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DELICIAS DA JADY",
+<<<<<<< HEAD
     "Munic�pio": "Porto Rico do Maranh�o",
     "Endere�o Completo Comercial": "Rua da Paz 56 Porto Rico do Maranh�o",
+=======
+    "Município": "Porto Rico do Maranhão",
+    "Endereço Completo Comercial": "Rua da Paz 56 Porto Rico do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8504-3983",
     "E-mail Comercial": "JADNASMARTINS@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE CABANA VIP",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Litor�nea 10 S�o Lu�s S�o Francisco CEP: 65076170 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Litorânea 10 São Luís São Francisco CEP: 65076170 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3236-8165",
     "E-mail Comercial": "rochagustavo.araujo.adv@gmail.com",
     "Website": "https://www.cabanadosol.com.br/"
   },
   {
     "Nome Fantasia": "VALLENTE ALIMENTOS EIRELI",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses  S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)4009-2400",
     "E-mail Comercial": "DILMA_RO@YAHOO.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PONTO DO SABOR",
+<<<<<<< HEAD
     "Munic�pio": "Cachoeira Grande",
     "Endere�o Completo Comercial": "RUA CORONEL PINHO S/N Cachoeira Grande",
+=======
+    "Município": "Cachoeira Grande",
+    "Endereço Completo Comercial": "RUA CORONEL PINHO S/N Cachoeira Grande",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8769-6179",
     "E-mail Comercial": "airon_kenedy22@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL GOLDEN SHOPPING CALHAU",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses  S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)3524-4500",
     "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BULLDOG BURGUER",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "H-20  S�o Lu�s Parque Shalon CEP: 65073000 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "H-20  São Luís Parque Shalon CEP: 65073000 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3089-4854",
     "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DELICIAS D CHICAS",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA DO SOL 23 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA DO SOL 23 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9179-8371",
     "E-mail Comercial": "EDNASOUSA2413@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAIKAL RESTAURANTE CORPORATIVO",
+<<<<<<< HEAD
     "Munic�pio": "Santo Ant�nio dos Lopes",
     "Endere�o Completo Comercial": "ROD BR 135  KM 287 77 Santo Ant�nio dos Lopes",
+=======
+    "Município": "Santo Antônio dos Lopes",
+    "Endereço Completo Comercial": "ROD BR 135  KM 287 77 Santo Antônio dos Lopes",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98813-0006",
     "E-mail Comercial": "diretoria@p77.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BALSAS PREMIER HOTEL",
+<<<<<<< HEAD
     "Munic�pio": "Balsas",
     "Endere�o Completo Comercial": "AV GOVERNADOR LUIZ ROCHA 2500 Balsas",
+=======
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AV GOVERNADOR LUIZ ROCHA 2500 Balsas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3541-6989",
     "E-mail Comercial": "administrativo@balsaspremierhotel.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BULLDOG BURGUER",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Beta  S�o Lu�s Parque Athenas CEP: 65072120 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Beta  São Luís Parque Athenas CEP: 65072120 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "-",
     "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL SHOPPING DA ILHA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Avenida Daniel de La Touche 987 S�o Lu�s Cohama CEP: 65074115 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida Daniel de La Touche 987 São Luís Cohama CEP: 65074115 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)4199-5345",
     "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CHURRASCARIA RESIDENCIA TUTOIA",
+<<<<<<< HEAD
     "Munic�pio": "Tut�ia",
     "Endere�o Completo Comercial": "Rua S�o Jos� 139 Tut�ia",
+=======
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Rua São José 139 Tutóia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98557-7359",
     "E-mail Comercial": "CHURRASCARIARESIDENCIATUTOIA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "VARANDA BEER",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "Avenida Castelo Branco  2980 Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Avenida Castelo Branco  2980 Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8343-5560",
     "E-mail Comercial": "placar.exato@outlook.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR E CHURRASCO ALTAS HORAS",
+<<<<<<< HEAD
     "Munic�pio": "Santa Helena",
     "Endere�o Completo Comercial": "AV: DEPUTADO MANOEL PAIVA CASA Santa Helena",
+=======
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "AV: DEPUTADO MANOEL PAIVA CASA Santa Helena",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8267-9028",
     "E-mail Comercial": "edivancleyb@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "NONNO GIOTTO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Litor�nea  S�o Lu�s Calhau CEP: 65071377 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Litorânea  São Luís Calhau CEP: 65071377 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "-",
     "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GIO GASTROBAR",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses 145  Lj  06  GALERIA MONDRIAN S�o Lu�s Ponta do Farol CEP: 65077635 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 145  Lj  06  GALERIA MONDRIAN São Luís Ponta do Farol CEP: 65077635 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8305-2449",
     "E-mail Comercial": "procontasaoluis@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TOCAIA GRILLS",
+<<<<<<< HEAD
     "Munic�pio": "Barra do Corda",
     "Endere�o Completo Comercial": "Alta mira Avenida lulu Rodrigues  Barra do Corda",
+=======
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "Alta mira Avenida lulu Rodrigues  Barra do Corda",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98529-6688",
     "E-mail Comercial": "MARCIOBERMARDO348@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DO IRMAO",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "AV CAROLINA 51 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "AV CAROLINA 51 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99123-3211",
     "E-mail Comercial": "elvissousa85@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESPACO CAMAROTE",
+<<<<<<< HEAD
     "Munic�pio": "Lu�s Domingues",
     "Endere�o Completo Comercial": "Avenida Santos Dumont 4 Lu�s Domingues",
+=======
+    "Município": "Luís Domingues",
+    "Endereço Completo Comercial": "Avenida Santos Dumont 4 Luís Domingues",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8589-8850",
     "E-mail Comercial": "CLEYSONCIRINOCONTADOR@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PANIFICADORA LUIZA",
+<<<<<<< HEAD
     "Munic�pio": "Itapecuru Mirim",
     "Endere�o Completo Comercial": "AV Professor Ant�nio Ol�vio Rodrigues 490 Itapecuru Mirim",
+=======
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "AV Professor Antônio Olívio Rodrigues 490 Itapecuru Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8715-1027",
     "E-mail Comercial": "JAILSONCKFREITAS@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BISTRO E BOTECO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Av Daniel de La Touche 987  Sala Comercial F/G/H/I - Shopping da Ilha S�o Lu�s Maranh�o Novo CEP: 65061021 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Av Daniel de La Touche 987  Sala Comercial F/G/H/I - Shopping da Ilha São Luís Maranhão Novo CEP: 65061021 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3302-6518",
     "E-mail Comercial": "bb.bistrot.sl@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DO SANDRO",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Av  Dr  Paulo Ramos S/N Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Av  Dr  Paulo Ramos S/N Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8869-2910",
     "E-mail Comercial": "fernandaoliveira4012@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE MARIA PASSA A FRENTE",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "avenida Beira Mar  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "avenida Beira Mar  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3349-1547",
     "E-mail Comercial": "ATINS.CABANAMARIA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "JOSEILEN MACHADO CANTANHEDE",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Estrada de Sao Domingo s/n Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Estrada de Sao Domingo s/n Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8717-6164",
     "E-mail Comercial": "MACHADOJOSEILEN@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LA CASONA BAR RESTAURANTE & PETISCARIA",
+<<<<<<< HEAD
     "Munic�pio": "C�ndido Mendes",
     "Endere�o Completo Comercial": "pra�a senador C�ndido Mendes  rua Elias Tromps 10 C�ndido Mendes",
+=======
+    "Município": "Cândido Mendes",
+    "Endereço Completo Comercial": "praça senador Cândido Mendes  rua Elias Tromps 10 Cândido Mendes",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8549-5548",
     "E-mail Comercial": "LI.MA.JR@HOTMAIL.COM",
     "Website": "https://instagram.com/lacasonacandinho?utm_medium=copy_link"
   },
   {
     "Nome Fantasia": "TEJUPAR SABORES DA TERRA",
+<<<<<<< HEAD
     "Munic�pio": "Mirinzal",
     "Endere�o Completo Comercial": "Comunidade Estiva dos Mafras  Mirinzal",
+=======
+    "Município": "Mirinzal",
+    "Endereço Completo Comercial": "Comunidade Estiva dos Mafras  Mirinzal",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8481-6049",
     "E-mail Comercial": "LAUDILENE.BARBOSA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "COMERCIAL 13 DE JANEIRO",
+<<<<<<< HEAD
     "Munic�pio": "Godofredo Viana",
     "Endere�o Completo Comercial": "centro  Godofredo Viana",
+=======
+    "Município": "Godofredo Viana",
+    "Endereço Completo Comercial": "centro  Godofredo Viana",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8115-4519",
     "E-mail Comercial": "COMERCIAL.ARCIRINO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MINAS GRILL ASSADOS",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "Rua projetada  Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "Rua projetada  Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9108-8079",
     "E-mail Comercial": "turismo@estreito.ma.gov.br",
     "Website": "-"
   },
   {
+<<<<<<< HEAD
     "Nome Fantasia": "Ca�ula Pizzas",
     "Munic�pio": "Viana",
     "Endere�o Completo Comercial": "Rua Dom Ant�nio Lopes dos Santos 326 Viana",
+=======
+    "Nome Fantasia": "Caçula Pizzas",
+    "Município": "Viana",
+    "Endereço Completo Comercial": "Rua Dom Antônio Lopes dos Santos 326 Viana",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3351-1795",
     "E-mail Comercial": "elinesantos01@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MEGA DELICIA",
+<<<<<<< HEAD
     "Munic�pio": "Governador Edison Lob�o",
     "Endere�o Completo Comercial": "rua santa rita   Governador Edison Lob�o",
+=======
+    "Município": "Governador Edison Lobão",
+    "Endereço Completo Comercial": "rua santa rita   Governador Edison Lobão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8824-1425",
     "E-mail Comercial": "MINEIRA-LIMA@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR TO NA CAIXA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "RUA 13 DE MAIO S/N Cururupu",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "RUA 13 DE MAIO S/N Cururupu",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98838-0393",
     "E-mail Comercial": "MULTISEGUR@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ISRAEL DE DEUS RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Governador Edison Lob�o",
     "Endere�o Completo Comercial": "AV  BERNADO SAY�O  876 Governador Edison Lob�o",
+=======
+    "Município": "Governador Edison Lobão",
+    "Endereço Completo Comercial": "AV  BERNADO SAYÃO  876 Governador Edison Lobão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98838-7637",
     "E-mail Comercial": "angelapaulamiranda@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE E LANCHONETE CASA VERDE",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "BR 010  Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "BR 010  Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8277-0887",
     "E-mail Comercial": "contabilidadacarvalho1@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CONVENIENCIA MINAS GERAIS",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "BR 010 S/N Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "BR 010 S/N Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9153-6900",
     "E-mail Comercial": "cinaramatos@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DA BAIXINHA",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "AVENIDA CENTRAL  1019 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "AVENIDA CENTRAL  1019 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9161-1388",
     "E-mail Comercial": "LAURINDOFREITAS2@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ELIS CAPOTE",
+<<<<<<< HEAD
     "Munic�pio": "Raposa",
     "Endere�o Completo Comercial": "RUA DO COQUEIRO 01 - GARRANCHO Raposa",
+=======
+    "Município": "Raposa",
+    "Endereço Completo Comercial": "RUA DO COQUEIRO 01 - GARRANCHO Raposa",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8197-6982",
     "E-mail Comercial": "ELISCAPOTE1@ICLOUD.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Restaurante Natalio",
+<<<<<<< HEAD
     "Munic�pio": "C�ndido Mendes",
     "Endere�o Completo Comercial": "rua maranh�o novo s/n C�ndido Mendes",
+=======
+    "Município": "Cândido Mendes",
+    "Endereço Completo Comercial": "rua maranhão novo s/n Cândido Mendes",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98418-0454",
     "E-mail Comercial": "valdeaneribeirosodredossantos@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DO NEILSON",
+<<<<<<< HEAD
     "Munic�pio": "Mirinzal",
     "Endere�o Completo Comercial": "Rua Nicolau Toletino de Almeida Proximo a Camara Municipal Mirinzal",
+=======
+    "Município": "Mirinzal",
+    "Endereço Completo Comercial": "Rua Nicolau Toletino de Almeida Proximo a Camara Municipal Mirinzal",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)7005-6424",
     "E-mail Comercial": "NEILSONFERNANDES1979@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "HOSPEDARIA E CAMPING PINGO DE OURO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Atins Santo In�cio  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Atins Santo Inácio  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9110-8614",
     "E-mail Comercial": "KELIANEFERNANDESPEREIRA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CHURRASQUINHO DA ILCA",
+<<<<<<< HEAD
     "Munic�pio": "Nina Rodrigues",
     "Endere�o Completo Comercial": "av arco iris  Nina Rodrigues",
+=======
+    "Município": "Nina Rodrigues",
+    "Endereço Completo Comercial": "av arco iris  Nina Rodrigues",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9161-0115",
     "E-mail Comercial": "ILCA1978REGINA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "XIRU RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "BR 010  Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "BR 010  Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9184-6980",
     "E-mail Comercial": "FINANCEIRO@XIRUAR.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "HOTEL E CHURRASCARIA ESTRELA",
+<<<<<<< HEAD
     "Munic�pio": "Itapecuru Mirim",
     "Endere�o Completo Comercial": "Rua Professor Ant�nio Ol�vio Rodrigues s/n centro Itapecuru Mirim",
+=======
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "Rua Professor Antônio Olívio Rodrigues s/n centro Itapecuru Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9196-3673",
     "E-mail Comercial": "assencaopessoa2009@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CAFE NO PONTO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA PRA�A DO TRABALHADOR 47 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA PRAÇA DO TRABALHADOR 47 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8883-5780",
     "E-mail Comercial": "DIEGOCHAVS@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL KSK BURGER KING SHOPPING DA ILHA II",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Daniel de La Touche  S�o Lu�s Cohama CEP: 65074115 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)2397-0320",
     "E-mail Comercial": "juridico@zamp.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PASTELARIA NORDESTINA",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Centro Av  Rio Novo  08 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centro Av  Rio Novo  08 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(88)9610-7879",
     "E-mail Comercial": "MLNORONHA79@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESPETO MIX",
+<<<<<<< HEAD
     "Munic�pio": "Porto Franco",
     "Endere�o Completo Comercial": "Trav  Tocantins   Porto Franco",
+=======
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "Trav  Tocantins   Porto Franco",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8407-5717",
     "E-mail Comercial": "ISENNY-CHAVES@LIVE.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Ponto do Churrasco",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Av Dr Paulo Ramos 55 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Av Dr Paulo Ramos 55 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8607-9818",
     "E-mail Comercial": "CDELXAVIERCOSTA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIZZARIA E LANCHONETE FINO SABOR",
+<<<<<<< HEAD
     "Munic�pio": "Porto Franco",
     "Endere�o Completo Comercial": "Av  Valentim Aguiar  147 Porto Franco",
+=======
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "Av  Valentim Aguiar  147 Porto Franco",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8130-4743",
     "E-mail Comercial": "jc.cultura@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LANCHE CENTRAL",
+<<<<<<< HEAD
     "Munic�pio": "Carolina",
     "Endere�o Completo Comercial": "Pra�a Al�pio de Carvalho  56 A Carolina",
+=======
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Praça Alípio de Carvalho  56 A Carolina",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8143-7054",
     "E-mail Comercial": "LANCHECENTRALDESDE1968@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GALETERIA BISTRO E BEBIDAS DA FRANCA",
+<<<<<<< HEAD
     "Munic�pio": "Cachoeira Grande",
     "Endere�o Completo Comercial": "Rua Bela Vista  s/n - Centro s/n Cachoeira Grande",
+=======
+    "Município": "Cachoeira Grande",
+    "Endereço Completo Comercial": "Rua Bela Vista  s/n - Centro s/n Cachoeira Grande",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9908-4653",
     "E-mail Comercial": "RFILHOASSESSORIACONTABIL@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FAROESTE PUB",
+<<<<<<< HEAD
     "Munic�pio": "Morros",
     "Endere�o Completo Comercial": "AVENIDA JOS� LOPES DE SOUSA- CENTRO 28 Morros",
+=======
+    "Município": "Morros",
+    "Endereço Completo Comercial": "AVENIDA JOSÉ LOPES DE SOUSA- CENTRO 28 Morros",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9963-5944",
     "E-mail Comercial": "FINANCEIRO@METTOS.COM.BR",
     "Website": "-"
@@ -1401,128 +2271,208 @@
   },
   {
     "Nome Fantasia": "RECANTO DO CHEF",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "POVOADO COQUEIRO  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "POVOADO COQUEIRO  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8704-3085",
     "E-mail Comercial": "FRANCISCOCRA1974@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SAL E BRASA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "av dos Holandeses 14 S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "av dos Holandeses 14 São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3248-1817",
     "E-mail Comercial": "financeiro.saoluis@salebrasa.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LE PETITE",
+<<<<<<< HEAD
     "Munic�pio": "Pindar� Mirim",
     "Endere�o Completo Comercial": "Rua S�o Pedro  013 Pindar� Mirim",
+=======
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Rua São Pedro  013 Pindaré Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8831-8310",
     "E-mail Comercial": "ERLANEVIDA.SILVA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PIER 77",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "do Itaqui 100 S�o Lu�s Itaqui CEP: 65085370 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "do Itaqui 100 São Luís Itaqui CEP: 65085370 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98885-5575",
     "E-mail Comercial": "ARTHUR@P77.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR DA MAE",
+<<<<<<< HEAD
     "Munic�pio": "Serrano do Maranh�o",
     "Endere�o Completo Comercial": "AV  Laranjeiras  S/N� Serrano do Maranh�o",
+=======
+    "Município": "Serrano do Maranhão",
+    "Endereço Completo Comercial": "AV  Laranjeiras  S/Nº Serrano do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8501-8194",
     "E-mail Comercial": "LUCENILSONABREUPEREIRA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE VIVA BOI DE AXIXA",
+<<<<<<< HEAD
     "Munic�pio": "Axix�",
     "Endere�o Completo Comercial": "PARQUE S�O JO�O- RIACH�O  S/N  Axix�",
+=======
+    "Município": "Axixá",
+    "Endereço Completo Comercial": "PARQUE SÃO JOÃO- RIACHÃO  S/N  Axixá",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99618-2681",
     "E-mail Comercial": "leilaxixacultur@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DUNAS BISTRO",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "Rua das Palmeiras 44 Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua das Palmeiras 44 Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8771-8842",
     "E-mail Comercial": "KARINAITANI@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "EGUAS SUSHI DELIVERY",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Boa Esperan�a  S�o Lu�s Turu CEP: 65066190 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Boa Esperança  São Luís Turu CEP: 65066190 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8533-1518",
     "E-mail Comercial": "EGUASSUSHI@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "OITO RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "avenida avicenia 1 S�o Lu�s Jardim Renascen�a CEP: 65075441 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "avenida avicenia 1 São Luís Jardim Renascença CEP: 65075441 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8783-5562",
     "E-mail Comercial": "jaciratriunfo@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CASA DE JUJA ATINS",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA DA ESPERAN�A 3  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA DA ESPERANÇA 3  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98801-8924",
     "E-mail Comercial": "CASADEJUJA@GMAIL.COM",
     "Website": "https://www.instagram.com/casadejujaatins/"
   },
   {
     "Nome Fantasia": "HOTEL E RESTAURANTE BOM GOSTO",
+<<<<<<< HEAD
     "Munic�pio": "Lagoa Grande do Maranh�o",
     "Endere�o Completo Comercial": "RUA GRANDE S/N Lagoa Grande do Maranh�o",
+=======
+    "Município": "Lagoa Grande do Maranhão",
+    "Endereço Completo Comercial": "RUA GRANDE S/N Lagoa Grande do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8813-6745",
     "E-mail Comercial": "RIKARTCAVALCANTI@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESEGEVI - EMPRESA DE SERVICOS GERAIS DE VIANA",
+<<<<<<< HEAD
     "Munic�pio": "Viana",
     "Endere�o Completo Comercial": "RUA CELSO MAGALH�ES N� 569 HOTEL DOM�CIO Viana",
+=======
+    "Município": "Viana",
+    "Endereço Completo Comercial": "RUA CELSO MAGALHÃES Nº 569 HOTEL DOMÍCIO Viana",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3351-0611",
     "E-mail Comercial": "matos.luciana2016@bol.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MANGUE",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA CONRADO ATAIDE  SN  BAIRRO CENTRO  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA CONRADO ATAIDE  SN  BAIRRO CENTRO  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9219-1720",
     "E-mail Comercial": "sia-ra@live.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TOP LANCHES",
+<<<<<<< HEAD
     "Munic�pio": "Apicum-A�u",
     "Endere�o Completo Comercial": "avenida trancredo neves  Bairro centro  01 Apicum-A�u",
+=======
+    "Município": "Apicum-Açu",
+    "Endereço Completo Comercial": "avenida trancredo neves  Bairro centro  01 Apicum-Açu",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8442-0274",
     "E-mail Comercial": "NILSON_LOPPES@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PEIXARIA DO ALDIR",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "Avenida Maranh�o  960 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "Avenida Maranhão  960 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9121-1910",
     "E-mail Comercial": "ALDIVIMOLIVEIRA.19@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR E RESTAURANTE DOIS IRMAOS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "avenida beira mar 70 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "avenida beira mar 70 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98256-6264",
     "E-mail Comercial": "barerestaurante.2012@gmail.com",
     "Website": "-"
@@ -1537,336 +2487,546 @@
   },
   {
     "Nome Fantasia": "AUTO POSTO CONFIANCA",
+<<<<<<< HEAD
     "Munic�pio": "Formosa da Serra Negra",
     "Endere�o Completo Comercial": "AV EDSON LOBAO  04 Formosa da Serra Negra",
+=======
+    "Município": "Formosa da Serra Negra",
+    "Endereço Completo Comercial": "AV EDSON LOBAO  04 Formosa da Serra Negra",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8400-2065",
     "E-mail Comercial": "confianca.combustivel17@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "COLONIAL BUFFET",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "da Manga  S�o Lu�s Centro CEP: 65015260 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Manga  São Luís Centro CEP: 65015260 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99109-7001",
     "E-mail Comercial": "ericafaray@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL SHOPPING DA ILHA QUIOSQUE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Daniel de La Touche  S�o Lu�s Cohama CEP: 65074115 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)4199-5345",
     "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MANU RSTAURANTE E BUFFET",
+<<<<<<< HEAD
     "Munic�pio": "Imperatriz",
     "Endere�o Completo Comercial": "Bernardo Say�o  Imperatriz Nova Imperatriz CEP: 65907000 MA",
+=======
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Bernardo Sayão  Imperatriz Nova Imperatriz CEP: 65907000 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9117-3592",
     "E-mail Comercial": "alessandrominda@yahoo.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL SHOPPING RIO ANIL QUIOSQUE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a  S�o Lu�s Turu CEP: 65065470 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)4199-5345",
     "E-mail Comercial": "juridico@zamp.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ESCOLA DE GASTRONOMIA JL",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Um  S�o Lu�s Recanto do Turu CEP: 65068866 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Um  São Luís Recanto do Turu CEP: 65068866 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8707-4420",
     "E-mail Comercial": "JUNIORLISBOA_@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "COZINHA BRASILEIRA",
+<<<<<<< HEAD
     "Munic�pio": "Porto Franco",
     "Endere�o Completo Comercial": "Av  Valentim Aguiar  148 Porto Franco",
+=======
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "Av  Valentim Aguiar  148 Porto Franco",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8115-5728",
     "E-mail Comercial": "SILVA-ANA5@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TERRA DAS PALMEIRAS EMPREENDIMENTO TURISTICO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Rua Cincinato Ribeiro R�go 150 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Cincinato Ribeiro Rêgo 150 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8175-5283",
     "E-mail Comercial": "RESTAURANTETERRADASPALMEIRAS@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CHURRASCARIA NACIONAL",
+<<<<<<< HEAD
     "Munic�pio": "Graja�",
     "Endere�o Completo Comercial": "BR226 KM 210  BAIRRO EXPOAGRA  Graja�",
+=======
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "BR226 KM 210  BAIRRO EXPOAGRA  Grajaú",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3532-8217",
     "E-mail Comercial": "danielnetoadv@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA IRMAO ATINS",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "atins  Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "atins  Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98195-5314",
     "E-mail Comercial": "pousadairmaoatins@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE TAPERA POPULAR",
+<<<<<<< HEAD
     "Munic�pio": "Itinga do Maranh�o",
     "Endere�o Completo Comercial": "Restaurante  Cafeteria  Bar e Similares rua da assembl�ia  centro  Itinga do Maranh�o",
+=======
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "Restaurante  Cafeteria  Bar e Similares rua da assembléia  centro  Itinga do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99206-6801",
     "E-mail Comercial": "FRANKLINJUNIOR6188@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MARE DE POROROCA TURISMO E EVENTOS",
+<<<<<<< HEAD
     "Munic�pio": "Arari",
     "Endere�o Completo Comercial": "rua Pedro Leandro Fernandes bairro Cruzeiro Arari",
+=======
+    "Município": "Arari",
+    "Endereço Completo Comercial": "rua Pedro Leandro Fernandes bairro Cruzeiro Arari",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98402-4211",
     "E-mail Comercial": "tacitalima79@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FAVEIRA BAR E RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "RUA GUILHERME DO BRASIL 6 Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "RUA GUILHERME DO BRASIL 6 Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99237-6392",
     "E-mail Comercial": "AGAMENONACJR@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA SAO JOSE",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "rua das flores 04 Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "rua das flores 04 Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98459-4409",
     "E-mail Comercial": "camilakerlyfontinele@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PREMIUM CARNES & BEBIDAS",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "rua 11 01 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "rua 11 01 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9177-7320",
     "E-mail Comercial": "EXATAESTREITO@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SUSHI BAR",
+<<<<<<< HEAD
     "Munic�pio": "Barra do Corda",
     "Endere�o Completo Comercial": "Avenida Reginaldo Gomes de Sousa  Barra do Corda",
+=======
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "Avenida Reginaldo Gomes de Sousa  Barra do Corda",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(86)9812-8222",
     "E-mail Comercial": "gilmaraferreira74.gf@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "L C SERVICOS E EMPREENDIMENTOS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "das Samambaias  S�o Lu�s Jardim Renascen�a CEP: 65075640 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "das Samambaias  São Luís Jardim Renascença CEP: 65075640 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8194-6165",
     "E-mail Comercial": "NIKSIMOES@YAHOO.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Spetus resto-bar",
+<<<<<<< HEAD
     "Munic�pio": "Igarap� Grande",
     "Endere�o Completo Comercial": "Av  Jo�o carvalho   S/N - CENTRO Igarap� Grande",
+=======
+    "Município": "Igarapé Grande",
+    "Endereço Completo Comercial": "Av  João carvalho   S/N - CENTRO Igarapé Grande",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8112-6196",
     "E-mail Comercial": "SGSSAMPAIO@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "QUITANDA EXPRESSO",
+<<<<<<< HEAD
     "Munic�pio": "Lago da Pedra",
     "Endere�o Completo Comercial": "Centro Em frente o Hospital Professor Serra de Castro Lago da Pedra",
+=======
+    "Município": "Lago da Pedra",
+    "Endereço Completo Comercial": "Centro Em frente o Hospital Professor Serra de Castro Lago da Pedra",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8418-5327",
     "E-mail Comercial": "HERISTON-@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "COCO BAMBU",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Coronel Colares Moreira 1 S�o Lu�s Calhau CEP: 65071322 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Coronel Colares Moreira 1 São Luís Calhau CEP: 65071322 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3268-7400",
     "E-mail Comercial": "gregmoura@gmail.com",
     "Website": "www.cocobambu.com.br"
   },
   {
     "Nome Fantasia": "HOT ROLL SUSHI E DRINKS",
+<<<<<<< HEAD
     "Munic�pio": "Mirinzal",
     "Endere�o Completo Comercial": "AVENIDA MARIA FIRMINA 00 Mirinzal",
+=======
+    "Município": "Mirinzal",
+    "Endereço Completo Comercial": "AVENIDA MARIA FIRMINA 00 Mirinzal",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8422-8885",
     "E-mail Comercial": "ITANIELOWEN19@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TELEPIZZARRG",
+<<<<<<< HEAD
     "Munic�pio": "Cachoeira Grande",
     "Endere�o Completo Comercial": "RUA DO COM�RCIO S/N Cachoeira Grande",
+=======
+    "Município": "Cachoeira Grande",
+    "Endereço Completo Comercial": "RUA DO COMÉRCIO S/N Cachoeira Grande",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98713-5217",
     "E-mail Comercial": "GEILSONSAX7@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE ESPETINHO DO ZAP",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Av Dr  Paulo Ramos  184 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Av Dr  Paulo Ramos  184 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98518-0553",
     "E-mail Comercial": "antoniovitalino19@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "REI DO GELO",
+<<<<<<< HEAD
     "Munic�pio": "Balsas",
     "Endere�o Completo Comercial": "AV GOVERNADOR LUIZ ROCHA   CENTRO 128 Balsas",
+=======
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AV GOVERNADOR LUIZ ROCHA   CENTRO 128 Balsas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3541-3685",
     "E-mail Comercial": "CONTABIL@ADICAOCONTABILIDADE.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BULLDOG BURGUER",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "V  S�o Lu�s Planalto Anil III CEP: 65050875 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "V  São Luís Planalto Anil III CEP: 65050875 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3089-4854",
     "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "AMO VINHO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "da Paz 16 S�o Lu�s Parque Shalon CEP: 65072570 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Paz 16 São Luís Parque Shalon CEP: 65072570 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3232-5533",
     "E-mail Comercial": "celia@orgamar.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ENCONTRO DOS AMIGOS",
+<<<<<<< HEAD
     "Munic�pio": "Santa Helena",
     "Endere�o Completo Comercial": "PCA Avenida Beira Rio SN Santa Helena",
+=======
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "PCA Avenida Beira Rio SN Santa Helena",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8471-7810",
     "E-mail Comercial": "SOUSADIANA239@GMAIL.COM",
     "Website": "SOUSADIANA239@GMAIL.COM"
   },
   {
     "Nome Fantasia": "RESTAURANTE GALETTI",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "Rua Mariano Chagas  190  Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Rua Mariano Chagas  190  Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98825-5785",
     "E-mail Comercial": "jeffersonfernando80@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PONTO DA ILHA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "AV ATLANTICA QDA 29 LOTE 01 LOJA 04 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "AV ATLANTICA QDA 29 LOTE 01 LOJA 04 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99134-8307",
     "E-mail Comercial": "pontodailha@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LAGOA DO VENTO",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "RUA NOVA 01 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "RUA NOVA 01 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)98524-0550",
     "E-mail Comercial": "lagoadovento@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL SAO LUIS SHOPPING",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Avenida Professor Carlos Cunha 1000 S�o Lu�s Shopping Center S�o Lu�s Jaracaty CEP: 65076907 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida Professor Carlos Cunha 1000 São Luís Shopping Center São Luís Jaracaty CEP: 65076907 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)3524-4500",
     "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DOLCCE GRILL CONFEITARIA E RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Coronel Colares Moreira  S�o Lu�s Jardim Renascen�a CEP: 65075441 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3235-1896",
     "E-mail Comercial": "goiacibisinotto16@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DELTAEXPRESSO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Libaneses 3503  Setor Sagu�o Desemb  Tps1  Loja 08  S�o Lu�s Tirirical CEP: 65056480 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Libaneses 3503  Setor Saguão Desemb  Tps1  Loja 08  São Luís Tirirical CEP: 65056480 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(81)2127-4750",
     "E-mail Comercial": "LEGALIZACAO@MDCONTADORES.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PATIO NORTE MARANHAO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "Estr  De Ribamar Ma-201 1000 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Estr  De Ribamar Ma-201 1000 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)4199-5345",
     "E-mail Comercial": "juridico@zamp.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PRIME SERVICOS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Jos� Bonif�cio  S�o Lu�s Cohama CEP: 65074140 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "José Bonifácio  São Luís Cohama CEP: 65074140 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3199-1530",
     "E-mail Comercial": "primeeduc@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR DA FIRMA",
+<<<<<<< HEAD
     "Munic�pio": "Imperatriz",
     "Endere�o Completo Comercial": "Bernardo Say�o  Imperatriz Nova Imperatriz CEP: 65907000 MA",
+=======
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Bernardo Sayão  Imperatriz Nova Imperatriz CEP: 65907000 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8816-1237",
     "E-mail Comercial": "ALESSANDRO@MANURESTAURANTE.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BAR E RESTAURANTE VARANDA F E M",
+<<<<<<< HEAD
     "Munic�pio": "Cedral",
     "Endere�o Completo Comercial": "Rua Viva Deus s/n� Outeiro Cedral",
+=======
+    "Município": "Cedral",
+    "Endereço Completo Comercial": "Rua Viva Deus s/nº Outeiro Cedral",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98483-0469",
     "E-mail Comercial": "FRANCIMAURO035@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "EMPORIUM 357",
+<<<<<<< HEAD
     "Munic�pio": "Porto Franco",
     "Endere�o Completo Comercial": "benedito leite 100 Porto Franco",
+=======
+    "Município": "Porto Franco",
+    "Endereço Completo Comercial": "benedito leite 100 Porto Franco",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8144-6220",
     "E-mail Comercial": "EXATOSCONSULTORIA@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DELICIAS DO MAR",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "Centro 101 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Centro 101 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8876-4173",
     "E-mail Comercial": "JOSIVANSC@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LANCHONETE BATE PAPO",
+<<<<<<< HEAD
     "Munic�pio": "Barra do Corda",
     "Endere�o Completo Comercial": "Rua Rio Tefe 897 Barra do Corda",
+=======
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "Rua Rio Tefe 897 Barra do Corda",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8166-8555",
     "E-mail Comercial": "barroseleneide2@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ARENA JESUS",
+<<<<<<< HEAD
     "Munic�pio": "Itapecuru Mirim",
     "Endere�o Completo Comercial": "BR 222 - BAIRRO TRIZIDELA S/N Itapecuru Mirim",
+=======
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "BR 222 - BAIRRO TRIZIDELA S/N Itapecuru Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3463-1734",
     "E-mail Comercial": "POSTOJESUSLTDA@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ACONCHEGO DO MUNIM",
+<<<<<<< HEAD
     "Munic�pio": "Presidente Juscelino",
     "Endere�o Completo Comercial": "r povoado taboca s/n Presidente Juscelino",
+=======
+    "Município": "Presidente Juscelino",
+    "Endereço Completo Comercial": "r povoado taboca s/n Presidente Juscelino",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8850-6953",
     "E-mail Comercial": "ACONCHEGODOMUNIM@GMAIL.COM",
     "Website": "-"
@@ -1881,496 +3041,807 @@
   },
   {
     "Nome Fantasia": "BAR ENCONTRO DOS AMIGOS",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "RUA NOVA BRASIL  Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA NOVA BRASIL  Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8438-2069",
     "E-mail Comercial": "WARLISONLISBOA26@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "O FUMACA",
+<<<<<<< HEAD
     "Munic�pio": "Imperatriz",
     "Endere�o Completo Comercial": "Quinze de Novembro  Imperatriz Centro CEP: 65900001 MA",
+=======
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Quinze de Novembro  Imperatriz Centro CEP: 65900001 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9203-3911",
     "E-mail Comercial": "JOSENILDO.RESI@OFUMACA.COM.BR",
     "Website": "www.ofumaca.com.br"
   },
   {
     "Nome Fantasia": "MARISCOS BEACH RESTAURANTE DRINKS",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "PRAIA DO BARRO VERMELHO 03 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "PRAIA DO BARRO VERMELHO 03 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8495-2114",
     "E-mail Comercial": "MARISCOBEACH@GMAIL.COM",
     "Website": "anac.e74cauveiculos@gmail.com"
   },
   {
     "Nome Fantasia": "ESCRITORIO BAR",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "RUA PROJETADA 220 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "RUA PROJETADA 220 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9137-9207",
     "E-mail Comercial": "JUNIVALDOSANTANA@BOL.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ARENA 77",
+<<<<<<< HEAD
     "Munic�pio": "Morros",
     "Endere�o Completo Comercial": "Rua Rio branco  centro  S/N� Morros",
+=======
+    "Município": "Morros",
+    "Endereço Completo Comercial": "Rua Rio branco  centro  S/Nº Morros",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3245-6261",
     "E-mail Comercial": "RAISSAMARTINS0101@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "NIGTH & DAY",
+<<<<<<< HEAD
     "Munic�pio": "S�o Mateus do Maranh�o",
     "Endere�o Completo Comercial": "Rua 05 de Julho Alto da Vit�ria 01 S�o Mateus do Maranh�o",
+=======
+    "Município": "São Mateus do Maranhão",
+    "Endereço Completo Comercial": "Rua 05 de Julho Alto da Vitória 01 São Mateus do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9811-4212",
     "E-mail Comercial": "maeilenepaiva@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Restaurante Pininga ltda",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "R principal  49 Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "R principal  49 Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9182-0471",
     "E-mail Comercial": "RESTAURANTEPININGA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "APERI-CEIA",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "Rua Principal - Centro comercial Buna A/N Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Rua Principal - Centro comercial Buna A/N Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98451-7460",
     "E-mail Comercial": "betobra@msn.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "Restaurante Ivado",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Centro 32 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centro 32 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98445-5154",
     "E-mail Comercial": "Itazeclea1967@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PASTELAO DELIVERY",
+<<<<<<< HEAD
     "Munic�pio": "Pindar� Mirim",
     "Endere�o Completo Comercial": "Centro S/N Pindar� Mirim",
+=======
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Centro S/N Pindaré Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8522-5338",
     "E-mail Comercial": "TIAGESSYCA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE TEMPERO DA SOCORRO",
+<<<<<<< HEAD
     "Munic�pio": "Central do Maranh�o",
     "Endere�o Completo Comercial": "RUA SIN�SIO MONDEGO  Central do Maranh�o",
+=======
+    "Município": "Central do Maranhão",
+    "Endereço Completo Comercial": "RUA SINÉSIO MONDEGO  Central do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8217-2415",
     "E-mail Comercial": "PATRICIOPEREIRA1971@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "POUSADA BEIRA RIO",
+<<<<<<< HEAD
     "Munic�pio": "Mirinzal",
     "Endere�o Completo Comercial": "avenida Lauro Sodr� pr�ximo ao terminal Rodoviario Mirinzal",
+=======
+    "Município": "Mirinzal",
+    "Endereço Completo Comercial": "avenida Lauro Sodré próximo ao terminal Rodoviario Mirinzal",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3399-1201",
     "E-mail Comercial": "wermisom@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BOTEQUIM SAO LUIS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Ivan Loureiro  S�o Lu�s Ponta D Areia CEP: 65077558 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Ivan Loureiro  São Luís Ponta D Areia CEP: 65077558 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3227-0112",
     "E-mail Comercial": "Clarissaazevedoo@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MARMININO BAR E RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Pindar� Mirim",
     "Endere�o Completo Comercial": "Bar marminino  Rua S�o Pedro  Pindar� Mirim",
+=======
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Bar marminino  Rua São Pedro  Pindaré Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9157-6939",
     "E-mail Comercial": "CAHTCS1@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CROASONHO - SHOPPING DA ILHA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Daniel de La Touche  S�o Lu�s Cohama CEP: 65074115 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9630-2722",
     "E-mail Comercial": "PRIVACIDADE@HALIPAR.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL SHOPPING SAO LUIS KSK",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Avenida Professor Carlos Cunha 1000 S�o Lu�s Shopping Center S�o Lu�s Jaracaty CEP: 65076907 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Avenida Professor Carlos Cunha 1000 São Luís Shopping Center São Luís Jaracaty CEP: 65076907 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)4199-5345",
     "E-mail Comercial": "JURIDICO@ZAMP.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BULLDOG BURGUER",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "General Artur Carvalho  S�o Lu�s Turu CEP: 65066320 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "General Artur Carvalho  São Luís Turu CEP: 65066320 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "-",
     "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "REST GRAN CRU",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses 1 loja 08 S�o Lu�s Ponta D Areia CEP: 65077357 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 1 loja 08 São Luís Ponta D Areia CEP: 65077357 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8810-2907",
     "E-mail Comercial": "GABRIELLEOLIVEIRASOBRAL@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "KABANA LOUNGE BEER",
+<<<<<<< HEAD
     "Munic�pio": "Riach�o",
     "Endere�o Completo Comercial": "Rua Alfredo de Assis S/N Riach�o",
+=======
+    "Município": "Riachão",
+    "Endereço Completo Comercial": "Rua Alfredo de Assis S/N Riachão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8482-0234",
     "E-mail Comercial": "TATYANA-F@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "KINOPLEX GOLDEN",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses  S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(21)3974-1077",
     "E-mail Comercial": "JURIDICO@KINOPLEX.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SKINA DO CHOPP",
+<<<<<<< HEAD
     "Munic�pio": "Balsas",
     "Endere�o Completo Comercial": "AVENIDA JOSE BERNARDINO  14 Balsas",
+=======
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "AVENIDA JOSE BERNARDINO  14 Balsas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8810-1377",
     "E-mail Comercial": "DATA.BALSAS@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "JHONNY BAR  RESTAURANTE E PIZZARIA",
+<<<<<<< HEAD
     "Munic�pio": "Tut�ia",
     "Endere�o Completo Comercial": "Pra�a Get�lio Vargas  144 Tut�ia",
+=======
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Praça Getúlio Vargas  144 Tutóia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8135-1474",
     "E-mail Comercial": "CRUZPETROLINO@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ATINS SUSTENTAVEL PARTICIPACOES LTDA",
+<<<<<<< HEAD
     "Munic�pio": "Barreirinhas",
     "Endere�o Completo Comercial": "R BEIRA MAR SN Barreirinhas",
+=======
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "R BEIRA MAR SN Barreirinhas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)7572-9898",
     "E-mail Comercial": "RESERVAS@VILAGUARA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "IMPERIO DOS SALGADOS",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Rua Demetrio Ribeiro S/N Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Rua Demetrio Ribeiro S/N Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(83)9961-5110",
     "E-mail Comercial": "WALLYSON_CONTABILIDADE@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "V G RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Santo Ant�nio dos Lopes",
     "Endere�o Completo Comercial": "EST DE ACESSO A BR 135 KM 277 Santo Ant�nio dos Lopes",
+=======
+    "Município": "Santo Antônio dos Lopes",
+    "Endereço Completo Comercial": "EST DE ACESSO A BR 135 KM 277 Santo Antônio dos Lopes",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98813-0006",
     "E-mail Comercial": "diretoria@p77.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SKINA DO CHOPP BEIRA RIO",
+<<<<<<< HEAD
     "Munic�pio": "Balsas",
     "Endere�o Completo Comercial": "RUA BERNARDINO DE CASTRO 02/ BEIRA RIO Balsas",
+=======
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "RUA BERNARDINO DE CASTRO 02/ BEIRA RIO Balsas",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8810-1377",
     "E-mail Comercial": "DATA.BALSAS@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "LUCLECIA EVOLUTION",
+<<<<<<< HEAD
     "Munic�pio": "Barra do Corda",
     "Endere�o Completo Comercial": "Rua Rio Madeira 1265  Trizidela Barra do Corda",
+=======
+    "Município": "Barra do Corda",
+    "Endereço Completo Comercial": "Rua Rio Madeira 1265  Trizidela Barra do Corda",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9134-6305",
     "E-mail Comercial": "LUCLECIA.SUCESSO@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TIQUARA",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "Pedrinha dos Fugarcas Sn  Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Pedrinha dos Fugarcas Sn  Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8855-7254",
     "E-mail Comercial": "jaciramendonca2017@gmail.com",
     "Website": "-"
   },
   {
+<<<<<<< HEAD
     "Nome Fantasia": "Lacul� comveniencia bike e cafe",
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses  S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Nome Fantasia": "Laculá comveniencia bike e cafe",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8116-1343",
     "E-mail Comercial": "jorgehso@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DI SA CHURRASCARIA",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "Avenida BR 010 928 Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "Avenida BR 010 928 Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98427-1790",
     "E-mail Comercial": "jocidossantosreis@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE PONTO X",
+<<<<<<< HEAD
     "Munic�pio": "Pedreiras",
     "Endere�o Completo Comercial": "Maneco R�go 1207 Pedreiras",
+=======
+    "Município": "Pedreiras",
+    "Endereço Completo Comercial": "Maneco Rêgo 1207 Pedreiras",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98117-4800",
     "E-mail Comercial": "ESCRITORIOPROCONTA@YAHOO.COM.BR",
     "Website": "https://instagram.com/restaurante_pontox"
   },
   {
     "Nome Fantasia": "ITALIA IN TAVOLA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Ivan Loureiro  S�o Lu�s Ponta D Areia CEP: 65077558 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Ivan Loureiro  São Luís Ponta D Areia CEP: 65077558 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8100-2095",
     "E-mail Comercial": "CONTATO@LITALIAINTAVOLA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MR  JACK",
+<<<<<<< HEAD
     "Munic�pio": "Imperatriz",
     "Endere�o Completo Comercial": "Frei Manoel Proc�pio  Imperatriz Centro CEP: 65900040 MA",
+=======
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "Frei Manoel Procópio  Imperatriz Centro CEP: 65900040 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8116-0977",
     "E-mail Comercial": "mrjackgastrobar@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DELTAEXPRESSO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Libaneses 3503  Setor Sagu�o Desembarque  Loja 07 S�o Lu�s Tirirical CEP: 65056480 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Libaneses 3503  Setor Saguão Desembarque  Loja 07 São Luís Tirirical CEP: 65056480 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(81)2127-4750",
     "E-mail Comercial": "LEGALIZACAO@MDCONTADORES.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FULLBAR'S RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "Aracagy  Praia do Aracagy  quiosque 8 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Aracagy  Praia do Aracagy  quiosque 8 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98462-3535",
     "E-mail Comercial": "MURILOGRACETTO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE BAIXADEIRO",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "Rua Ant�nio Moreira  Sn Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Rua Antônio Moreira  Sn Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8858-4308",
     "E-mail Comercial": "contabilidadepho@hotmail.com",
     "Website": ""
   },
   {
     "Nome Fantasia": "BAR DO CATARINENSE",
+<<<<<<< HEAD
     "Munic�pio": "Centro Novo do Maranh�o",
     "Endere�o Completo Comercial": "Rua  13 rua S�o Miguel  Centro Novo do Maranh�o",
+=======
+    "Município": "Centro Novo do Maranhão",
+    "Endereço Completo Comercial": "Rua  13 rua São Miguel  Centro Novo do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8458-8637",
     "E-mail Comercial": "JOSELIAJBDS482@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CASARAO ENTRETENIMENTOS",
+<<<<<<< HEAD
     "Munic�pio": "Imperatriz",
     "Endere�o Completo Comercial": "S�o Domingos  Imperatriz Centro CEP: 65900130 MA",
+=======
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "São Domingos  Imperatriz Centro CEP: 65900130 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8129-0096",
     "E-mail Comercial": "clezio@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SANTO FOGO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses LOJA 02 A SETOR GOLDEN SHOP CALHAU S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses LOJA 02 A SETOR GOLDEN SHOP CALHAU São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8116-0606",
     "E-mail Comercial": "gabiga.89@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "D'LANCHES BAR",
+<<<<<<< HEAD
     "Munic�pio": "Pindar� Mirim",
     "Endere�o Completo Comercial": "Centro S/N Pindar� Mirim",
+=======
+    "Município": "Pindaré Mirim",
+    "Endereço Completo Comercial": "Centro S/N Pindaré Mirim",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8411-8915",
     "E-mail Comercial": "LAURASANTOS20152015@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GRILETTO",
+<<<<<<< HEAD
     "Munic�pio": "Imperatriz",
     "Endere�o Completo Comercial": "BR-010  Imperatriz Jardim S�o Lu�s CEP: 65913015 MA",
+=======
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "BR-010  Imperatriz Jardim São Luís CEP: 65913015 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3524-3097",
     "E-mail Comercial": "PRIVACIDADE@HALIPAR.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TRICOM",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses  S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3235-0350",
     "E-mail Comercial": "marcelo@vallente.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CABANA DO RIO",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Taboa S/N Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Taboa S/N Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8572-9041",
     "E-mail Comercial": "CELIACHAVES20@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BULLDOG BURGUER",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Narcisos  S�o Lu�s Jardim Renascen�a CEP: 65075600 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Narcisos  São Luís Jardim Renascença CEP: 65075600 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "-",
     "E-mail Comercial": "HENRIQUE@GRUPOHFMA.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ROUTE 315 RESTAURANTE E LANCHONETE",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Centeo 51 Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Centeo 51 Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9996-8061",
     "E-mail Comercial": "MARISA.JBE@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BC COMPANY",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Daniel de La Touche  S�o Lu�s Cohama CEP: 65074115 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Daniel de La Touche  São Luís Cohama CEP: 65074115 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99171-3003",
     "E-mail Comercial": "SAC.BCCOMPANY@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DO CHICAO",
+<<<<<<< HEAD
     "Munic�pio": "Pinheiro",
     "Endere�o Completo Comercial": "Pra�a Jos� Sarney Sn Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Praça José Sarney Sn Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "-",
     "E-mail Comercial": "ubiranilde.pereira@bol.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ACAITERIA SH",
+<<<<<<< HEAD
     "Munic�pio": "Santa Helena",
     "Endere�o Completo Comercial": "AV RIO BRANCO 11 LETRA B Santa Helena",
+=======
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "AV RIO BRANCO 11 LETRA B Santa Helena",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8440-1706",
     "E-mail Comercial": "ACAITERIAMIXSANTAHELENA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "REST  MAMMA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Holandeses 2 QD 10 S�o Lu�s Calhau CEP: 65071380 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses 2 QD 10 São Luís Calhau CEP: 65071380 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8810-2907",
     "E-mail Comercial": "INVISTACONTABILIDADE@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BURGUER DO ENGENHEIRO",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Quatro  S�o Lu�s Cohajap CEP: 65072400 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Quatro  São Luís Cohajap CEP: 65072400 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8355-2222",
     "E-mail Comercial": "LUKASLIMA_00@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE E CAFE DA DONA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Jos� de Ribamar",
     "Endere�o Completo Comercial": "av panaquatira 16 S�o Jos� de Ribamar",
+=======
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "av panaquatira 16 São José de Ribamar",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8781-1595",
     "E-mail Comercial": "EDWIGES57@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL RIO ANIL SHOPPING",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a  S�o Lu�s Turu CEP: 65065470 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)4199-5345",
     "E-mail Comercial": "juridico@zamp.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "ALECRIM RESTAURANTE",
+<<<<<<< HEAD
     "Munic�pio": "Paulino Neves",
     "Endere�o Completo Comercial": "Tingidor Pv  Tingidor Paulino Neves",
+=======
+    "Município": "Paulino Neves",
+    "Endereço Completo Comercial": "Tingidor Pv  Tingidor Paulino Neves",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8870-9823",
     "E-mail Comercial": "LORENNASOMBREIRA@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "INTERATIVA INFORMATICA",
+<<<<<<< HEAD
     "Munic�pio": "Carolina",
     "Endere�o Completo Comercial": "AVENIDA FREDERICO MARTINS DE AZEVEDO CASA NA INTERATIVA INFORMATICA Carolina",
+=======
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "AVENIDA FREDERICO MARTINS DE AZEVEDO CASA NA INTERATIVA INFORMATICA Carolina",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8452-0009",
     "E-mail Comercial": "clebersoncunha21@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TAIKA ARTES",
+<<<<<<< HEAD
     "Munic�pio": "Tut�ia",
     "Endere�o Completo Comercial": "Rua Magalh�es de Almeida  409 Tut�ia",
+=======
+    "Município": "Tutóia",
+    "Endereço Completo Comercial": "Rua Magalhães de Almeida  409 Tutóia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)97027-6952",
     "E-mail Comercial": "TAIKA.ARTES@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BITTE BURGER",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "dos Libaneses 3503  Setor Sagu�o Desembarque  Loja 06 S�o Lu�s Tirirical CEP: 65056480 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Libaneses 3503  Setor Saguão Desembarque  Loja 06 São Luís Tirirical CEP: 65056480 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(81)2127-4750",
     "E-mail Comercial": "LEGALIZACAO@MDCONTADORES.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "SAYMON TURISMO",
+<<<<<<< HEAD
     "Munic�pio": "Santo Amaro do Maranh�o",
     "Endere�o Completo Comercial": "Rua Das Flores s/n  Santo Amaro do Maranh�o",
+=======
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Das Flores s/n  Santo Amaro do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98719-0508",
     "E-mail Comercial": "hayrann.nunes@yahoo.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FILIAL BURGER KING RIO ANIL SHOPPING KSK II",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a  S�o Lu�s Turu CEP: 65065470 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Turu CEP: 65065470 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)2397-0320",
     "E-mail Comercial": "juridico@zamp.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BOULEVARD EMPREENDIMENTOS EM HOTELARIA",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "Guajajaras 1000  HOTEL BOULEVARD S�o Lu�s Jardim S�o Crist�v�o CEP: 65055285 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Guajajaras 1000  HOTEL BOULEVARD São Luís Jardim São Cristóvão CEP: 65055285 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3227-0772",
     "E-mail Comercial": "CONTABILIDADE@GRUPOLUZ.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE DO SOLA",
+<<<<<<< HEAD
     "Munic�pio": "Estreito",
     "Endere�o Completo Comercial": "Rodovia BR-230 Ponte do Rio Santana Estreito",
+=======
+    "Município": "Estreito",
+    "Endereço Completo Comercial": "Rodovia BR-230 Ponte do Rio Santana Estreito",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)9179-0347",
     "E-mail Comercial": "ricardosousa91234@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "RESTAURANTE PARATI",
+<<<<<<< HEAD
     "Munic�pio": "Graja�",
     "Endere�o Completo Comercial": "BR 226  Graja�",
+=======
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "BR 226  Grajaú",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)3532-0000",
     "E-mail Comercial": "ACCONTCONTABILIDADE@OUTLOOK.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "F DOS S MONTEIRO NETO COMERCIO E SERVICOS",
+<<<<<<< HEAD
     "Munic�pio": "S�o Lu�s",
     "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a  S�o Lu�s Olho D �gua CEP: 65067485 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França  São Luís Olho D Água CEP: 65067485 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99210-8302",
     "E-mail Comercial": "awmaraujo@hotmail.com",
     "Website": "-"

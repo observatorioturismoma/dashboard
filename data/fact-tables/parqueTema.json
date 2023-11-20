@@ -17,8 +17,13 @@
   },
   {
     "Nome Fantasia": "PARQUE DAS GARCAS",
+<<<<<<< HEAD
     "Munic�pio": "Presidente Dutra",
     "Endere�o Completo Comercial": "Br226 km 207 805 Presidente Dutra",
+=======
+    "Município": "Presidente Dutra",
+    "Endereço Completo Comercial": "Br226 km 207 805 Presidente Dutra",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)99100-2987",
     "E-mail Comercial": "SOUZAVIS@YAHOO.COM.BR",
     "Website": "-"
