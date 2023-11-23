@@ -1,36 +1,18 @@
 [
   {
     "Nome Fantasia": "DELTA TURISMO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Sebasti�o 22 S�o Lu�s Vila Bacanga CEP: 65080810 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "São Sebastião 22 São Luís Vila Bacanga CEP: 65080810 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "-",
     "E-mail Comercial": "deltasfl41@outlook.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DARLAN GUIA MARANHAO",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Rua da Saavedra 249 S�o Lu�s Centro CEP: 65010630 MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Rua da Saavedra 249 São Luís Centro CEP: 65010630 MA",
     "Telefone Comercial": "-",
     "E-mail Comercial": "darlanguiamaranhao@hotmail.com",
     "Website": "www.darlanguiamaranhao.com.br"
-  },
-  {
-    "Nome Fantasia": "EXTREMO TREKKING LENCOIS MARANHENSE",
-<<<<<<< HEAD
-    "Munic�pio": "Barreirinhas",
-    "Endere�o Completo Comercial": "Avenida Joaquim Soeiro de carvalho/ centro 319/pousada central  Barreirinhas",
-=======
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Avenida Joaquim Soeiro de carvalho/ centro 319/pousada central  Barreirinhas",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "-",
-    "E-mail Comercial": "gil89.a.s@gmail.com",
-    "Website": "-"
   }
 ]

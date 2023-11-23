@@ -1,153 +1,138 @@
 [
   {
+    "Nome Fantasia": "PALAZZO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Av São Paulo N°01 Quadra 15  São José de Ribamar",
+    "Telefone Comercial": "(98)3244-0729",
+    "E-mail Comercial": "palazzoeventosslz@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BAMBU GROUP",
+    "Município": "Fortaleza dos Nogueiras",
+    "Endereço Completo Comercial": "Avenida  Fortaleza dos Nogueiras",
+    "Telefone Comercial": "(99)3532-1341",
+    "E-mail Comercial": "joileneassuncao@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "SARAH PARK",
-    "Munic�pio": "Nina Rodrigues",
-    "Endere�o Completo Comercial": "Av Central  s/n - Centro   Nina Rodrigues",
+    "Município": "Nina Rodrigues",
+    "Endereço Completo Comercial": "Av Central  s/n - Centro   Nina Rodrigues",
     "Telefone Comercial": "(98)3082-5588",
     "E-mail Comercial": "MHACARVALHO@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "HOTEL E POUSADA INHUMA",
-    "Munic�pio": "S�o Jo�o do Soter",
-    "Endere�o Completo Comercial": "Av Esperan�a  n� 1000  S�o Jo�o do Soter",
+    "Município": "São João do Soter",
+    "Endereço Completo Comercial": "Av Esperança  nº 1000  São João do Soter",
     "Telefone Comercial": "(99)9847-7772",
     "E-mail Comercial": "caio1607@hotmail.com",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "POUSADA RIO GRAJAU",
-<<<<<<< HEAD
-    "Munic�pio": "Graja�",
-    "Endere�o Completo Comercial": "Rua Sete de Setembro  26  Graja�",
-=======
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Rua Sete de Setembro  26  Grajaú",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)9158-1030",
-    "E-mail Comercial": "GABIKAB566@GMAIL.COM",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "J  C  EMPREENDIMENTOS",
-    "Munic�pio": "Itinga do Maranh�o",
-    "Endere�o Completo Comercial": "RUA DO CAMPO 178  Itinga do Maranh�o",
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "RUA DO CAMPO 178  Itinga do Maranhão",
     "Telefone Comercial": "(99)3531-4056",
     "E-mail Comercial": "FARIASARAUJO2006@HOTMAIL.COM",
     "Website": "-"
   },
   {
+    "Nome Fantasia": "COLONIAL EMPREENDIMENTOS",
+    "Município": "Alcântara",
+    "Endereço Completo Comercial": "rua direita  sn Alcântara",
+    "Telefone Comercial": "(98)99153-3559",
+    "E-mail Comercial": "nailtonlobato@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CENTRO DE ENTRETENIMENTO DE BALSAS",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "RUA DR  IRINEU ALCINES BAYS - Nº 600 Santo Antônio Balsas",
+    "Telefone Comercial": "(99)98111-4444",
+    "E-mail Comercial": "marcelolascer2@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CAZUMBAR LOUGE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Mandacarus  São Luís Jardim Renascença CEP: 65075500 MA",
+    "Telefone Comercial": "-",
+    "E-mail Comercial": "roosevelt.w@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ESPACO CULTURAL E BAR RECANTO SHOW",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "Rua Manoel Pavão Dias 148/ Loja 01 Santa Helena",
+    "Telefone Comercial": "(98)8255-1796",
+    "E-mail Comercial": "JCONTADOR.JOAO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "EPC INOVACOES TECNOLOGICAS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Jos� Sarney 20-B QD 227 S�o Lu�s Jardim S�o Crist�v�o CEP: 65055300 MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "José Sarney 20-B QD 227 São Luís Jardim São Cristóvão CEP: 65055300 MA",
     "Telefone Comercial": "(98)3237-8231",
     "E-mail Comercial": "EMPECOLTDA@GMAIL.COM",
     "Website": "www.empeco.com.br"
   },
   {
     "Nome Fantasia": "PRIME DELUXE",
-    "Munic�pio": "Viana",
-    "Endere�o Completo Comercial": "RODOVIA MA 013 KM 37 BL 31 31 Viana",
+    "Município": "Viana",
+    "Endereço Completo Comercial": "RODOVIA MA 013 KM 37 BL 31 31 Viana",
     "Telefone Comercial": "(98)8561-0691",
     "E-mail Comercial": "NIKSON_CUTRIM@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CWDR PROMOCOES",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Jos�  S�o Lu�s S�o Bernardo CEP: 65056230 MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São José  São Luís São Bernardo CEP: 65056230 MA",
     "Telefone Comercial": "(98)98221-3826",
     "E-mail Comercial": "claudinhocdss@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FAROESTE PUB",
-    "Munic�pio": "Morros",
-    "Endere�o Completo Comercial": "AVENIDA JOSE LOPPES DE SOUSA- CENTRO 28 Morros",
+    "Município": "Morros",
+    "Endereço Completo Comercial": "AVENIDA JOSE LOPPES DE SOUSA- CENTRO 28 Morros",
     "Telefone Comercial": "(98)9963-5944",
     "E-mail Comercial": "FINANCEIRO@METTOS.COM.BR",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FC EVENTOS E PRODUCOES",
-    "Munic�pio": "Santa Helena",
-    "Endere�o Completo Comercial": "Rua Jos� Buneth 834 Santa Helena",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "Rua José Buneth 834 Santa Helena",
     "Telefone Comercial": "(98)8404-6071",
     "E-mail Comercial": "ARCANJOFAM@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BEACH BAR",
-    "Munic�pio": "Barreirinhas",
-    "Endere�o Completo Comercial": "AV BEIRA MAR SN  ATINS Barreirinhas",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "AV BEIRA MAR SN  ATINS Barreirinhas",
     "Telefone Comercial": "(11)8254-3683",
     "E-mail Comercial": "BRUNO.ANTONI.PRADO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CENTERPLEX CINEMAS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jos� de Ribamar",
-    "Endere�o Completo Comercial": "EST DE SAO JOSE DE RIBAMAR 1000  KM: 05  : PATIO NORTE SHOPPING  : SEGUNDO PA S�o Jos� de Ribamar",
-=======
     "Município": "São José de Ribamar",
     "Endereço Completo Comercial": "EST DE SAO JOSE DE RIBAMAR 1000  KM: 05  : PATIO NORTE SHOPPING  : SEGUNDO PA São José de Ribamar",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(11)3225-1313",
     "E-mail Comercial": "fiscal@centerplex.com.br",
     "Website": "www.centerplex.com.br"
   },
   {
     "Nome Fantasia": "DUDU PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "Colinas",
-    "Endere�o Completo Comercial": "R DO QUARTEL VELHO I 42/A Colinas",
-=======
     "Município": "Colinas",
     "Endereço Completo Comercial": "R DO QUARTEL VELHO I 42/A Colinas",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98116-5244",
     "E-mail Comercial": "producoesdudu0@gmail.com",
     "Website": "-"
-  },
-  {
-<<<<<<< HEAD
-    "Nome Fantasia": "CENTRO DE DAN�A E MOVIMENTO SORAYA LIRA LTDA ME",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Holandeses 11 S�o Lu�s Jardim Renascen�a CEP: 65075650 MA",
-=======
-    "Nome Fantasia": "CENTRO DE DANÇA E MOVIMENTO SORAYA LIRA LTDA ME",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Holandeses 11 São Luís Jardim Renascença CEP: 65075650 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9112-9106",
-    "E-mail Comercial": "svcontabilidade512@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CENTRO CULTURAL CASA GAMELA",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jos� de Ribamar",
-    "Endere�o Completo Comercial": "Rua Major Pirola 131 S�o Jos� de Ribamar",
-=======
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Rua Major Pirola 131 São José de Ribamar",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98601-0406",
-    "E-mail Comercial": "casagamelasjr@gmail.com",
-    "Website": "https://casagamelasjr.com/"
-  },
-  {
-    "Nome Fantasia": "ENCONTRO DOS AMIGOS",
-<<<<<<< HEAD
-    "Munic�pio": "Santa Helena",
-    "Endere�o Completo Comercial": "PCA Avenida Beira Rio SN Santa Helena",
-=======
-    "Município": "Santa Helena",
-    "Endereço Completo Comercial": "PCA Avenida Beira Rio SN Santa Helena",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8471-7810",
-    "E-mail Comercial": "SOUSADIANA239@GMAIL.COM",
-    "Website": ""
   }
 ]

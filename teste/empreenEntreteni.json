@@ -1,0 +1,36 @@
+[
+  {
+    "Nome Fantasia": "FUJA DA ROTINA",
+<<<<<<< HEAD
+    "Munic�pio": "Santa Luzia",
+    "Endere�o Completo Comercial": "Rua S�o jose 362 Santa Luzia",
+=======
+    "Município": "Santa Luzia",
+    "Endereço Completo Comercial": "Rua São jose 362 Santa Luzia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(98)8418-9633",
+    "E-mail Comercial": "pagseguroperfumes@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LOCAVEL TRANSPORTE E TURISMO",
+    "Munic�pio": "Bacabeira",
+    "Endere�o Completo Comercial": "Rua Principal  19 Povoado Pequi Bacabeira",
+    "Telefone Comercial": "(98)3345-2033",
+    "E-mail Comercial": "band1964@yahoo.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "HOTEL SERVICE",
+<<<<<<< HEAD
+    "Munic�pio": "Pinheiro",
+    "Endere�o Completo Comercial": "Rua Jo�o Paulo II 486A Pinheiro",
+=======
+    "Município": "Pinheiro",
+    "Endereço Completo Comercial": "Rua João Paulo II 486A Pinheiro",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(98)8887-8991",
+    "E-mail Comercial": "josiasbaptista@acaiclubhotel.com",
+    "Website": "-"
+  }
+]

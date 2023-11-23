@@ -1,365 +1,818 @@
 [
   {
+    "Nome Fantasia": "ENPHOC",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "das Paparaubas 4 / Qda 11 São Luís Jardim São Francisco CEP: 65076000 MA",
+    "Telefone Comercial": "(98)3227-9049",
+    "E-mail Comercial": "enphoc@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FACE ASSESSORIA E SERVIÇOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Três  São Luís Vinhais CEP: 65071020 MA",
+    "Telefone Comercial": "(98)3190-1218",
+    "E-mail Comercial": "faceassessoriaface@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "EQUIPAR",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Sebasti�o Archer 100 S�o Lu�s Olho D �gua CEP: 65065480 MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Sebastião Archer 100 São Luís Olho D Água CEP: 65065480 MA",
     "Telefone Comercial": "(98)2108-6353",
     "E-mail Comercial": "locacaoma@iequipar.com.br",
     "Website": "www.iequipar.com.br"
   },
   {
-<<<<<<< HEAD
-    "Nome Fantasia": "R&P SERVI�OS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Itaquice Quadra 01 S�o Lu�s Calhau CEP: 65071400 MA",
-=======
-    "Nome Fantasia": "R&P SERVIÇOS",
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Itaquice Quadra 01 São Luís Calhau CEP: 65071400 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3268-7426",
-    "E-mail Comercial": "contato@rprh.com.br",
-    "Website": "http://rprh.com.br"
-  },
-  {
     "Nome Fantasia": "FAZ PROMO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Av  dos Holandeses 01 Biadene Office 7� andar S�o Lu�s Ponta do Farol CEP: 65077635 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "Av  dos Holandeses 01 Biadene Office 7º andar São Luís Ponta do Farol CEP: 65077635 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)2107-7070",
     "E-mail Comercial": "financeiro@phocuspropaganda.com.br",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "PRIME SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Jos� Bonif�cio  S�o Lu�s Cohama CEP: 65074140 MA",
-=======
+    "Nome Fantasia": "IN GROUP",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "José Bonifácio  São Luís Cohama CEP: 65074140 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3199-1530",
-    "E-mail Comercial": "primeeduc@hotmail.com",
-    "Website": "-"
+    "Endereço Completo Comercial": "dos Acapus 24 Quadra 80 São Luís Jardim Renascença CEP: 65075020 MA",
+    "Telefone Comercial": "(98)99123-6402",
+    "E-mail Comercial": "ingroupnegocioseeventos@gmail.com",
+    "Website": "http://www.ingroupnegocioseeventos.com/"
   },
   {
     "Nome Fantasia": "MODUS VIVENDI",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jos� de Ribamar",
-    "Endere�o Completo Comercial": "Estrada Maioba  bl 03  ap 408  Cond  Dunas do Sol 2500 S�o Jos� de Ribamar",
-=======
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Estrada Maioba  bl 03  ap 408  Cond  Dunas do Sol 2500 São José de Ribamar",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Rua Afonso Pena  3 AltoFormoso/Centro  Santo Amaro do Maranhão",
     "Telefone Comercial": "(98)99934-8217",
     "E-mail Comercial": "mras.mei@gmail.com",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "MIRIAN EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jos� de Ribamar",
-    "Endere�o Completo Comercial": "Sem Logradouro  S�o Jos� de Ribamar",
-=======
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Sem Logradouro  São José de Ribamar",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3239-1598",
-    "E-mail Comercial": "mirianeventos@bol.com.br",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "TAGUATUR EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Timb�s  qda 46 casa 30 Jd Renascen�a S�o Lu�s Jardim Renascen�a CEP: 65075410 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Timbós  qda 46 casa 30 Jd Renascença São Luís Jardim Renascença CEP: 65075410 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)2109-6400",
     "E-mail Comercial": "financeiro@taguaturturismo.com.br",
     "Website": "www.taguatur.com.br/turismo"
   },
   {
-    "Nome Fantasia": "FARA LOCACOES E EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "C�nego Tavares 481 S�o Lu�s Anil CEP: 65045240 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Cônego Tavares 481 São Luís Anil CEP: 65045240 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3268-4147",
-    "E-mail Comercial": "administrativo@fralocacoes.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "QUALIS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Guajajaras  S�o Lu�s Jardim S�o Crist�v�o CEP: 65055285 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Guajajaras  São Luís Jardim São Cristóvão CEP: 65055285 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3244-1328",
-    "E-mail Comercial": "jjqualis@ig.com.br",
-    "Website": "www.qualiseventos.com"
-  },
-  {
     "Nome Fantasia": "CASA D'ARTE",
-<<<<<<< HEAD
-    "Munic�pio": "Raposa",
-    "Endere�o Completo Comercial": "Sem Logradouro  Raposa",
-=======
     "Município": "Raposa",
     "Endereço Completo Comercial": "Sem Logradouro  Raposa",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)99615-9366",
     "E-mail Comercial": "casadarte1@gmail.com",
     "Website": "http:\\\\casadarte.art.br"
   },
   {
-    "Nome Fantasia": "ORIENTA CONSULTORIA E MARKETING",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "das Laranjeiras n�03 quadra 57  S�o Lu�s Jardim Renascen�a CEP: 65075250 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "das Laranjeiras n°03 quadra 57  São Luís Jardim Renascença CEP: 65075250 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)99966-1013",
-    "E-mail Comercial": "comercialorienta@outlook.com",
-    "Website": "-"
-  },
-  {
-<<<<<<< HEAD
-    "Nome Fantasia": "VITORIA DISTRIBUIDORA DE SERVI�OS E EMPREENDIMENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Castanheiros  S�o Lu�s Jardim Renascen�a CEP: 65075120 MA",
-=======
     "Nome Fantasia": "VITORIA DISTRIBUIDORA DE SERVIÇOS E EMPREENDIMENTOS",
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Castanheiros  São Luís Jardim Renascença CEP: 65075120 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8216-3289",
     "E-mail Comercial": "vitorialtda2012@gmail.com",
     "Website": "-"
   },
   {
-<<<<<<< HEAD
-    "Nome Fantasia": "S�O LU�S EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Ana Jansen N�73  S�o Lu�s S�o Francisco CEP: 65076730 MA",
-=======
     "Nome Fantasia": "SÃO LUÍS EVENTOS",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Ana Jansen N°73  São Luís São Francisco CEP: 65076730 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3221-3146",
     "E-mail Comercial": "slpeventos@uol.com.br",
     "Website": "www.slpeventos.com.br"
   },
   {
+    "Nome Fantasia": "R  B  PRODUÇÕES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "do Marajá  São Luís Camboa CEP: 65020350 MA",
+    "Telefone Comercial": "(98)3238-5316",
+    "E-mail Comercial": "r.b.producoes@hotmail.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TROY EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Miritiba 15 São Luís Santo Antônio CEP: 65046611 MA",
+    "Telefone Comercial": "(98)98124-8833",
+    "E-mail Comercial": "CJS.CARLOS@GMAIL.COM",
+    "Website": "www.troyeventos.com.br"
+  },
+  {
+    "Nome Fantasia": "Espaço Casarão",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Avenida Joaquim Soeiro de Carvalho  Nº 682  Centro  Barreirinhas",
+    "Telefone Comercial": "(98)98201-7553",
+    "E-mail Comercial": "espacocasarao.brh@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MIRIAN EVENTOS",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Sem Logradouro  São José de Ribamar",
+    "Telefone Comercial": "(98)3239-1598",
+    "E-mail Comercial": "mirianeventos@bol.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "EDUCANDOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Santa Rita LOJA 07 São Luís Centro CEP: 65015430 MA",
+    "Telefone Comercial": "(98)3231-4524",
+    "E-mail Comercial": "rocha.benedito@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "POUSADA RANCHO DAS DUNAS",
-<<<<<<< HEAD
-    "Munic�pio": "Santo Amaro do Maranh�o",
-    "Endere�o Completo Comercial": "Sem Logradouro  Santo Amaro do Maranh�o",
-=======
     "Município": "Santo Amaro do Maranhão",
     "Endereço Completo Comercial": "Sem Logradouro  Santo Amaro do Maranhão",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98479-1441",
     "E-mail Comercial": "contato@ranchodasdunas.com.br",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "AETIUS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Bangu  S�o Lu�s Camboa CEP: 65020050 MA",
-=======
+    "Nome Fantasia": "E S M  CULTURA PROMOÇÕES",
+    "Município": "Trizidela do Vale",
+    "Endereço Completo Comercial": "Sem Logradouro  Trizidela do Vale",
+    "Telefone Comercial": "(99)8125-7992",
+    "E-mail Comercial": "marcosesm@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "R&P RECURSOS HUMANOS",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Bangu  São Luís Camboa CEP: 65020050 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)99185-1359",
-    "E-mail Comercial": "aetius.servicos@gmail.com",
-    "Website": "-"
+    "Endereço Completo Comercial": "Itaquice Quadra 01 São Luís Calhau CEP: 65071400 MA",
+    "Telefone Comercial": "(98)3268-7426",
+    "E-mail Comercial": "contato@rprh.com.br",
+    "Website": "http://rprh.com.br"
   },
   {
-    "Nome Fantasia": "BENU VIAGENS & TURISMO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Petr�nio Portela  65 S�o Lu�s Vera Cruz CEP: 65047760 MA",
-=======
+    "Nome Fantasia": "QUALIS",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Petrônio Portela  65 São Luís Vera Cruz CEP: 65047760 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98520-0297",
-    "E-mail Comercial": "benuviagenseturismo@gmail.com",
+    "Endereço Completo Comercial": "Guajajaras  São Luís Jardim São Cristóvão CEP: 65055285 MA",
+    "Telefone Comercial": "(98)3244-1328",
+    "E-mail Comercial": "jjqualis@ig.com.br",
+    "Website": "www.qualiseventos.com"
+  },
+  {
+    "Nome Fantasia": "ORIENTA CONSULTORIA E MARKETING",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "das Laranjeiras n°03 quadra 57  São Luís Jardim Renascença CEP: 65075250 MA",
+    "Telefone Comercial": "(98)99966-1013",
+    "E-mail Comercial": "comercialorienta@outlook.com",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "CHIVUNCK",
-<<<<<<< HEAD
-    "Munic�pio": "Riach�o",
-    "Endere�o Completo Comercial": "Rua Rui Barbosa 185 Riach�o",
-=======
-    "Município": "Riachão",
-    "Endereço Completo Comercial": "Rua Rui Barbosa 185 Riachão",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98818-9689",
-    "E-mail Comercial": "cvk.adventure@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "KADOSH SERVICOS CORPORATIVOS",
-<<<<<<< HEAD
-    "Munic�pio": "Humberto de Campos",
-    "Endere�o Completo Comercial": "Rua Rio Branco  424A  centro 424 Humberto de Campos",
-=======
-    "Município": "Humberto de Campos",
-    "Endereço Completo Comercial": "Rua Rio Branco  424A  centro 424 Humberto de Campos",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3244-0611",
-    "E-mail Comercial": "kadoshchm@gmail.com",
+    "Nome Fantasia": "SVT MARKENTING E COMUNICAÇÃO",
+    "Município": "São José de Ribamar",
+    "Endereço Completo Comercial": "Rua Uricutiua  Araçagy Paço do Lumiar",
+    "Telefone Comercial": "(98)3235-6467",
+    "E-mail Comercial": "svt@svtconsultores.com.br",
     "Website": "-"
   },
   {
     "Nome Fantasia": "AMB SONORIZACAO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Cinquenta e Sete - A N�mero 23 A  Quadra 49 S�o Lu�s Vinhais CEP: 65074497 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "Cinquenta e Sete - A Número 23 A  Quadra 49 São Luís Vinhais CEP: 65074497 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98432-9757",
     "E-mail Comercial": "ALESSIOMELOBORGES@HOTMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BRUNINHO PROMOCOES",
-    "Munic�pio": "Buriti Bravo",
-    "Endere�o Completo Comercial": "RUA RIO BRANCO N 78  Buriti Bravo",
+    "Município": "Buriti Bravo",
+    "Endereço Completo Comercial": "RUA RIO BRANCO N 78  Buriti Bravo",
     "Telefone Comercial": "(99)35721-0036",
     "E-mail Comercial": "BRUNINHOPROMOCOES@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "DUDU PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "Colinas",
-    "Endere�o Completo Comercial": "R DO QUARTEL VELHO casa Colinas",
-=======
     "Município": "Colinas",
     "Endereço Completo Comercial": "R DO QUARTEL VELHO casa Colinas",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)98116-5244",
     "E-mail Comercial": "producoesdudu0@gmail.com",
     "Website": "-"
   },
   {
-<<<<<<< HEAD
-    "Nome Fantasia": "EDSON SILVA PRODU��ES E EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Rua dos Azul�es  01 Quadra 120  Sala 1411  Edif  Office Tower  S�o Lu�s Jardim Renascen�a CEP: 65075060 MA",
-=======
     "Nome Fantasia": "EDSON SILVA PRODUÇÕES E EVENTOS",
     "Município": "São Luís",
     "Endereço Completo Comercial": "Rua dos Azulões  01 Quadra 120  Sala 1411  Edif  Office Tower  São Luís Jardim Renascença CEP: 65075060 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98451-2480",
     "E-mail Comercial": "edsonsilvasl@hotmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "KAVASAKY PROMOCOES E EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Holandeses 6  SL 1118  EDIF  TECH OFFICE S�o Lu�s Ponta D Areia CEP: 65077357 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "dos Holandeses 6  SL 1118  EDIF  TECH OFFICE São Luís Ponta D Areia CEP: 65077357 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)98196-0967",
     "E-mail Comercial": "steniokavasaky@hotmail.com",
     "Website": "-"
   },
   {
+    "Nome Fantasia": "N  E",
+    "Município": "Gonçalves Dias",
+    "Endereço Completo Comercial": "RUA RUI BARBOSA  1345 - CENTRO  Gonçalves Dias",
+    "Telefone Comercial": "(99)8812-7305",
+    "E-mail Comercial": "lobatolauber@hotmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "BANDA PRAKATUM",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "rua 07 n�15 SOLAR LUSIADAS QD- C  BAIRRO TURU  S�o Jos� de Ribamar",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "rua 07 nº15 SOLAR LUSIADAS QD- C  BAIRRO TURU  São José de Ribamar",
     "Telefone Comercial": "(98)8124-7219",
     "E-mail Comercial": "tiagoprakatum@hotmail.com",
     "Website": "-"
   },
   {
+    "Nome Fantasia": "ADVENTURE1",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "das Sapotis  São Luís Jardim Renascença CEP: 65075370 MA",
+    "Telefone Comercial": "(98)99126-3689",
+    "E-mail Comercial": "mcaio@adventure1.com.br",
+    "Website": "www.adventure1.com.br"
+  },
+  {
     "Nome Fantasia": "LF PRODUCOES",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Holandeses  S�o Lu�s Ponta D Areia CEP: 65077357 MA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Holandeses  São Luís Ponta D Areia CEP: 65077357 MA",
     "Telefone Comercial": "(98)9137-0399",
     "E-mail Comercial": "MARCIAMONTEIR@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "PALAZZO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jos� de Ribamar",
-    "Endere�o Completo Comercial": "Av S�o Paulo  01 quadra 15 S�o Jos� de Ribamar  S�o Jos� de Ribamar",
-=======
     "Município": "São José de Ribamar",
     "Endereço Completo Comercial": "Av São Paulo  01 quadra 15 São José de Ribamar  São José de Ribamar",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)99215-7138",
-    "E-mail Comercial": "palazzoeventosslz@hotmail.com",
-    "Website": "http://www.palazzoeventos.com.br"
+    "Telefone Comercial": "(98)3244-0729",
+    "E-mail Comercial": "andreycontador@hotmail.com",
+    "Website": "-"
   },
   {
     "Nome Fantasia": "MEC SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Q  S�o Lu�s Cohatrac I CEP: 65053720 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "Q  São Luís Cohatrac I CEP: 65053720 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8608-6852",
     "E-mail Comercial": "MDIASFIGUEIREDO@OUTLOOK.COM",
     "Website": "http://www.mecservicoseassessoria.com.br"
   },
   {
-    "Nome Fantasia": "TRIPS PANDA BRASIL",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Aririzal  S�o Lu�s Cohama CEP: 65067197 MA",
-    "Telefone Comercial": "(98)8712-8900",
-    "E-mail Comercial": "jreis.jr@gmail.com",
+    "Nome Fantasia": "CASTELO BRANCO SERVIÇOS CORPORATIVOS",
+    "Município": "Trizidela do Vale",
+    "Endereço Completo Comercial": "RUA SANTO ANTONIO 113  SALA 01 Trizidela do Vale",
+    "Telefone Comercial": "(99)98142-0098",
+    "E-mail Comercial": "orlandocastelobranco@gmail.com",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "MACANUDO LANCHE E BAR",
-    "Munic�pio": "Fortaleza dos Nogueiras",
-    "Endere�o Completo Comercial": "00  Fortaleza dos Nogueiras",
-    "Telefone Comercial": "(99)8124-5819",
-    "E-mail Comercial": "joileneassuncao@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CASTELO BRANCO SERVI�OS CORPORATIVOS",
-    "Munic�pio": "Trizidela do Vale",
-    "Endere�o Completo Comercial": "RUA SANTO ANTONIO 113  SALA 01 Trizidela do Vale",
-=======
+    "Nome Fantasia": "J Lago Figueiredo Eventos e Turismo",
     "Município": "São Luís",
-    "Endereço Completo Comercial": "Aririzal  São Luís Cohama CEP: 65067197 MA",
-    "Telefone Comercial": "(98)8712-8900",
-    "E-mail Comercial": "jreis.jr@gmail.com",
+    "Endereço Completo Comercial": "RUA E  N° 5  São Luís Conjunto Manoel Beckman CEP: 65060625 MA",
+    "Telefone Comercial": "(98)99992-2612",
+    "E-mail Comercial": "Jlagoturismo@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PLANETA CONTENTE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Juritis Cond  Mário Meireles  503 São Luís Jardim Renascença CEP: 65075240 MA",
+    "Telefone Comercial": "(98)98126-0006",
+    "E-mail Comercial": "CONTATO@PLANETACONTENTE.COM.BR",
+    "Website": "WWW.PLANETACONTENTE.TUR.BR"
+  },
+  {
+    "Nome Fantasia": "JM PRODUCOES E EVENTOS",
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "Rua do Piquizeiro  Nº 10  Aviação Anexo A  Sala 03 Itapecuru Mirim",
+    "Telefone Comercial": "(98)8152-9940",
+    "E-mail Comercial": "MAGYLACHAVES@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "A R C Tavares Me",
+    "Município": "Rosário",
+    "Endereço Completo Comercial": "Travessa Coronel Jose Leite  29 casa Rosário",
+    "Telefone Comercial": "(98)3345-2612",
+    "E-mail Comercial": "alaimrogerio.tavares@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ILHA PROMOCOES E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Luís Rei de França 412  loja 14 São Luís Turu CEP: 65065470 MA",
+    "Telefone Comercial": "(98)8749-3310",
+    "E-mail Comercial": "ILHAPROMOCOES@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ME LEVA",
+    "Município": "Alto Alegre do Maranhão",
+    "Endereço Completo Comercial": "Rua Santa Helena - 20 A  Alto Alegre do Maranhão",
+    "Telefone Comercial": "(99)3638-1214",
+    "E-mail Comercial": "melevaempreendimentos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FABRICA DE SONHOS",
+    "Município": "Rosário",
+    "Endereço Completo Comercial": "Travessa Doutor Jose Domingues próximo a Escola Mundo Encantado Rosário",
+    "Telefone Comercial": "(98)3345-3248",
+    "E-mail Comercial": "phabyo_wex@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TORRE DA LUA ECOTURISMO",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "AV GETULIO VARGAS 1188 - CENTRO  Carolina",
+    "Telefone Comercial": "(99)3531-2166",
+    "E-mail Comercial": "gerencia@torredalua.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CHALE RECANTO DAS AGUAS",
+    "Município": "Conceição do Lago-Açu",
+    "Endereço Completo Comercial": "Rua Rosilda  10 - Centro  Conceição do Lago-Açu",
+    "Telefone Comercial": "(98)8800-4697",
+    "E-mail Comercial": "juarildotomas@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "JM FESTAS",
+    "Município": "Cantanhede",
+    "Endereço Completo Comercial": "Av  Rio Branco 30 Cantanhede",
+    "Telefone Comercial": "(98)8437-5878",
+    "E-mail Comercial": "turismo@cantanhede.ma.gov.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "A S A PRODUCOES SHOWS E EVENTOS",
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "Entretenimento  Itinga do Maranhão",
+    "Telefone Comercial": "(99)99163-9151",
+    "E-mail Comercial": "turismoitinga@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TAMA PRODUCOES",
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "Rua Santa Catarina  140  Grajaú",
+    "Telefone Comercial": "(99)99103-2311",
+    "E-mail Comercial": "tamagrajau@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "Valderi Mendonça Promoções",
+    "Município": "Codó",
+    "Endereço Completo Comercial": "Rua Barão do Rio Branco nº2536B  Codó",
+    "Telefone Comercial": "(99)3621-2681",
+    "E-mail Comercial": "vmpeventos@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "AETIUS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Bangu  São Luís Camboa CEP: 65020050 MA",
+    "Telefone Comercial": "(98)99185-1359",
+    "E-mail Comercial": "aetius.servicos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "KADOSH SERVICOS CORPORATIVOS",
+    "Município": "Humberto de Campos",
+    "Endereço Completo Comercial": "Rua Rio Branco  424A  centro 424 Humberto de Campos",
+    "Telefone Comercial": "(98)3244-0611",
+    "E-mail Comercial": "kadoshchm@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LIROCH DOCES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Sete  São Luís Cohatrac IV CEP: 65054650 MA",
+    "Telefone Comercial": "(98)98889-6213",
+    "E-mail Comercial": "lirochturismo@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MIX CERIMONIAL",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Coronel Colares Moreira  São Luís Jardim Renascença CEP: 65075441 MA",
+    "Telefone Comercial": "(98)8111-8826",
+    "E-mail Comercial": "ATENDIMENTO@MIXEVENTOSMA.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "K & S SERVICOS DE ASSESSORIA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Deputado Raimundo Leal  São Luís Jardim Eldorado CEP: 65066635 MA",
+    "Telefone Comercial": "(98)8189-0910",
+    "E-mail Comercial": "CONTATO@ATIVAMA.COM.BR",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA S@K",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "Olho Dágua  Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)9117-6824",
+    "E-mail Comercial": "pousadasak@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TURISTANDO POR AI",
+    "Município": "Itapecuru Mirim",
+    "Endereço Completo Comercial": "RUA PROJETADA 1  Itapecuru Mirim",
+    "Telefone Comercial": "(98)8853-0138",
+    "E-mail Comercial": "JULIOCESARBARROSO170@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CASTELO BRANCO EMPREENDIMENTOS",
+    "Município": "Trizidela do Vale",
+    "Endereço Completo Comercial": "RUA SANTO ANTÔNIO  331 - CENTRO EM FRENTE A ASSEMBLEIA DE DEUS Trizidela do Vale",
+    "Telefone Comercial": "(99)8439-7616",
+    "E-mail Comercial": "ORLANDOCASTELOBRANCO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "K L EVENTOS",
+    "Município": "Tuntum",
+    "Endereço Completo Comercial": "RUA UM Nº 9 BAIRRO CLEONES CUNHA TUNTUM  Tuntum",
+    "Telefone Comercial": "(99)8449-4882",
+    "E-mail Comercial": "LOBATOLAUBER@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FACA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Palma  São Luís Centro CEP: 65010440 MA",
+    "Telefone Comercial": "(98)8821-2283",
+    "E-mail Comercial": "josue.poeta@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LITORAL EMPREENDIMENTOS",
+    "Município": "Turiaçu",
+    "Endereço Completo Comercial": "R RUA BOA ESPERANCA  12  Turiaçu",
+    "Telefone Comercial": "(98)8460-1948",
+    "E-mail Comercial": "LITORALEMPREENDIMENTOS.MA@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "OTOPRODUCOES CONSULTORIA E INSTRUTORIA",
+    "Município": "São Bento",
+    "Endereço Completo Comercial": "Praça Benedito Leite  44A  São Bento",
+    "Telefone Comercial": "(98)98403-1126",
+    "E-mail Comercial": "OTONIELRIBEIRO@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CELEBRAR EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Cinco  São Luís IPEM São Cristóvão CEP: 65055284 MA",
+    "Telefone Comercial": "(98)8113-5696",
+    "E-mail Comercial": "JOANDERSONSILVASILVA@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GAMA ADVENTURE",
+    "Município": "Imperatriz",
+    "Endereço Completo Comercial": "São Francisco  Imperatriz Vila Lobão CEP: 65910170 MA",
+    "Telefone Comercial": "(99)9905-6919",
+    "E-mail Comercial": "ADAILTONGAMA@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BETE FESTAS E DECORACOES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Bolívia Quadra 33 A São Luís Anjo da Guarda CEP: 65085083 MA",
+    "Telefone Comercial": "(98)8802-8730",
+    "E-mail Comercial": "BETERMATOS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "W GRUPO ENTRE",
+    "Município": "Timon",
+    "Endereço Completo Comercial": "Joaquim Pedreira II  Timon São Francisco II CEP: 65636840 MA",
+    "Telefone Comercial": "(86)9922-1369",
+    "E-mail Comercial": "falecomw.grupoentre@gmail.com",
+    "Website": "https://timonagora.com/pagina/2/sobre-o-w-grupo-entre"
+  },
+  {
+    "Nome Fantasia": "V3 ENTRETENIMENTO",
+    "Município": "Lago da Pedra",
+    "Endereço Completo Comercial": "R Mangueira  4   Planalto QD 1 Lago da Pedra",
+    "Telefone Comercial": "(99)98410-5808",
+    "E-mail Comercial": "VINICIUSCDS@LIVE.COM",
+    "Website": "www.instagram.com/v3entretenimentoo"
+  },
+  {
+    "Nome Fantasia": "CONCEPT PROMOCOES & EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Livramento  São Luís Forquilha CEP: 65054030 MA",
+    "Telefone Comercial": "(98)8820-6914",
+    "E-mail Comercial": "ALEXCAVALCANTE26@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "JD PRODUCOES",
+    "Município": "Pedreiras",
+    "Endereço Completo Comercial": "RUA DA PONTE   Pedreiras",
+    "Telefone Comercial": "(99)8158-0213",
+    "E-mail Comercial": "joseconceicao643@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MUNDO DA LUA TURISMO EXPERIENCIA MULTIE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Quatro  São Luís Vinhais CEP: 65071060 MA",
+    "Telefone Comercial": "(98)8291-5070",
+    "E-mail Comercial": "MUNDODALUATURISMO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LANCHONETE DA HILDA LTDA",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Othon Rocha  São Luís COHAB Anil IV CEP: 65051640 MA",
+    "Telefone Comercial": "(98)3237-7687",
+    "E-mail Comercial": "RONALDOARAUJOMOVEISPLANEJADOS@EMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CENTRO DE ENTRETENIMENTO DE BALSAS",
+    "Município": "Balsas",
+    "Endereço Completo Comercial": "RUA DR  IRINEU ALCINES BAYS - Nº 600 Santo Antônio Balsas",
+    "Telefone Comercial": "(99)98111-4444",
+    "E-mail Comercial": "marcelolascer2@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GH EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "dos Currupiões  São Luís Jardim Renascença CEP: 65075140 MA",
+    "Telefone Comercial": "(98)8125-0499",
+    "E-mail Comercial": "BARCONTABILIDADE@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PRAIA MAR EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Marcos  São Luís São Marcos CEP: 65077310 MA",
+    "Telefone Comercial": "(98)98820-6914",
+    "E-mail Comercial": "alexcavalcante26@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CFS73 PRODUCOES E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Manoel Bandeira QUADRA P 16 BLOCO B São Luís Ipase CEP: 65061031 MA",
+    "Telefone Comercial": "(98)3082-1166",
+    "E-mail Comercial": "claudiosampaio73@gmail.com",
+    "Website": "www.bomvoartur.com.br"
+  },
+  {
+    "Nome Fantasia": "QUALITY EMPREENDIMENTOS",
+    "Município": "Itinga do Maranhão",
+    "Endereço Completo Comercial": "l  Itinga do Maranhão",
+    "Telefone Comercial": "(99)9301-0001",
+    "E-mail Comercial": "SANDRAMCGIRL@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MARE DE POROROCA TURISMO E EVENTOS",
+    "Município": "Arari",
+    "Endereço Completo Comercial": "rua Pedro Leandro Fernandes n 41 Arari",
+    "Telefone Comercial": "(98)98402-4211",
+    "E-mail Comercial": "tacitalima79@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LARACEL PROMOTORA DE EVENTOS E TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "do Outeiro- 658  São Luís Centro CEP: 65025670 MA",
+    "Telefone Comercial": "(98)99991-7570",
+    "E-mail Comercial": "joaoguiatour.ma@hotmail.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "BIG BAR - ESPACO SHOW",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "TRAVESSA DA BANDEIRA  LOJA 01 Santa Helena",
+    "Telefone Comercial": "(98)8126-3562",
+    "E-mail Comercial": "JCONTADOR.JOAO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ESPACO CULTURAL E BAR RECANTO SHOW",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "Rua Manoel Pavão Dias 148/ Loja 01 Santa Helena",
+    "Telefone Comercial": "(98)8255-1796",
+    "E-mail Comercial": "JCONTADOR.JOAO@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PADUA PRODUCOES E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "15 (Unidade 203) São Luís Cidade Operária CEP: 65058166 MA",
+    "Telefone Comercial": "(98)8751-5267",
+    "E-mail Comercial": "PADUAPRODUCOES17@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "G LELIS PRODUCOES E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "H  São Luís Cohatrac I CEP: 65053650 MA",
+    "Telefone Comercial": "(98)9884-6408",
+    "E-mail Comercial": "LELLYSDESING@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "GRUPO GENESIS SONORIZACAO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "João Henrique  São Luís Centro CEP: 65015210 MA",
+    "Telefone Comercial": "(98)8730-4775",
+    "E-mail Comercial": "JM3264546@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "KITS FESTAS DECORACOES",
+    "Município": "Guimarães",
+    "Endereço Completo Comercial": "NOVA VILA  Guimarães",
+    "Telefone Comercial": "(98)8329-6070",
+    "E-mail Comercial": "IAGOA2487@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SANTOS COMERCIO EIRELI",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Rocha Pombo  São Luís Vila Passos CEP: 65025750 MA",
+    "Telefone Comercial": "(98)8865-0852",
+    "E-mail Comercial": "THATIANE2014@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "E J FILHO COMERCIO EIRELI",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Paulo Frontin  São Luís Monte Castelo CEP: 65031360 MA",
+    "Telefone Comercial": "(98)9860-5268",
+    "E-mail Comercial": "EXPEDITOFIRMA@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CLM WEDDING DESTINATION",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "Centro  Barreirinhas",
+    "Telefone Comercial": "(98)8613-5341",
+    "E-mail Comercial": "eventoscerimonialle@gmail.com",
+    "Website": "https://www.casandonoslencoismaranhenses.com/"
+  },
+  {
+    "Nome Fantasia": "H7 EMPREENDIMENTOS & SERVICOS",
+    "Município": "Alto Alegre do Maranhão",
+    "Endereço Completo Comercial": "RUA MANOEL AUGUSTO FILHO 24 Alto Alegre do Maranhão",
+    "Telefone Comercial": "(98)8462-9319",
+    "E-mail Comercial": "h7empreendimentos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "DHAMAS CERIMONIAL E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Vila Bessa  São Luís Vila Bessa CEP: 65015000 MA",
+    "Telefone Comercial": "(98)9903-0897",
+    "E-mail Comercial": "layna.larissa@hotmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "REVISTA MARANHAO TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Castelo Branco - lado ímpar São Luís São Francisco CEP: 65076090 MA",
+    "Telefone Comercial": "(98)3302-8526",
+    "E-mail Comercial": "R.M.CONTABILIDADE@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "OUI LA VIE",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "da Enfermagem  São Luís Cohafuma CEP: 65074840 MA",
+    "Telefone Comercial": "(98)9213-7619",
+    "E-mail Comercial": "LMLCONT@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "EPC INOVACOES TECNOLOGICAS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "José Sarney 20-B QD 227 São Luís Jardim São Cristóvão CEP: 65055300 MA",
+    "Telefone Comercial": "(98)3237-8231",
+    "E-mail Comercial": "EMPECOLTDA@GMAIL.COM",
+    "Website": "www.empeco.com.br"
+  },
+  {
+    "Nome Fantasia": "SETE EMPREENDIMENTOS",
+    "Município": "Matões do Norte",
+    "Endereço Completo Comercial": "AVENIDA DO COMERCIO 867 Matões do Norte",
+    "Telefone Comercial": "(98)9107-6415",
+    "E-mail Comercial": "SETEIMPRESSOS@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TV CIDADE",
+    "Município": "Miranda do Norte",
+    "Endereço Completo Comercial": "RUA DUQUE DE CAXIAS 18 Miranda do Norte",
+    "Telefone Comercial": "(98)8521-8898",
+    "E-mail Comercial": "TVCIDADE@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "IOS EMPREENDIMENTOS",
+    "Município": "Matões do Norte",
+    "Endereço Completo Comercial": "RUA 05  12 - CONUNTO NACIONAL I - CENTRO  Matões do Norte",
+    "Telefone Comercial": "(98)8415-5514",
+    "E-mail Comercial": "grupoiosempreendimentos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "PARQUE E HARAS SAO PEDRO",
+    "Município": "Governador Edison Lobão",
+    "Endereço Completo Comercial": "lado esquerdo da br010  Governador Edison Lobão",
+    "Telefone Comercial": "(99)8432-7227",
+    "E-mail Comercial": "FINANCEIRO@RDCCONSTRUTORA.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CALDAS COMUNICACOES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Edifício Metropolitan   Avenida dos Holandeses Quadra 33 sala 902 - 9 andar - Calhau São Luís Calhau CEP: 65071380 MA",
+    "Telefone Comercial": "(98)99207-0641",
+    "E-mail Comercial": "caldascomunicacao13@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ARMARINHO EDULINE",
+    "Município": "São João do Soter",
+    "Endereço Completo Comercial": "avenida esperança centro 2020 São João do Soter",
+    "Telefone Comercial": "(99)9901-8708",
+    "E-mail Comercial": "GILVANAEL@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CWDR PROMOCOES",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São José  São Luís São Bernardo CEP: 65056230 MA",
+    "Telefone Comercial": "(98)98221-3826",
+    "E-mail Comercial": "claudinhocdss@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "ARENA NB",
+    "Município": "Viana",
+    "Endereço Completo Comercial": "Rodovia MA-014 502-A Viana",
+    "Telefone Comercial": "(98)98292-8298",
+    "E-mail Comercial": "arenanetobastos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "TOCA DO NEGUIM",
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "RUA SÃO FRANCISCO S/Nº Grajaú",
+    "Telefone Comercial": "(99)8420-8040",
+    "E-mail Comercial": "ADRIANOAC262.AAC@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "VILLA DOS LENCOIS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "das Graúnas  São Luís Jardim Renascença CEP: 65075190 MA",
+    "Telefone Comercial": "(98)8821-4443",
+    "E-mail Comercial": "ELINALDOCONTABILIDADE@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "MS PRODUCOES E EVENTOS",
+    "Município": "Santo Amaro do Maranhão",
+    "Endereço Completo Comercial": "RUA TOMAZ AZEVEDO  SN Santo Amaro do Maranhão",
+    "Telefone Comercial": "(98)8526-9225",
+    "E-mail Comercial": "JOHN.CONTABILIDADE@OUTLOOK.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "LENNO PRODUTOR",
+    "Município": "Presidente Juscelino",
+    "Endereço Completo Comercial": "povoado boa vista dos pinhos  Presidente Juscelino",
+    "Telefone Comercial": "(98)8100-1222",
+    "E-mail Comercial": "ALDOLENO0@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "A C EMPREENDIMENTOS",
+    "Município": "Vitória do Mearim",
+    "Endereço Completo Comercial": "AV DA COHAB 100/BAIRRO NOVO Vitória do Mearim",
+    "Telefone Comercial": "(98)8415-8091",
+    "E-mail Comercial": "acempreendimentos1997@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FAROESTE PUB",
+    "Município": "Morros",
+    "Endereço Completo Comercial": "AVENIDA JOSÉ LOPES DE SOUSA- CENTRO 28 Morros",
+    "Telefone Comercial": "(98)9963-5944",
+    "E-mail Comercial": "FINANCEIRO@METTOS.COM.BR",
     "Website": "-"
   },
   {
@@ -371,1131 +824,153 @@
     "Website": "-"
   },
   {
-    "Nome Fantasia": "CASTELO BRANCO SERVIÇOS CORPORATIVOS",
-    "Município": "Trizidela do Vale",
-    "Endereço Completo Comercial": "RUA SANTO ANTONIO 113  SALA 01 Trizidela do Vale",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98142-0098",
-    "E-mail Comercial": "orlandocastelobranco@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "JM PRODUCOES E EVENTOS",
-    "Munic�pio": "Itapecuru Mirim",
-    "Endere�o Completo Comercial": "Rua do Piquizeiro  N� 10  Avia��o Anexo A  Sala 03 Itapecuru Mirim",
-    "Telefone Comercial": "(98)8152-9940",
-    "E-mail Comercial": "MAGYLACHAVES@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "A R C Tavares Me",
-    "Munic�pio": "Ros�rio",
-    "Endere�o Completo Comercial": "Travessa Coronel Jose Leite  29 casa Ros�rio",
-    "Telefone Comercial": "(98)3345-2612",
-    "E-mail Comercial": "alaimrogerio.tavares@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ILHA PROMOCOES E EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a 412  loja 14 S�o Lu�s Turu CEP: 65065470 MA",
-    "Telefone Comercial": "(98)8749-3310",
-    "E-mail Comercial": "ILHAPROMOCOES@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ME LEVA",
-    "Munic�pio": "Alto Alegre do Maranh�o",
-    "Endere�o Completo Comercial": "Rua Santa Helena - 20 A  Alto Alegre do Maranh�o",
-    "Telefone Comercial": "(99)3638-1214",
-    "E-mail Comercial": "melevaempreendimentos@gmail.com",
-    "Website": "-"
-  },
-  {
-<<<<<<< HEAD
-    "Nome Fantasia": "DIN�MICA EMPREENDIMENTOS",
-    "Munic�pio": "Miranda do Norte",
-    "Endere�o Completo Comercial": "CENTRO S/N Miranda do Norte",
-=======
-    "Nome Fantasia": "DINÂMICA EMPREENDIMENTOS",
-    "Município": "Miranda do Norte",
-    "Endereço Completo Comercial": "CENTRO S/N Miranda do Norte",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)97027-2017",
-    "E-mail Comercial": "DINAMICAEMPRESARIAL338@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "FABRICA DE SONHOS",
-    "Munic�pio": "Ros�rio",
-    "Endere�o Completo Comercial": "Travessa Doutor Jose Domingues pr�ximo a Escola Mundo Encantado Ros�rio",
-    "Telefone Comercial": "(98)3345-3248",
-    "E-mail Comercial": "phabyo_wex@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LARACEL PROMOTORA DE EVENTOS E TURISMO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Caminho da Boiada 388 apartamento 06 S�o Lu�s Centro CEP: 65025200 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Caminho da Boiada 388 apartamento 06 São Luís Centro CEP: 65025200 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)99991-7570",
-    "E-mail Comercial": "joaoguiatour.ma@hotmail.com.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CHALE RECANTO DAS AGUAS",
-    "Munic�pio": "Concei��o do Lago-A�u",
-    "Endere�o Completo Comercial": "Rua Rosilda  10 - Centro  Concei��o do Lago-A�u",
-    "Telefone Comercial": "(98)8800-4697",
-    "E-mail Comercial": "juarildotomas@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "JM FESTAS",
-<<<<<<< HEAD
-    "Munic�pio": "Cantanhede",
-    "Endere�o Completo Comercial": "Av  Rio Branco 30 Cantanhede",
-=======
-    "Município": "Cantanhede",
-    "Endereço Completo Comercial": "Av  Rio Branco 30 Cantanhede",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8437-5878",
-    "E-mail Comercial": "turismo@cantanhede.ma.gov.br",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "A S A PRODUCOES SHOWS E EVENTOS",
-    "Munic�pio": "Itinga do Maranh�o",
-    "Endere�o Completo Comercial": "Entretenimento  Itinga do Maranh�o",
-    "Telefone Comercial": "(99)99163-9151",
-    "E-mail Comercial": "turismoitinga@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TAMA PRODUCOES",
-    "Munic�pio": "Graja�",
-    "Endere�o Completo Comercial": "Rua Santa Catarina  140  Graja�",
-    "Telefone Comercial": "(99)99103-2311",
-    "E-mail Comercial": "tamagrajau@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "POUSADA RIO GRAJAU",
-<<<<<<< HEAD
-    "Munic�pio": "Graja�",
-    "Endere�o Completo Comercial": "Rua Sete de Setembro  26  Graja�",
-=======
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "Rua Sete de Setembro  26  Grajaú",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)9158-1030",
-    "E-mail Comercial": "GABIKAB566@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "V3 TURISMO E EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Lago da Pedra",
-    "Endere�o Completo Comercial": "RUA MANGUEIRA  PLANALTO 4 QD 1 Lago da Pedra",
-=======
-    "Município": "Lago da Pedra",
-    "Endereço Completo Comercial": "RUA MANGUEIRA  PLANALTO 4 QD 1 Lago da Pedra",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98410-5808",
-    "E-mail Comercial": "v3turismo@hotmail.com",
-    "Website": "http://www.instagram.com.br/v3turismo"
-  },
-  {
-<<<<<<< HEAD
-    "Nome Fantasia": "Valderi Mendon�a Promo��es",
-    "Munic�pio": "Cod�",
-    "Endere�o Completo Comercial": "Rua Bar�o do Rio Branco n�2536B  Cod�",
-=======
-    "Nome Fantasia": "Valderi Mendonça Promoções",
-    "Município": "Codó",
-    "Endereço Completo Comercial": "Rua Barão do Rio Branco nº2536B  Codó",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)3621-2681",
-    "E-mail Comercial": "vmpeventos@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "W R COMERCIO E SERVICO",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Seis  S�o Lu�s Forquilha CEP: 65054100 MA",
-    "Telefone Comercial": "(98)98520-2007",
-    "E-mail Comercial": "COMERCIOESERVICOWR@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LIROCH DOCES",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Sete  S�o Lu�s Cohatrac IV CEP: 65054650 MA",
-    "Telefone Comercial": "(98)98889-6213",
-    "E-mail Comercial": "lirochturismo@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "W  W  J PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "Pedreiras",
-    "Endere�o Completo Comercial": "RUA DOS GIRASSOIS  CASA N� 03  CONJUNTO PRIMAVERA PEDREIRAS-MA CONJUNTO PRIMAVERA Pedreiras",
-=======
-    "Município": "Pedreiras",
-    "Endereço Completo Comercial": "RUA DOS GIRASSOIS  CASA Nº 03  CONJUNTO PRIMAVERA PEDREIRAS-MA CONJUNTO PRIMAVERA Pedreiras",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98115-7545",
-    "E-mail Comercial": "wilfrancosta@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "K & S SERVICOS DE ASSESSORIA",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Deputado Raimundo Leal  S�o Lu�s Jardim Eldorado CEP: 65066635 MA",
-    "Telefone Comercial": "(98)8189-0910",
-    "E-mail Comercial": "finessecerimonialma@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "REVISTA MARANHAO TURISMO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Castelo Branco - lado �mpar S�o Lu�s S�o Francisco CEP: 65076090 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Castelo Branco - lado ímpar São Luís São Francisco CEP: 65076090 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3302-8526",
-    "E-mail Comercial": "R.M.CONTABILIDADE@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "FUJA DA ROTINA",
-<<<<<<< HEAD
-    "Munic�pio": "Santa Luzia",
-    "Endere�o Completo Comercial": "Rua S�o jose 362 Santa Luzia",
-=======
-    "Município": "Santa Luzia",
-    "Endereço Completo Comercial": "Rua São jose 362 Santa Luzia",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8418-9633",
-    "E-mail Comercial": "pagseguroperfumes@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GAMA ADVENTURE",
-    "Munic�pio": "Imperatriz",
-    "Endere�o Completo Comercial": "S�o Francisco  Imperatriz Vila Lob�o CEP: 65910170 MA",
-    "Telefone Comercial": "(99)9905-6919",
-    "E-mail Comercial": "ADAILTONGAMA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "KITS FESTAS DECORACOES",
-<<<<<<< HEAD
-    "Munic�pio": "Guimar�es",
-    "Endere�o Completo Comercial": "NOVA VILA  Guimar�es",
-=======
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "NOVA VILA  Guimarães",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8329-6070",
-    "E-mail Comercial": "IAGOA2487@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GH EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Currupi�es  S�o Lu�s Jardim Renascen�a CEP: 65075140 MA",
-    "Telefone Comercial": "(98)8125-0499",
-    "E-mail Comercial": "atendimento.gheventos@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MARE DE POROROCA TURISMO E EVENTOS",
-    "Munic�pio": "Arari",
-    "Endere�o Completo Comercial": "rua Pedro Leandro Fernandes n 41 Arari",
-    "Telefone Comercial": "(98)98402-4211",
-    "E-mail Comercial": "tacitalima79@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PADUA PRODUCOES E EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "15 (Unidade 203) S�o Lu�s Cidade Oper�ria CEP: 65058166 MA",
-    "Telefone Comercial": "(98)8751-5267",
-    "E-mail Comercial": "PADUAPRODUCOES17@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "G LELIS PRODUCOES E EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "H  S�o Lu�s Cohatrac I CEP: 65053650 MA",
-    "Telefone Comercial": "(98)9884-6408",
-    "E-mail Comercial": "LELLYSDESING@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "GRUPO GENESIS SONORIZACAO",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Jo�o Henrique  S�o Lu�s Centro CEP: 65015210 MA",
-    "Telefone Comercial": "(98)8730-4775",
-    "E-mail Comercial": "JM3264546@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SANTOS COMERCIO EIRELI",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Rocha Pombo  S�o Lu�s Vila Passos CEP: 65025750 MA",
-    "Telefone Comercial": "(98)8865-0852",
-    "E-mail Comercial": "THATIANE2014@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "E J FILHO COMERCIO EIRELI",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Paulo Frontin  S�o Lu�s Monte Castelo CEP: 65031360 MA",
-    "Telefone Comercial": "(98)9860-5268",
-    "E-mail Comercial": "EXPEDITOFIRMA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CLM WEDDING DESTINATION",
-    "Munic�pio": "Barreirinhas",
-    "Endere�o Completo Comercial": "Centro  Barreirinhas",
-    "Telefone Comercial": "(98)8613-5341",
-    "E-mail Comercial": "eventoscerimonialle@gmail.com",
-    "Website": "https://www.casandonoslencoismaranhenses.com/"
-  },
-  {
-    "Nome Fantasia": "H7 EMPREENDIMENTOS & SERVICOS",
-    "Munic�pio": "Alto Alegre do Maranh�o",
-    "Endere�o Completo Comercial": "RUA MANOEL AUGUSTO FILHO 24 Alto Alegre do Maranh�o",
-    "Telefone Comercial": "(98)8462-9319",
-    "E-mail Comercial": "h7empreendimentos@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DHAMAS CERIMONIAL E EVENTOS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "da Vila Bessa  S�o Lu�s Vila Bessa CEP: 65015000 MA",
-    "Telefone Comercial": "(98)9903-0897",
-    "E-mail Comercial": "layna.larissa@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "OUI LA VIE",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "da Enfermagem  S�o Lu�s Cohafuma CEP: 65074840 MA",
-    "Telefone Comercial": "(98)9213-7619",
-    "E-mail Comercial": "LMLCONT@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "EPC INOVACOES TECNOLOGICAS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Jos� Sarney 20-B QD 227 S�o Lu�s Jardim S�o Crist�v�o CEP: 65055300 MA",
-    "Telefone Comercial": "(98)3237-8231",
-    "E-mail Comercial": "EMPECOLTDA@GMAIL.COM",
-    "Website": "www.empeco.com.br"
-  },
-  {
-    "Nome Fantasia": "SETE EMPREENDIMENTOS",
-    "Munic�pio": "Mat�es do Norte",
-    "Endere�o Completo Comercial": "AVENIDA DO COMERCIO 867 Mat�es do Norte",
-    "Telefone Comercial": "(98)9107-6415",
-    "E-mail Comercial": "SETEIMPRESSOS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TV CIDADE",
-    "Munic�pio": "Miranda do Norte",
-    "Endere�o Completo Comercial": "RUA DUQUE DE CAXIAS 18 Miranda do Norte",
-    "Telefone Comercial": "(98)8521-8898",
-    "E-mail Comercial": "TVCIDADE@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "IOS EMPREENDIMENTOS",
-    "Munic�pio": "Mat�es do Norte",
-    "Endere�o Completo Comercial": "RUA 05  12 - CONUNTO NACIONAL I - CENTRO  Mat�es do Norte",
-    "Telefone Comercial": "(98)8415-5514",
-    "E-mail Comercial": "grupoiosempreendimentos@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "PARQUE E HARAS SAO PEDRO",
-    "Munic�pio": "Governador Edison Lob�o",
-    "Endere�o Completo Comercial": "lado esquerdo da br010  Governador Edison Lob�o",
-    "Telefone Comercial": "(99)8432-7227",
-    "E-mail Comercial": "FINANCEIRO@RDCCONSTRUTORA.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CALDAS COMUNICACOES",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Edif�cio Metropolitan   Avenida dos Holandeses Quadra 33 sala 902 - 9 andar - Calhau S�o Lu�s Calhau CEP: 65071380 MA",
-    "Telefone Comercial": "(98)99207-0641",
-    "E-mail Comercial": "caldascomunicacao13@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ARMARINHO EDULINE",
-    "Munic�pio": "S�o Jo�o do Soter",
-    "Endere�o Completo Comercial": "avenida esperan�a centro 2020 S�o Jo�o do Soter",
-    "Telefone Comercial": "(99)9901-8708",
-    "E-mail Comercial": "GILVANAEL@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CWDR PROMOCOES",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Jos�  S�o Lu�s S�o Bernardo CEP: 65056230 MA",
-    "Telefone Comercial": "(98)98221-3826",
-    "E-mail Comercial": "claudinhocdss@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ARENA NB",
-    "Munic�pio": "Viana",
-    "Endere�o Completo Comercial": "Rodovia MA-014 502-A Viana",
-    "Telefone Comercial": "(98)98292-8298",
-    "E-mail Comercial": "arenanetobastos@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "L C SERVICOS E EMPREENDIMENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "das Samambaias  S�o Lu�s Jardim Renascen�a CEP: 65075640 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "das Samambaias  São Luís Jardim Renascença CEP: 65075640 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8194-6165",
-    "E-mail Comercial": "NIKSIMOES@YAHOO.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "TOCA DO NEGUIM",
-    "Munic�pio": "Graja�",
-    "Endere�o Completo Comercial": "RUA S�O FRANCISCO S/N� Graja�",
-    "Telefone Comercial": "(99)8420-8040",
-    "E-mail Comercial": "ADRIANOAC262.AAC@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VILLA DOS LENCOIS",
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "das Gra�nas  S�o Lu�s Jardim Renascen�a CEP: 65075190 MA",
-    "Telefone Comercial": "(98)8821-4443",
-    "E-mail Comercial": "ELINALDOCONTABILIDADE@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MS PRODUCOES E EVENTOS",
-    "Munic�pio": "Santo Amaro do Maranh�o",
-    "Endere�o Completo Comercial": "RUA TOMAZ AZEVEDO  SN Santo Amaro do Maranh�o",
-    "Telefone Comercial": "(98)8526-9225",
-    "E-mail Comercial": "JOHN.CONTABILIDADE@OUTLOOK.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VICTORIA & OLIVEIRA ASSOCIADOS ME",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Doutor Manoel Godinho 103  BLOCO 5  CONDOM�NIO FIT VIVARE S�o Lu�s IPEM Turu CEP: 65065689 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Doutor Manoel Godinho 103  BLOCO 5  CONDOMÍNIO FIT VIVARE São Luís IPEM Turu CEP: 65065689 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)93500-9713",
-    "E-mail Comercial": "SAC@MGCO.COM.BR",
-    "Website": "www.mgco.com.br"
-  },
-  {
-    "Nome Fantasia": "LENNO PRODUTOR",
-    "Munic�pio": "Presidente Juscelino",
-    "Endere�o Completo Comercial": "povoado boa vista dos pinhos  Presidente Juscelino",
-    "Telefone Comercial": "(98)8100-1222",
-    "E-mail Comercial": "ALDOLENO0@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "A C EMPREENDIMENTOS",
-    "Munic�pio": "Vit�ria do Mearim",
-    "Endere�o Completo Comercial": "AV DA COHAB 100/BAIRRO NOVO Vit�ria do Mearim",
-    "Telefone Comercial": "(98)8415-8091",
-    "E-mail Comercial": "acempreendimentos1997@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "FAROESTE PUB",
-    "Munic�pio": "Morros",
-    "Endere�o Completo Comercial": "AVENIDA JOS� LOPES DE SOUSA- CENTRO 28 Morros",
-    "Telefone Comercial": "(98)9963-5944",
-    "E-mail Comercial": "FINANCEIRO@METTOS.COM.BR",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "HEBEL SOM",
-    "Munic�pio": "Lima Campos",
-    "Endere�o Completo Comercial": "Avenida Juscelino Kubitscher 380 Lima Campos",
+    "Município": "Lima Campos",
+    "Endereço Completo Comercial": "Avenida Juscelino Kubitscher 380 Lima Campos",
     "Telefone Comercial": "(99)3642-2514",
     "E-mail Comercial": "hebelsom@hotmail.com",
     "Website": "-"
   },
   {
+    "Nome Fantasia": "FARA LOCACOES E EVENTOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Cônego Tavares 481 São Luís Anil CEP: 65045240 MA",
+    "Telefone Comercial": "(98)3268-4147",
+    "E-mail Comercial": "administrativo@fralocacoes.com.br",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "BX EMPREENDIMENTOS E SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "Mat�es do Norte",
-    "Endere�o Completo Comercial": "AVENIDA SN Miranda do Norte",
-=======
-    "Município": "Matões do Norte",
+    "Município": "Miranda do Norte",
     "Endereço Completo Comercial": "AVENIDA SN Miranda do Norte",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8554-6888",
     "E-mail Comercial": "BXEMPREENDIMENTOS42@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "FC EVENTOS E PRODUCOES",
-    "Munic�pio": "Santa Helena",
-    "Endere�o Completo Comercial": "Rua Jos� Buneth 834 Santa Helena",
+    "Município": "Santa Helena",
+    "Endereço Completo Comercial": "Rua José Buneth 834 Santa Helena",
     "Telefone Comercial": "(98)8404-6071",
     "E-mail Comercial": "ARCANJOFAM@OUTLOOK.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "TREVO SERVICOS",
-    "Munic�pio": "Primeira Cruz",
-    "Endere�o Completo Comercial": "RUA JOSE BONIFACIO 113 CENTRO Primeira Cruz",
+    "Município": "Primeira Cruz",
+    "Endereço Completo Comercial": "RUA JOSE BONIFACIO 113 CENTRO Primeira Cruz",
     "Telefone Comercial": "(98)99161-8403",
     "E-mail Comercial": "TREVOBMSR@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "BEACH BAR",
-    "Munic�pio": "Barreirinhas",
-    "Endere�o Completo Comercial": "AV BEIRA MAR SN  ATINS Barreirinhas",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "AV BEIRA MAR SN  ATINS Barreirinhas",
     "Telefone Comercial": "(11)8254-3683",
     "E-mail Comercial": "BRUNO.ANTONI.PRADO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "OTHIMUS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Rio Mearim (Res Ana Jansen) S�o Lu�s Ilhinha CEP: 65076653 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "Rio Mearim (Res Ana Jansen) São Luís Ilhinha CEP: 65076653 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3227-2264",
     "E-mail Comercial": "othimusempreendimentos@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GIM MARQUES SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "Santa Luzia",
-    "Endere�o Completo Comercial": "AV TABAJARA 02  QUADRA024 CENTRO  SANTA LUZIA/MA Santa Luzia",
-=======
     "Município": "Santa Luzia",
     "Endereço Completo Comercial": "AV TABAJARA 02  QUADRA024 CENTRO  SANTA LUZIA/MA Santa Luzia",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8277-4623",
     "E-mail Comercial": "marques.igim@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "EGGO'S MALHARIA E SERIGRAFIA",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Sebasti�o 68 S�o Lu�s Cruzeiro do Anil CEP: 65060700 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "São Sebastião 68 São Luís Cruzeiro do Anil CEP: 65060700 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)3225-2378",
     "E-mail Comercial": "marcos_melo_leal@hotmail.com",
     "Website": "-"
   },
   {
+    "Nome Fantasia": "FUJA DA ROTINA",
+    "Município": "Santa Luzia",
+    "Endereço Completo Comercial": "Rua São jose 362 Santa Luzia",
+    "Telefone Comercial": "(98)8418-9633",
+    "E-mail Comercial": "pagseguroperfumes@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "OITO RESTAURANTE",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "av avicenia 1 S�o Lu�s Jardim Renascen�a CEP: 65075441 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "av avicenia 1 São Luís Jardim Renascença CEP: 65075441 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8783-5562",
     "E-mail Comercial": "jaciratriunfo@hotmail.com",
     "Website": "-"
   },
   {
+    "Nome Fantasia": "VICTORIA & OLIVEIRA ASSOCIADOS ME",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Doutor Manoel Godinho 103  BLOCO 5  CONDOMÍNIO FIT VIVARE São Luís IPEM Turu CEP: 65065689 MA",
+    "Telefone Comercial": "(98)93500-9713",
+    "E-mail Comercial": "SAC@MGCO.COM.BR",
+    "Website": "www.mgco.com.br"
+  },
+  {
+    "Nome Fantasia": "BENU VIAGENS & TURISMO",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Petrônio Portela  65 São Luís Vera Cruz CEP: 65047760 MA",
+    "Telefone Comercial": "(99)98520-0297",
+    "E-mail Comercial": "benuviagenseturismo@gmail.com",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "MARI EVENTOS E VARIEDADES",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Pedro 4 S�o Lu�s Jo�o de Deus CEP: 65057430 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "São Pedro 4 São Luís João de Deus CEP: 65057430 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8899-2988",
     "E-mail Comercial": "MARIZETEBCARVALHO@GMAIL.COM",
     "Website": "-"
   },
   {
     "Nome Fantasia": "GLOBAL MUSIC",
-<<<<<<< HEAD
-    "Munic�pio": "Pedreiras",
-    "Endere�o Completo Comercial": "RUA ABILIO MONTEIRO  1020 Pedreiras",
-=======
     "Município": "Pedreiras",
     "Endereço Completo Comercial": "RUA ABILIO MONTEIRO  1020 Pedreiras",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)9244-2600",
     "E-mail Comercial": "globalmusic.world@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "CASARAO ENTRETENIMENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Imperatriz",
-    "Endere�o Completo Comercial": "S�o Domingos  Imperatriz Centro CEP: 65900130 MA",
-=======
     "Município": "Imperatriz",
     "Endereço Completo Comercial": "São Domingos  Imperatriz Centro CEP: 65900130 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(99)8129-0096",
     "E-mail Comercial": "clezio@gmail.com",
     "Website": "-"
   },
   {
     "Nome Fantasia": "MASAPE ONLINE",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "das Siriemas  S�o Lu�s Jardim Renascen�a CEP: 65075390 MA",
-=======
     "Município": "São Luís",
     "Endereço Completo Comercial": "das Siriemas  São Luís Jardim Renascença CEP: 65075390 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
     "Telefone Comercial": "(98)8425-2059",
     "E-mail Comercial": "FRANCISCAMASAPE@HOTMAIL.COM",
     "Website": "-"
   },
   {
-    "Nome Fantasia": "MR PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Melvin Jones  S�o Lu�s Apicum CEP: 65025610 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Melvin Jones  São Luís Apicum CEP: 65025610 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)3303-3268",
-    "E-mail Comercial": "muriloribeiromr3@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DI BRINCADEIRA RECREACAO",
-<<<<<<< HEAD
-    "Munic�pio": "Balsas",
-    "Endere�o Completo Comercial": "rua benedito leite 170 Balsas",
-=======
-    "Município": "Balsas",
-    "Endereço Completo Comercial": "rua benedito leite 170 Balsas",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)3541-0018",
-    "E-mail Comercial": "DIBRINCADEIRARECREACAO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "AMAZON TUR",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Bidico Rodrigues  S�o Lu�s Cohama CEP: 65074060 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Bidico Rodrigues  São Luís Cohama CEP: 65074060 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8406-3210",
-    "E-mail Comercial": "ROSEANE_MAIA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DJ ALLEXX ENTRETENIMENTOS E EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Tut�ia",
-    "Endere�o Completo Comercial": "Rua Magalh�es de Almeida 312 Tut�ia",
-=======
-    "Município": "Tutóia",
-    "Endereço Completo Comercial": "Rua Magalhães de Almeida 312 Tutóia",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98885-5804",
-    "E-mail Comercial": "DJALEX2@GMAIL.COM",
-    "Website": "https://www.instagram.com/djallexxlima/"
-  },
-  {
-    "Nome Fantasia": "EDUARDA BARROS CERIMONIAL & EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Imperatriz",
-    "Endere�o Completo Comercial": "S�o Francisco  Imperatriz Nova Imperatriz CEP: 65907050 MA",
-=======
-    "Município": "Imperatriz",
-    "Endereço Completo Comercial": "São Francisco  Imperatriz Nova Imperatriz CEP: 65907050 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)9136-7333",
-    "E-mail Comercial": "eduardabst@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MALVIN EMPRESARIAL",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "das Andirobas 18  Quadra-44 S�o Lu�s Jardim Renascen�a CEP: 65075040 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "das Andirobas 18  Quadra-44 São Luís Jardim Renascença CEP: 65075040 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98125-9105",
-    "E-mail Comercial": "contato@malvinempresarial.com.br",
-    "Website": "www.malvinempresarial.com.br"
-  },
-  {
-    "Nome Fantasia": "SABP SERVICOS E MANUTENCOES",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "da Borboleta 62 S�o Lu�s Anil CEP: 65045170 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "da Borboleta 62 São Luís Anil CEP: 65045170 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8706-2608",
-    "E-mail Comercial": "SILVIOABPEREIRA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RESTAURANTE SUSHIMY",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "dos Guar�s  S�o Lu�s Ponta do Farol CEP: 65077460 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "dos Guarás  São Luís Ponta do Farol CEP: 65077460 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8188-8888",
-    "E-mail Comercial": "PHLMOURA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "B & G COMERCIO E SERVICOS EIRELI",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Baixinha  S�o Lu�s Monte Castelo CEP: 65035040 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Baixinha  São Luís Monte Castelo CEP: 65035040 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9913-0777",
-    "E-mail Comercial": "BETOGOMESMA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "AVILA SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "Icatu",
-    "Endere�o Completo Comercial": "AV ADALBERTO LIMA 128 Icatu",
-=======
-    "Município": "Icatu",
-    "Endereço Completo Comercial": "AV ADALBERTO LIMA 128 Icatu",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8548-7972",
-    "E-mail Comercial": "FRANKBEY91@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "R DE FREITAS COMUNICACAO E PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "R  S�o Lu�s Cohatrac I CEP: 65053730 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "R  São Luís Cohatrac I CEP: 65053730 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9621-9112",
-    "E-mail Comercial": "rdefreitascomunicacao@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "NORTE VERDE",
-<<<<<<< HEAD
-    "Munic�pio": "Mat�es do Norte",
-    "Endere�o Completo Comercial": "CENTRO  Mat�es do Norte",
-=======
-    "Município": "Matões do Norte",
-    "Endereço Completo Comercial": "CENTRO  Matões do Norte",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)97027-2017",
-    "E-mail Comercial": "SISTEMANORTEVERDE@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "BAMBINOS PUBLICIDADES & EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Timon",
-    "Endere�o Completo Comercial": "Rural  Timon �rea Rural de Timon CEP: 65638899 MA",
-=======
-    "Município": "Timon",
-    "Endereço Completo Comercial": "Rural  Timon Área Rural de Timon CEP: 65638899 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(86)8806-4215",
-    "E-mail Comercial": "BABINOAMIGO@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "OS MENINOS DE BARAO",
-<<<<<<< HEAD
-    "Munic�pio": "Bar�o de Graja�",
-    "Endere�o Completo Comercial": "Ant�nio Pedro De Oliveira 162 Bar�o de Graja�",
-=======
-    "Município": "Barão de Grajaú",
-    "Endereço Completo Comercial": "Antônio Pedro De Oliveira 162 Barão de Grajaú",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(89)3521-1017",
-    "E-mail Comercial": "ATENDIMENTO@RRCONTAS.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SAGALOC",
-<<<<<<< HEAD
-    "Munic�pio": "Bacuri",
-    "Endere�o Completo Comercial": "RUA 02  Bacuri",
-=======
-    "Município": "Bacuri",
-    "Endereço Completo Comercial": "RUA 02  Bacuri",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8479-8803",
-    "E-mail Comercial": "SAGALOCSERVICOS@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VIAJE MAIS TURISMO E EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Um 20 S�o Lu�s Planalto Anil I CEP: 65050841 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Um 20 São Luís Planalto Anil I CEP: 65050841 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9913-6834",
-    "E-mail Comercial": "IGORMBPINHEIRO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "VERTENTE",
-<<<<<<< HEAD
-    "Munic�pio": "Itapecuru Mirim",
-    "Endere�o Completo Comercial": "Prof Antonio Olivio Rodrigues 335 Itapecuru Mirim",
-=======
-    "Município": "Itapecuru Mirim",
-    "Endereço Completo Comercial": "Prof Antonio Olivio Rodrigues 335 Itapecuru Mirim",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98465-8410",
-    "E-mail Comercial": "VERTENTETEENG.MA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "WB SOLUCOES E ENGENHARIA",
-<<<<<<< HEAD
-    "Munic�pio": "Vit�ria do Mearim",
-    "Endere�o Completo Comercial": "ROD BR 222 5 Vit�ria do Mearim",
-=======
-    "Município": "Vitória do Mearim",
-    "Endereço Completo Comercial": "ROD BR 222 5 Vitória do Mearim",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9181-7178",
-    "E-mail Comercial": "wbsolucoesengenharia22@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "J S PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Senador Vitorino Freire  S�o Lu�s Areinha CEP: 65030015 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Senador Vitorino Freire  São Luís Areinha CEP: 65030015 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8566-1896",
-    "E-mail Comercial": "DIRETORAINTERJANAINA@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Q  9 SERVICOS E ENTRETENIMENTO - ME",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jo�o dos Patos",
-    "Endere�o Completo Comercial": "Rua S� sobrinho 1232 S�o Jo�o dos Patos",
-=======
-    "Município": "São João dos Patos",
-    "Endereço Completo Comercial": "Rua Sá sobrinho 1232 São João dos Patos",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)8110-3717",
-    "E-mail Comercial": "nieltonfreitas@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CONSTRUTORA TALES",
-<<<<<<< HEAD
-    "Munic�pio": "Pedreiras",
-    "Endere�o Completo Comercial": "rua da corrente 1497  bairro diogo Pedreiras",
-=======
-    "Município": "Pedreiras",
-    "Endereço Completo Comercial": "rua da corrente 1497  bairro diogo Pedreiras",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98168-9482",
-    "E-mail Comercial": "ANDREEWLIMA27@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "DGR PRODUCOES  ONDE A QUALIDADE FALA MAIS ALTO",
-<<<<<<< HEAD
-    "Munic�pio": "Colinas",
-    "Endere�o Completo Comercial": "Avenida Jos� dos Reis 586 Colinas",
-=======
-    "Município": "Colinas",
-    "Endereço Completo Comercial": "Avenida José dos Reis 586 Colinas",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98113-4248",
-    "E-mail Comercial": "DGRPRODUCOES@GMAIL.COM",
-    "Website": "www.dgrproducoes.com.br"
-  },
-  {
-    "Nome Fantasia": "F DOS S MONTEIRO NETO COMERCIO E SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "av sao luis rei de franca 05 loja 01",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "av sao luis rei de franca 05 loja 01",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)99210-8302",
-    "E-mail Comercial": "awmaraujo@hotmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CENTRO CULTURAL CASA GAMELA",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Jos� de Ribamar",
-    "Endere�o Completo Comercial": "Cenrtro  S�o Jos� de Ribamar",
-=======
-    "Município": "São José de Ribamar",
-    "Endereço Completo Comercial": "Cenrtro  São José de Ribamar",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98601-0406",
-    "E-mail Comercial": "casagamelasjr@gmail.com",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "RC EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Porto Franco",
-    "Endere�o Completo Comercial": "Rua Ingarana - Bairro Alto Bonito  Porto Franco",
-=======
-    "Município": "Porto Franco",
-    "Endereço Completo Comercial": "Rua Ingarana - Bairro Alto Bonito  Porto Franco",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)8263-0934",
-    "E-mail Comercial": "RONIEL.ARTELIVRE@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "Produtora JC",
-<<<<<<< HEAD
-    "Munic�pio": "Porto Franco",
-    "Endere�o Completo Comercial": "Rua igarana 409 Porto Franco",
-=======
-    "Município": "Porto Franco",
-    "Endereço Completo Comercial": "Rua igarana 409 Porto Franco",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)8541-7652",
-    "E-mail Comercial": "JC.CULTURA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "B L EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Guimar�es",
-    "Endere�o Completo Comercial": "RUA SOTERO DOS REIS 1381 Guimar�es",
-=======
-    "Município": "Guimarães",
-    "Endereço Completo Comercial": "RUA SOTERO DOS REIS 1381 Guimarães",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8519-8546",
-    "E-mail Comercial": "DANNYSANTO80@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "LCI - PRUDUCOES&EVENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "Graja�",
-    "Endere�o Completo Comercial": "RUA SANTA EFIGENIA SN Graja�",
-=======
-    "Município": "Grajaú",
-    "Endereço Completo Comercial": "RUA SANTA EFIGENIA SN Grajaú",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)99224-1533",
-    "E-mail Comercial": "CRAIBA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "SAMBA DE REIS PRODUCOES",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Dois  S�o Lu�s Cohatrac IV CEP: 65054510 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Dois  São Luís Cohatrac IV CEP: 65054510 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8888-3431",
-    "E-mail Comercial": "MARLONREIS23@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MULU EMPREENDIMENTOS",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "S�o Lu�s Rei de Fran�a 23 (Posto Luciana) Jardim Eldorado S�o Lu�s Turu CEP: 65065470 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "São Luís Rei de França 23 (Posto Luciana) Jardim Eldorado São Luís Turu CEP: 65065470 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9218-3939",
-    "E-mail Comercial": "CONTATO@MESQUITACRUZ.COM.BR",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "KS PROMOVER",
-<<<<<<< HEAD
-    "Munic�pio": "Tut�ia",
-    "Endere�o Completo Comercial": "Travessa Jos� Veras 104 Tut�ia",
-=======
-    "Município": "Tutóia",
-    "Endereço Completo Comercial": "Travessa José Veras 104 Tutóia",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8522-9761",
-    "E-mail Comercial": "KAWANSTILLOSO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MONTART ENGENHARIA",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Martins Pena  S�o Lu�s Maranh�o Novo CEP: 65061250 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Martins Pena  São Luís Maranhão Novo CEP: 65061250 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98876-8145",
-    "E-mail Comercial": "MILBER_LIMA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "MM ENTRETENIMENTO",
-<<<<<<< HEAD
-    "Munic�pio": "Santa In�s",
-    "Endere�o Completo Comercial": "21 de Setembro 341 Santa In�s Sabbak CEP: 65306480 MA",
-=======
-    "Município": "Santa Inês",
-    "Endereço Completo Comercial": "21 de Setembro 341 Santa Inês Sabbak CEP: 65306480 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)8154-9436",
-    "E-mail Comercial": "MARCIANAMASCARENHAS28@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ENR COMERCIO E SERVICOS",
-<<<<<<< HEAD
-    "Munic�pio": "Coroat�",
-    "Endere�o Completo Comercial": "trav olavo bilac 105 Coroat�",
-=======
-    "Município": "Coroatá",
-    "Endereço Completo Comercial": "trav olavo bilac 105 Coroatá",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)8115-6001",
-    "E-mail Comercial": "ENRCOMERCIO@GMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "ARENA ADVENTURE'S",
-<<<<<<< HEAD
-    "Munic�pio": "Barra do Corda",
-    "Endere�o Completo Comercial": "Rua Pedro Caixa D�GUA 655 Barra do Corda",
-=======
-    "Município": "Barra do Corda",
-    "Endereço Completo Comercial": "Rua Pedro Caixa DÁGUA 655 Barra do Corda",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(99)98816-1231",
-    "E-mail Comercial": "JAIME.JCCONSULTORIA@HOTMAIL.COM",
-    "Website": "-"
-  },
-  {
-    "Nome Fantasia": "CREATIVE CREW - MARKETING CRIATIVO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Qu�opes 12 S�o Lu�s Jardim Renascen�a CEP: 65075800 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Quéopes 12 São Luís Jardim Renascença CEP: 65075800 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)98825-1234",
-    "E-mail Comercial": "concierge@maranatour.com",
-    "Website": "maratour.com"
-  },
-  {
-    "Nome Fantasia": "GPS ENTRETENIMENTO",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Mateus do Maranh�o",
-    "Endere�o Completo Comercial": "RUA PIAUI 06 S�o Mateus do Maranh�o",
-=======
-    "Município": "São Mateus do Maranhão",
-    "Endereço Completo Comercial": "RUA PIAUI 06 São Mateus do Maranhão",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)99603-0381",
-    "E-mail Comercial": "gpseventosltda@gmail.com",
-    "Website": "https://instagram.com/gps_eventos?igshid=NjIwNzIyMDk2Mg=="
-  },
-  {
-    "Nome Fantasia": "ZARPA",
-<<<<<<< HEAD
-    "Munic�pio": "S�o Lu�s",
-    "Endere�o Completo Comercial": "Nova  S�o Lu�s Turu CEP: 65066350 MA",
-=======
-    "Município": "São Luís",
-    "Endereço Completo Comercial": "Nova  São Luís Turu CEP: 65066350 MA",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(98)9975-3999",
-    "E-mail Comercial": "zarpaproducoes@gmail.com",
-    "Website": "-"
-  },
-  {
     "Nome Fantasia": "",
-    "Munic�pio": "",
-    "Endere�o Completo Comercial": "",
+    "Município": "",
+    "Endereço Completo Comercial": "",
     "Telefone Comercial": "",
     "E-mail Comercial": "",
     "Website": ""
   },
   {
     "Nome Fantasia": "",
-    "Munic�pio": "",
-    "Endere�o Completo Comercial": "",
+    "Município": "",
+    "Endereço Completo Comercial": "",
     "Telefone Comercial": "",
     "E-mail Comercial": "",
     "Website": ""

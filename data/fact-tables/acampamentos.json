@@ -1,23 +1,34 @@
 [
   {
+    "Nome Fantasia": "REFUGIO DO RAIZ CAMPING",
+    "Município": "Carolina",
+    "Endereço Completo Comercial": "Rua Canto Grande BR 010 230  Carolina",
+    "Telefone Comercial": "(99)9212-7277",
+    "E-mail Comercial": "ivyenne.matos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FAROL DA PRAIA E SERVICOS",
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São Marcos  São Luís São Marcos CEP: 65077310 MA",
+    "Telefone Comercial": "(98)3301-6033",
+    "E-mail Comercial": "JUNIORFIGUEIREDO2007@GMAIL.COM",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "POUSADA CANTO DA DUNA",
+    "Município": "Barreirinhas",
+    "Endereço Completo Comercial": "AV 31 DE MARÇO  160  Barreirinhas",
+    "Telefone Comercial": "(98)8723-2253",
+    "E-mail Comercial": "MARRY.LIMA123@HOTMAIL.COM",
+    "Website": "-"
+  },
+  {
     "Nome Fantasia": "CACHOEIRA DO MORCEGO",
-    "Munic�pio": "Graja�",
-    "Endere�o Completo Comercial": "Rod  MA 006 s/n�  Km 24 - Estancia Cachoeira do Morcego Graja�",
+    "Município": "Grajaú",
+    "Endereço Completo Comercial": "Rod  MA 006 s/n°  Km 24 - Estancia Cachoeira do Morcego Grajaú",
     "Telefone Comercial": "(99)98410-3577",
     "E-mail Comercial": "analuisabarros@live.com",
     "Website": "https://instagram.com/cachoeiradomorcego"
-  },
-  {
-    "Nome Fantasia": "KITE POINT ATINS",
-<<<<<<< HEAD
-    "Munic�pio": "Barreirinhas",
-    "Endere�o Completo Comercial": "Avenida Beira Mar  01 Barreirinhas",
-=======
-    "Município": "Barreirinhas",
-    "Endereço Completo Comercial": "Avenida Beira Mar  01 Barreirinhas",
->>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
-    "Telefone Comercial": "(91)8919-5382",
-    "E-mail Comercial": "RGS.CONTABILIDADE@HOTMAIL.COM",
-    "Website": "https://instagram.com/kitepointatins?igshid=YmMyMTA2M2Y="
   }
 ]

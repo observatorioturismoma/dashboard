@@ -1,0 +1,75 @@
+[
+  {
+    "Nome Fantasia": "PONTUAL TURISMO",
+    "Munic�pio": "S�o Lu�s",
+    "Endere�o Completo Comercial": "Coronel Colares Moreira  S�o Lu�s Jardim Renascen�a CEP: 65075441 MA",
+    "Telefone Comercial": "(98)3235-2317",
+    "E-mail Comercial": "michele@pontualturma.com.br",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "OTHIMUS",
+<<<<<<< HEAD
+    "Munic�pio": "S�o Lu�s",
+    "Endere�o Completo Comercial": "Ilhinha  S�o Lu�s S�o Francisco CEP: 65076735 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "Ilhinha  São Luís São Francisco CEP: 65076735 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(98)3227-2264",
+    "E-mail Comercial": "othimusempreendimentos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "FUJA DA ROTINA",
+<<<<<<< HEAD
+    "Munic�pio": "Santa Luzia",
+    "Endere�o Completo Comercial": "Rua S�o jose 362 Santa Luzia",
+=======
+    "Município": "Santa Luzia",
+    "Endereço Completo Comercial": "Rua São jose 362 Santa Luzia",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(98)8418-9633",
+    "E-mail Comercial": "pagseguroperfumes@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "SAGALOC",
+<<<<<<< HEAD
+    "Munic�pio": "Bacuri",
+    "Endere�o Completo Comercial": "RUA 02 27 Bacuri",
+=======
+    "Município": "Bacuri",
+    "Endereço Completo Comercial": "RUA 02 27 Bacuri",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(98)8479-8803",
+    "E-mail Comercial": "SAGALOCSERVICOS@GMAIL.COM",
+    "Website": "sagalocservicos@gmail.com"
+  },
+  {
+    "Nome Fantasia": "ME LEVA",
+<<<<<<< HEAD
+    "Munic�pio": "Alto Alegre do Maranh�o",
+    "Endere�o Completo Comercial": "RUA SANTA HELENA 20 Alto Alegre do Maranh�o",
+=======
+    "Município": "Alto Alegre do Maranhão",
+    "Endereço Completo Comercial": "RUA SANTA HELENA 20 Alto Alegre do Maranhão",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(99)99130-4899",
+    "E-mail Comercial": "melevaempreendimentos@gmail.com",
+    "Website": "-"
+  },
+  {
+    "Nome Fantasia": "CWDR PROMOCOES",
+<<<<<<< HEAD
+    "Munic�pio": "S�o Lu�s",
+    "Endere�o Completo Comercial": "S�o Jos�  S�o Lu�s S�o Bernardo CEP: 65056230 MA",
+=======
+    "Município": "São Luís",
+    "Endereço Completo Comercial": "São José  São Luís São Bernardo CEP: 65056230 MA",
+>>>>>>> a159a8d88d63b0156719a0c14b8a72070a6d4ecc
+    "Telefone Comercial": "(98)98982-2138",
+    "E-mail Comercial": "claudinhocdss@gmail.com",
+    "Website": "-"
+  }
+]
