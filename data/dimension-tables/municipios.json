@@ -16,7 +16,7 @@
   },
   {
     "municipio_id": 165,
-    "polo_id": 0,
+    "polo_id": 1,
     "municipio_nome": "Alcântara"
   },
   {
@@ -594,7 +594,7 @@
   },
   {
     "municipio_id": 198,
-    "polo_id": 0,
+    "polo_id": 6,
     "municipio_nome": "Mirinzal"
   },
   {
@@ -809,7 +809,7 @@
   },
   {
     "municipio_id": 115,
-    "polo_id": 0,
+    "polo_id": 7,
     "municipio_nome": "Santa Inês"
   },
   {
